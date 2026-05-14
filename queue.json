@@ -1,5 +1,27 @@
 {
   "version": "1.0",
-  "items": [],
-  "last_updated": "2026-05-15T03:55:00+08:00"
+  "items": [
+    {
+      "id": "c745fc91",
+      "submitted_at": "2026-05-14T20:10:31.879057",
+      "status": "pending",
+      "data": {
+        "tipo": "Audífonos",
+        "marca": "NEBRO",
+        "modelo": "WE-017",
+        "descripcion_raw": "Nebro\n\nGARANTIZADO\n\nSonido Excepcional Audífono Inalámbrico\n\n6 horas\n\n+20 horas\n\nWE-017\nNebro\n\nGARANTIZADO\n\nAudífono Inalámbrico\n\nNombre de emparejamiento: WE-017\n\nVersión de Bluetooth: 5.\n\nProtocolos de audio Bluetooth: HFP, HSP, AVRCP, SPP, PBAP, TWS+\n\nRango de alcance: 10M/33 pies\n\nTiempo de duración de carga en audifonos reproduciendo música: 6 horas\n\nTiempo de duración de carga en audifornos llamando: 5 horas\n\nLa carga de la bateria de los audifonos: 20 horas\n\nEntrada de carga: Tipo C\n\nTiempo necesario para cargar completamente los audifonos: 1 hora\n\nTiempo de carga para la caja de los audifonos: 2 horas\n\nFuente de alimentación de audifonos: Bateria de litio incorporada 3.7V/40m\n\nFuente de alimentación de la bateria de caja: Bateria de Litio incorporada 3.7V/260mAh\n\nMODELO: WE-017",
+        "precio_venta": 50.0,
+        "costo_producto": 10.0,
+        "peso_kg": 0.1,
+        "largo_cm": 50.0,
+        "ancho_cm": 20.0,
+        "alto_cm": 15.0
+      },
+      "seo_content": null,
+      "shopify_result": null,
+      "processed_at": null,
+      "error": null
+    }
+  ],
+  "last_updated": "2026-05-14T20:10:31.879086"
 }
