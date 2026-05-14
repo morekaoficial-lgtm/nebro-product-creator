@@ -85,15 +85,17 @@ with st.form("product_form", clear_on_submit=False):
     
     col1, col2 = st.columns(2)
     with col1:
-        tipo = st.selectbox(
-            "Tipo de producto *",
-            ["", "Cargador", "Bocina", "Power Bank", "Audífonos", "Smartwatch", "Linterna", "Cable / Accesorio", "Soporte", "Otro"],
-        )
+        tipo_options = ["", "Cargador", "Bocina", "Power Bank", "Audífonos", "Smartwatch", "Linterna", "Cable / Accesorio", "Soporte", "Otro (escribir)"]
+        tipo = st.selectbox("Tipo de producto *", tipo_options)
+        if tipo == "Otro (escribir)":
+            tipo_custom = st.text_input("Escribe el tipo de producto:", placeholder="Ej: Adaptador, Funda, Teclado...")
+            tipo = tipo_custom.strip() if tipo_custom else ""
     with col2:
-        marca = st.selectbox(
-            "Marca *",
-            ["", "Moreka", "G-tide", "FOL", "Otro"],
-        )
+        marca_options = ["", "Moreka", "G-tide", "FOL", "NEBRO", "Otro (escribir)"]
+        marca = st.selectbox("Marca *", marca_options)
+        if marca == "Otro (escribir)":
+            marca_custom = st.text_input("Escribe la marca:", placeholder="Ej: Samsung, Apple, Xiaomi...")
+            marca = marca_custom.strip() if marca_custom else ""
     
     modelo = st.text_input("Modelo *", placeholder="Ej: CP005, M-337, L22, etc.")
     
