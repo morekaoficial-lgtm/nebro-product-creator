@@ -4,7 +4,7 @@
     {
       "id": "c745fc91",
       "submitted_at": "2026-05-14T20:10:31.879057",
-      "status": "processing",
+      "status": "done",
       "data": {
         "tipo": "Audífonos",
         "marca": "NEBRO",
@@ -18,15 +18,19 @@
         "alto_cm": 15.0
       },
       "seo_content": null,
-      "shopify_result": null,
-      "processed_at": null,
+      "shopify_result": {
+        "product_id": 8293813420068,
+        "title": "Audífonos Bluetooth Inalámbricos NEBRO WE-017 | 26 Horas de Batería y Sonido Estéreo HD",
+        "admin_url": "https://nebro-shop.myshopify.com/admin/products/8293813420068"
+      },
+      "processed_at": "2026-05-15T04:36:40.354010",
       "error": null,
       "processing_started_at": "2026-05-15T04:15:02.717460"
     },
     {
       "id": "a9212453",
       "submitted_at": "2026-05-14T20:26:13.825067",
-      "status": "processing",
+      "status": "done",
       "data": {
         "tipo": "Audífonos",
         "marca": "NEBRO",
@@ -40,11 +44,15 @@
         "alto_cm": 8.0
       },
       "seo_content": null,
-      "shopify_result": null,
-      "processed_at": null,
+      "shopify_result": {
+        "product_id": 8293813485604,
+        "title": "Audífonos Bluetooth Inalámbricos NEBRO WE-016 | Cancelación de Ruido y Graves Profundos",
+        "admin_url": "https://nebro-shop.myshopify.com/admin/products/8293813485604"
+      },
+      "processed_at": "2026-05-15T04:36:40.354039",
       "error": null,
       "processing_started_at": "2026-05-15T04:30:02.935462"
     }
   ],
-  "last_updated": "2026-05-14T20:26:13.825092"
+  "last_updated": "2026-05-15T04:36:40.354043"
 }
