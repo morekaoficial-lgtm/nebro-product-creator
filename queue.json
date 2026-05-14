@@ -22,7 +22,28 @@
       "processed_at": null,
       "error": null,
       "processing_started_at": "2026-05-15T04:15:02.717460"
+    },
+    {
+      "id": "a9212453",
+      "submitted_at": "2026-05-14T20:26:13.825067",
+      "status": "pending",
+      "data": {
+        "tipo": "Audífonos",
+        "marca": "NEBRO",
+        "modelo": "WE-016",
+        "descripcion_raw": "Conexión inalámbrica de auriculares estéreo\n\nEN\n\nAuriculares estéreo Conexión inalámbrica\n\nFR\n\nAuriculares estéreo con conexión inalámbrica\n\nIT\n\nAuriculares estéreo Conexión inalámbrica\n\nPL\n\nAuriculares estéreo Pola con conexión inalámbrica\n\nUA\n\nAuriculares estéreo Unity Wireless con\n\nCANCELACIÓN DE RUIDO\n\nES\n\nAuriculares estereofónicos Conexión inalámbrica\n\nRU\n\nAuriculares estéreo Conexión inalámbrica\nAuriculares inalámbricos Premium con graves profundos\n\nSonido nítido y cristalino\n\n6\n\nnebro\n\nTebro\n\nTebro\n\nGraves profundos de primera calidad\n\nAuriculares inalámbricos\n\nLlamadas nítidas\n\nCancelación de ruido\n\n6\n\nWE-016\n\nInalámbrico V5.3\nTebro\n\nTebro\n\nGraves profundos de primera calidad\n\nAuriculares inalámbricos\n\nLlamadas nítidas\n\nCancelación de ruido\n\n6\n\nWE-016\n\nInalámbrico V5.3",
+        "precio_venta": 50.0,
+        "costo_producto": 5.0,
+        "peso_kg": 0.125,
+        "largo_cm": 5.0,
+        "ancho_cm": 10.0,
+        "alto_cm": 8.0
+      },
+      "seo_content": null,
+      "shopify_result": null,
+      "processed_at": null,
+      "error": null
     }
   ],
-  "last_updated": "2026-05-14T20:10:31.879086"
+  "last_updated": "2026-05-14T20:26:13.825092"
 }
