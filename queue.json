@@ -918,7 +918,7 @@
     {
       "id": "d1f4ee52",
       "submitted_at": "2026-05-15T17:41:06.494682",
-      "status": "processing",
+      "status": "done",
       "data": {
         "tipo": "Audífonos",
         "marca": "NEBRO",
@@ -932,11 +932,18 @@
         "alto_cm": 12.0
       },
       "seo_content": null,
-      "shopify_result": null,
-      "processed_at": null,
+      "shopify_result": {
+        "success": true,
+        "product_id": 8294358155300,
+        "handle": "audifonos-bluetooth-nebro-wet26-bluetooth-53-cancelacion-ruido",
+        "title": "Audífonos Bluetooth NEBRO WET26 Bluetooth 53 Cancelación Ruido",
+        "admin_url": "https://nebro-shop.myshopify.com/admin/products/8294358155300",
+        "variant_id": 44183891247140
+      },
+      "processed_at": "2026-05-16T01:46:39.867007",
       "error": null,
       "processing_started_at": "2026-05-16T01:45:03.314365"
     }
   ],
-  "last_updated": "2026-05-16T01:44:59.283603"
+  "last_updated": "2026-05-16T01:46:39.867837"
 }
