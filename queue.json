@@ -893,7 +893,28 @@
       "processed_at": null,
       "error": null,
       "processing_started_at": "2026-05-16T01:40:03.399489"
+    },
+    {
+      "id": "d1f4ee52",
+      "submitted_at": "2026-05-15T17:41:06.494682",
+      "status": "pending",
+      "data": {
+        "tipo": "Audífonos",
+        "marca": "NEBRO",
+        "modelo": "WE T26",
+        "descripcion_raw": "Especificaciones del producto -\n\nColor del producto: blanco\n\nVersión inalámbrica:V5.3\n\nDistancia de transmisión. >10 metros\n\nDiámetro del altavoz: 13 milímetros\n\nFrecuencia: 32 ohmios\n\nSensibilidad: 107±3dB\n\nMade in China\n\nRango de respuesta de frecuencia: 20-20 kHz\n\nCapacidad de la batería (caja de carga): 4.2V/300mAh\n\nCapacidad de carga (auricular): 4.2V/30mAh\n\nTiempo de carga (caja de carga): aproximadamente\n\n1.5 horas\n\nBLANCO\n\nLacaja de carga se puede usar para cargar los auriculares: aproximadamente 3 veces.\nPremium Deep Bass Wireless Earbuds With Crystal Clear Calls\n\nBT5.3\n\nCong sindhyme long battery life\n\nTaxy-Pairing Deep Bass for Sports\n\nT26\n\nFD Sound\n\nTouch Control\n\nLaute débnition\n\n(CZ)\n\nкалектуальные стервешушни\n\nплением, качествол\n\nLES\n\nAuritule esterno\n\nriculares estéreo ligentes con cancelación do calidad de vonido de\n\n[RU]\n\nFones de ouvido ettères com cancelamento de custo inteligente, qualidade de som de alta definição\n\nSTEREO EARPHONE\n\nWireless\nINTELLIGENT\n\nNOISE REDUCTION\n\nWIRELESS HEADPHONES\n\nLong standby time, long battery life-\n\nBT5.3\n\nWireless",
+        "precio_venta": 297.0,
+        "costo_producto": 9.0,
+        "peso_kg": 0.182,
+        "largo_cm": 12.0,
+        "ancho_cm": 5.0,
+        "alto_cm": 12.0
+      },
+      "seo_content": null,
+      "shopify_result": null,
+      "processed_at": null,
+      "error": null
     }
   ],
-  "last_updated": "2026-05-15T17:39:45.659083"
+  "last_updated": "2026-05-15T17:41:06.495026"
 }
