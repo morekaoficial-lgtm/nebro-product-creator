@@ -1324,7 +1324,7 @@
     {
       "id": "6de804dc",
       "submitted_at": "2026-05-15T23:00:09.832402",
-      "status": "processing",
+      "status": "done",
       "data": {
         "tipo": "Cable / Accesorio",
         "marca": "NEBRO",
@@ -1338,8 +1338,15 @@
         "alto_cm": 9.0
       },
       "seo_content": null,
-      "shopify_result": null,
-      "processed_at": null,
+      "shopify_result": {
+        "success": true,
+        "product_id": 8294627115044,
+        "handle": "cable-accesorio-bluetooth-nebro-wd312-7w-carga-rapida",
+        "title": "Cable / Accesorio Bluetooth NEBRO WD312 7W Carga Rápida",
+        "admin_url": "https://nebro-shop.myshopify.com/admin/products/8294627115044",
+        "variant_id": 44184769658916
+      },
+      "processed_at": "2026-05-16T07:14:46.693398",
       "error": null,
       "processing_started_at": "2026-05-16T07:05:03.820138"
     },
@@ -1366,5 +1373,5 @@
       "processing_started_at": "2026-05-16T07:05:03.820163"
     }
   ],
-  "last_updated": "2026-05-16T07:04:43.360284"
+  "last_updated": "2026-05-16T07:14:46.695313"
 }
