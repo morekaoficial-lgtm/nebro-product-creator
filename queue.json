@@ -591,7 +591,7 @@
     {
       "id": "3d9cfa51",
       "submitted_at": "2026-05-15T16:29:45.221137",
-      "status": "processing",
+      "status": "done",
       "data": {
         "tipo": "Audífonos",
         "marca": "NEBRO",
@@ -605,8 +605,15 @@
         "alto_cm": 10.0
       },
       "seo_content": null,
-      "shopify_result": null,
-      "processed_at": null,
+      "shopify_result": {
+        "success": true,
+        "product_id": 8294269681700,
+        "handle": "audifonos-bluetooth-nebro-t35-bluetooth-53-cancelacion-ruido",
+        "title": "Audífonos Bluetooth NEBRO T35 Bluetooth 53 Cancelación Ruido",
+        "admin_url": "https://nebro-shop.myshopify.com/admin/products/8294269681700",
+        "variant_id": 44183775182884
+      },
+      "processed_at": "2026-05-16T00:34:55.341424",
       "error": null,
       "processing_started_at": "2026-05-16T00:30:03.429903"
     },
@@ -632,5 +639,5 @@
       "error": null
     }
   ],
-  "last_updated": "2026-05-16T00:34:51.212385"
+  "last_updated": "2026-05-16T00:34:55.342058"
 }
