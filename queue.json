@@ -1233,7 +1233,28 @@
       "processed_at": "2026-05-16T06:24:41.128630",
       "error": null,
       "processing_started_at": "2026-05-16T06:15:03.712978"
+    },
+    {
+      "id": "1345a069",
+      "submitted_at": "2026-05-15T22:44:18.198087",
+      "status": "pending",
+      "data": {
+        "tipo": "Bocina",
+        "marca": "NEBRO",
+        "modelo": "WG-147",
+        "descripcion_raw": "mebro\n\nWG-147\n\nInstrucciones de operación:\n\n1. aparece: cuando el altavoz está encendido, el valor predeterminado es \"modo\", Bajo el \"modo\", asegúrese de que su teléfono u otro dispositivo \"Abre. Luego busque el nombre: \"Nebro WG-147\" y ábrelo. Después del éxito, puedes tocar música y disfrutarla.\n\n2: tarjeta TF: inserte la tarjeta TF y luego cambie al modo Tarjeta TF y reproducción de música.\n\n3: USB: inserte el controlador USB y luego cambie al modo USB Toca música.\n\n4: DC 5V: puerto de carga, utilice la línea de carga para cargar el dispositivo. Durante la carga, verá una luz roja cerca del puerto,\n\nEspecificaciones del producto:\n\nVersión: 5.3\n\nMaterial: ABS\n\nSoporte: tarjeta TF, FM, USB, TWS,\n\nAltavoces: 4 Omega/10W*1\n\nDistancia de trabajo: ≥ 10 m\n\nBatería: 3,7V, 1200mah\n\nTiempo de juego: 2 horas\n\nTiempo de carga: aproximadamente 2.5 horas\n\nCarga: 5V/1A\n\nTF-USB admite 32 GB\n\nPresione para abrir o cerrar\n\n\"Mantenga presionado el botón de encendido/apagado\n\n\"+\"\n\nPresione una canción durante un breve periodo\nVersión Inalámbrica 5.3\n\nD IPX5\n\nRuido Blanco\n\nBatería De Larga Duración\n\nCompatibilidad\n\nTWS\n\n10W\n\nPotencia de\n\nEnvolvente\n\nParámetros\n\nModelo: WG-147\n\nVersión de Inalámbrico: 5.3\n\nPotencia de salida: 10 W\n\nNivel de impermeabilidad: IPX5\n\nDuración de la batería: Tiempo de reproducción del altavoz: 2 h\n\nTiempo de carga: aproximadamente 2.5 horas\n\nDistancia de transmisión de Inalámbrico: ≥10 m\n\nCompatibilidad con Inalámbrico: Inalámbrico, USB, TF, TWS\n\nMODELO:WG-147\nnebro\n\nGARANTIZADO\n\n+\n\nFRÍA RGB ILUMINACIÓN\n\nBocina Portatil Para Exteriores,\n\nWG-147",
+        "precio_venta": 360.0,
+        "costo_producto": 120.0,
+        "peso_kg": 0.3,
+        "largo_cm": 11.0,
+        "ancho_cm": 10.0,
+        "alto_cm": 15.0
+      },
+      "seo_content": null,
+      "shopify_result": null,
+      "processed_at": null,
+      "error": null
     }
   ],
-  "last_updated": "2026-05-16T06:24:41.129409"
+  "last_updated": "2026-05-15T22:44:18.198120"
 }
