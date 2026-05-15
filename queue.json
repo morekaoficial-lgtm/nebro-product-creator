@@ -1092,7 +1092,7 @@
     {
       "id": "9b85db71",
       "submitted_at": "2026-05-15T20:11:53.998418",
-      "status": "processing",
+      "status": "done",
       "data": {
         "tipo": "Audífonos",
         "marca": "NEBRO",
@@ -1106,11 +1106,18 @@
         "alto_cm": 9.0
       },
       "seo_content": null,
-      "shopify_result": null,
-      "processed_at": null,
+      "shopify_result": {
+        "success": true,
+        "product_id": 8294570098724,
+        "handle": "audifonos-bluetooth-tws-nebro-we062-bluetooth-53-6-horas",
+        "title": "Audífonos Bluetooth TWS NEBRO WE062 Bluetooth 53 6 Horas",
+        "admin_url": "https://nebro-shop.myshopify.com/admin/products/8294570098724",
+        "variant_id": 44184594022436
+      },
+      "processed_at": "2026-05-16T04:24:37.838955",
       "error": null,
       "processing_started_at": "2026-05-16T04:15:03.826738"
     }
   ],
-  "last_updated": "2026-05-15T20:11:53.998442"
+  "last_updated": "2026-05-16T04:24:37.839407"
 }
