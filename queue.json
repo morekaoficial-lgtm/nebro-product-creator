@@ -1063,7 +1063,7 @@
     {
       "id": "ca4dfc82",
       "submitted_at": "2026-05-15T19:38:23.608665",
-      "status": "processing",
+      "status": "done",
       "data": {
         "tipo": "Audífonos",
         "marca": "NEBRO",
@@ -1077,11 +1077,18 @@
         "alto_cm": 10.0
       },
       "seo_content": null,
-      "shopify_result": null,
-      "processed_at": null,
+      "shopify_result": {
+        "success": true,
+        "product_id": 8294472613924,
+        "handle": "audifonos-bluetooth-tws-nebro-wet25s-bluetooth-53-cancelacion-ruido",
+        "title": "Audífonos Bluetooth TWS NEBRO WET25S Bluetooth 53 Cancelación Ruido",
+        "admin_url": "https://nebro-shop.myshopify.com/admin/products/8294472613924",
+        "variant_id": 44184413667364
+      },
+      "processed_at": "2026-05-16T03:44:43.563965",
       "error": null,
       "processing_started_at": "2026-05-16T03:40:03.792343"
     }
   ],
-  "last_updated": "2026-05-15T19:38:23.609024"
+  "last_updated": "2026-05-16T03:44:43.567285"
 }
