@@ -1654,7 +1654,28 @@
       "processed_at": null,
       "error": null,
       "processing_started_at": "2026-05-16T07:50:03.241598"
+    },
+    {
+      "id": "d44f4b04",
+      "submitted_at": "2026-05-15T23:50:56.939018",
+      "status": "pending",
+      "data": {
+        "tipo": "Cargador",
+        "marca": "NEBRO",
+        "modelo": "WB-156",
+        "descripcion_raw": "Tebro\n\n5000mAh...\n\n5000\n\nBATERÍA PORTÁTIL\n\nFUNLON LINTERNA\n\nWB-156\nCardün desmontable con cable de datos C-C\n\nCable integrada desmontable cable de carga cupida PD bidirections,costa T El table de datte se puede utar como cordón y también para vargar, para screocupaons\n\nFuncion de interna incorporada\n\nEl banse de energie movil con lintama puede cargar su tetelero y tamsin actixar unti de tuntema nars shmera woergía y proporciona mayor brado y mayor auración de la bate\n\nCarga rápida bidireccional\n\nDusade ompte de puerta únien time trots carga rópion bidireasant, el cable spe C configurado para cargar tauttamente in esperar",
+        "precio_venta": 237.0,
+        "costo_producto": 79.0,
+        "peso_kg": 0.128,
+        "largo_cm": 12.0,
+        "ancho_cm": 4.0,
+        "alto_cm": 7.0
+      },
+      "seo_content": null,
+      "shopify_result": null,
+      "processed_at": null,
+      "error": null
     }
   ],
-  "last_updated": "2026-05-15T23:49:30.641113"
+  "last_updated": "2026-05-15T23:50:56.939044"
 }
