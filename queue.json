@@ -943,7 +943,28 @@
       "processed_at": "2026-05-16T01:46:39.867007",
       "error": null,
       "processing_started_at": "2026-05-16T01:45:03.314365"
+    },
+    {
+      "id": "ab84ed73",
+      "submitted_at": "2026-05-15T17:54:29.287140",
+      "status": "pending",
+      "data": {
+        "tipo": "Bocina",
+        "marca": "NEBRO",
+        "modelo": "WG-195",
+        "descripcion_raw": "))\n\nVersión inalámbrica 5.4\n\nRuido Blanco\n\nBatería De Larga Duración\n\nIPX4\n\nAmplia Compatibilidad\n\n8W\n\nPotencia de Salida\n\n3603\n\nSonido Envolvente\n\nTWS\n\nParámetros\n\nModelo: WG-195\n\nVersión de Inalámbrico: 5.4\n\nPotencia de salida: 8 W\n\nTiempo de reproducción del altavoz: 2 horas\n\nTiempo de carga: 3 horas\n\nDistancia de transmisión de Inalámbrico: ≥10 m\n\nInterfaz de carga: Tipo-C\n\nTamaño del producto:87*87*95mm\n\nModelo:WG-195\nDebro\n\n-GARANTIZADO\n\nFRÍA RGB ILUMINACIÓN\n\nTebro\n\n+\n\nAltavoz Doble Bocina Inalámbrico\n\nWG-195",
+        "precio_venta": 255.0,
+        "costo_producto": 85.0,
+        "peso_kg": 0.32,
+        "largo_cm": 10.0,
+        "ancho_cm": 9.0,
+        "alto_cm": 10.0
+      },
+      "seo_content": null,
+      "shopify_result": null,
+      "processed_at": null,
+      "error": null
     }
   ],
-  "last_updated": "2026-05-16T01:46:39.867837"
+  "last_updated": "2026-05-15T17:54:29.287383"
 }
