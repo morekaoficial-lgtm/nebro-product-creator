@@ -860,7 +860,7 @@
     {
       "id": "6093dc2b",
       "submitted_at": "2026-05-15T17:38:14.387988",
-      "status": "processing",
+      "status": "done",
       "data": {
         "tipo": "Audífonos",
         "marca": "NEBRO",
@@ -874,8 +874,15 @@
         "alto_cm": 12.0
       },
       "seo_content": null,
-      "shopify_result": null,
-      "processed_at": null,
+      "shopify_result": {
+        "success": true,
+        "product_id": 8294354616356,
+        "handle": "audifonos-bluetooth-tws-nebro-wet12-bluetooth-53-cancelacion-ruido",
+        "title": "Audífonos Bluetooth TWS NEBRO WET12 Bluetooth 53 Cancelación Ruido",
+        "admin_url": "https://nebro-shop.myshopify.com/admin/products/8294354616356",
+        "variant_id": 44183885053988
+      },
+      "processed_at": "2026-05-16T01:44:54.658863",
       "error": null,
       "processing_started_at": "2026-05-16T01:40:03.399485"
     },
@@ -923,5 +930,5 @@
       "error": null
     }
   ],
-  "last_updated": "2026-05-16T01:44:49.451338"
+  "last_updated": "2026-05-16T01:44:54.659389"
 }
