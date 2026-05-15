@@ -1255,7 +1255,28 @@
       "processed_at": null,
       "error": null,
       "processing_started_at": "2026-05-16T06:45:03.543151"
+    },
+    {
+      "id": "c8beea74",
+      "submitted_at": "2026-05-15T22:51:28.026552",
+      "status": "pending",
+      "data": {
+        "tipo": "Bocina",
+        "marca": "NEBRO",
+        "modelo": "WG-192",
+        "descripcion_raw": "ALTAVOZ BLUETOOTH\n\nParámetros técnicos\n\nEstándar de conexión inalámbrica: 5.3\n\nRango de transmisión inalámbrica: 10 metros Tiempo de reproducción: 4-6 horas\n\nRespuesta de frecuencia: 120Hz-16KHz\n\nAltavoz: 57mm *2\n\nFuente de alimentación de entrada: 5V-1A\n\nConsumo máximo de corriente: 1A\n\nInstrucciones de uso\n\n1. Conexión Bluetooth\n\nDespués de que el producto se enciende, el valor predeterminado es BluetoothModo y entra en el estado de emparecablebluetooth. Enciende la función Bluetooth de tu teléfono móvil, Buscar el nombre del dispositivo Bluetooth: verPaquete, haga clic en conectar, el apareamiento\n\nes exitoso, yPuedes empezar a tocar música\n\n2. Unidad USB, tarjeta TF\n\nInserte la tarjeta TF/unidad USB en el dispositivo, y el dispositivo reproducirá automáticamente la música en la tarjeta TF/unidad USB. Es compatible con la reproducción de música en formato MP3/WAV, con un soporte máximo de 64G\n\n3. La carga\n\nConecel cable de carga estándar al cargpara la carga. La luz roja permanecerá encendida y se apagcuan\n10W\n\nALTAVOZ INALÁMBRICO CILINDRICO\n\nIluminación Fría RGB\n\nEl artístico anillo de luz LED deslumbrante parpadea en sete colors, irradiando una atmosfera moderna y fresca, haciendo que el escenariosea más emocionante\n\nEfectos de sonido vocal de alta resolución\n\nLa relación señal-ruido se reduce, el audio de salida se acerca más al sonido original y puede disfrutar de música sin pérdidas\n\nGraves envolventes estéreo\n\nUtilice la tecnologia de mejora de graves para producir efecto de groves intenso y experimentar el impacto de la música en una sala de conciertos\n\nBatería de gran capacidad, batería de larga duración.\n\nBateria incorporada de gran capacidad, gran duracicerde la bateria compañía a largo plazo para viajes al aire libre\n\nModelo: WG-192\n\n61\n\n10W\n\nALTAVOZ INALÁMBRICO CILINDRICO\n\nSOPORTA REPRODUCCIÓN TF/BT/USB/ALIX\n\nWG-192\nWebro INNTICADO-\n\nALTAVOZ INAI ÁMBRICO\n\nSOPORTA HEPRODUCCIÓN\n\n845\n\n10W\n\nAltavoz Inalámbrico Cilíndrico\n\nCavad & Clear Music RGB Colorful Light Show/Hi-Fi stereo Sound\n\nWG-192",
+        "precio_venta": 435.0,
+        "costo_producto": 145.0,
+        "peso_kg": 0.65,
+        "largo_cm": 20.0,
+        "ancho_cm": 10.0,
+        "alto_cm": 11.0
+      },
+      "seo_content": null,
+      "shopify_result": null,
+      "processed_at": null,
+      "error": null
     }
   ],
-  "last_updated": "2026-05-15T22:44:18.198120"
+  "last_updated": "2026-05-15T22:51:28.026575"
 }
