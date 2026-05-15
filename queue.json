@@ -1121,7 +1121,7 @@
     {
       "id": "2bcefc38",
       "submitted_at": "2026-05-15T21:59:05.576335",
-      "status": "processing",
+      "status": "done",
       "data": {
         "tipo": "Bocina",
         "marca": "NEBRO",
@@ -1135,8 +1135,15 @@
         "alto_cm": 9.0
       },
       "seo_content": null,
-      "shopify_result": null,
-      "processed_at": null,
+      "shopify_result": {
+        "success": true,
+        "product_id": 8294613024804,
+        "handle": "bocina-bluetooth-nebro-wg131-bluetooth-53-5w",
+        "title": "Bocina Bluetooth NEBRO WG131 Bluetooth 53 5W",
+        "admin_url": "https://nebro-shop.myshopify.com/admin/products/8294613024804",
+        "variant_id": 44184691638308
+      },
+      "processed_at": "2026-05-16T06:04:40.593895",
       "error": null,
       "processing_started_at": "2026-05-16T06:00:03.059711"
     },
@@ -1162,5 +1169,5 @@
       "error": null
     }
   ],
-  "last_updated": "2026-05-15T22:02:24.440375"
+  "last_updated": "2026-05-16T06:04:40.595161"
 }
