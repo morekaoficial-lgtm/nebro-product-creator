@@ -1498,7 +1498,7 @@
     {
       "id": "31746899",
       "submitted_at": "2026-05-15T23:27:35.144843",
-      "status": "processing",
+      "status": "done",
       "data": {
         "tipo": "Cable / Accesorio",
         "marca": "NEBRO",
@@ -1512,8 +1512,15 @@
         "alto_cm": 8.0
       },
       "seo_content": null,
-      "shopify_result": null,
-      "processed_at": null,
+      "shopify_result": {
+        "success": true,
+        "product_id": 8294630195236,
+        "handle": "cable-accesorio-bluetooth-nebro-wd05tl-27w-solar",
+        "title": "Cable / Accesorio Bluetooth NEBRO WD05TL 27W Solar",
+        "admin_url": "https://nebro-shop.myshopify.com/admin/products/8294630195236",
+        "variant_id": 44184783126564
+      },
+      "processed_at": "2026-05-16T07:44:42.928872",
       "error": null,
       "processing_started_at": "2026-05-16T07:35:03.454705"
     },
@@ -1605,5 +1612,5 @@
       "error": null
     }
   ],
-  "last_updated": "2026-05-16T07:44:38.303467"
+  "last_updated": "2026-05-16T07:44:42.929497"
 }
