@@ -1378,7 +1378,28 @@
       "processed_at": "2026-05-16T07:14:52.040057",
       "error": null,
       "processing_started_at": "2026-05-16T07:05:03.820163"
+    },
+    {
+      "id": "5b028645",
+      "submitted_at": "2026-05-15T23:21:30.303341",
+      "status": "pending",
+      "data": {
+        "tipo": "Cable / Accesorio",
+        "marca": "NEBRO",
+        "modelo": "WD-311TL",
+        "descripcion_raw": "Modelo:WD-311TL\n\nTamaño: 1.2M\n\nEntrada: Tipo-CaiP\n\nMaterial: Aleación de zinc + alambre trenzado\nTebro\n\n-GARANTIZADO\n\nCampariposa de t porencia\n\nNode\n\nPara Digita\n\nmebro\n\n3A\n\n27 W+ |\n\nC-L\n\nCable De Carga Rápida Trenzado De Colores\n\n1.2M\n\nWD-311TL\nTebro\n\nGARANTIZADO\n\n1.2M\n\nWebro\n\n27 WC-L\n\nCable De Carga Rápida Trenzado De Colores\n\n27\n\nAleación De Zinc\n\nMaterial Tejido Duraders\n\nPantalla Digital Inteligenia\n\nWD-311TL",
+        "precio_venta": 126.0,
+        "costo_producto": 42.0,
+        "peso_kg": 0.107,
+        "largo_cm": 16.0,
+        "ancho_cm": 4.0,
+        "alto_cm": 9.0
+      },
+      "seo_content": null,
+      "shopify_result": null,
+      "processed_at": null,
+      "error": null
     }
   ],
-  "last_updated": "2026-05-16T07:14:52.040972"
+  "last_updated": "2026-05-15T23:21:30.303363"
 }
