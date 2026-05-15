@@ -562,7 +562,7 @@
     {
       "id": "e5f5ff5b",
       "submitted_at": "2026-05-15T16:18:32.972366",
-      "status": "processing",
+      "status": "done",
       "data": {
         "tipo": "Bocina",
         "marca": "NEBRO",
@@ -576,8 +576,15 @@
         "alto_cm": 10.0
       },
       "seo_content": null,
-      "shopify_result": null,
-      "processed_at": null,
+      "shopify_result": {
+        "success": true,
+        "product_id": 8294269583396,
+        "handle": "bocina-bluetooth-nebro-wg191-bluetooth-54",
+        "title": "Bocina Bluetooth NEBRO WG191 Bluetooth 54",
+        "admin_url": "https://nebro-shop.myshopify.com/admin/products/8294269583396",
+        "variant_id": 44183775084580
+      },
+      "processed_at": "2026-05-16T00:34:51.211242",
       "error": null,
       "processing_started_at": "2026-05-16T00:20:03.172829"
     },
@@ -625,5 +632,5 @@
       "error": null
     }
   ],
-  "last_updated": "2026-05-16T00:34:47.018668"
+  "last_updated": "2026-05-16T00:34:51.212385"
 }
