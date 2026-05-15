@@ -453,7 +453,7 @@
     {
       "id": "c86a9afe",
       "submitted_at": "2026-05-15T16:01:22.164211",
-      "status": "processing",
+      "status": "done",
       "data": {
         "tipo": "Bocina",
         "marca": "NEBRO",
@@ -467,8 +467,15 @@
         "alto_cm": 10.0
       },
       "seo_content": null,
-      "shopify_result": null,
-      "processed_at": null,
+      "shopify_result": {
+        "success": true,
+        "product_id": 8294269091876,
+        "handle": "bocina-bluetooth-nebro-wg140-bluetooth-53-50w-ipx4",
+        "title": "Bocina Bluetooth NEBRO WG140 Bluetooth 53 50W IPX4",
+        "admin_url": "https://nebro-shop.myshopify.com/admin/products/8294269091876",
+        "variant_id": 44183774560292
+      },
+      "processed_at": "2026-05-16T00:34:33.254402",
       "error": null,
       "processing_started_at": "2026-05-16T00:05:02.604400"
     },
@@ -583,5 +590,5 @@
       "processing_started_at": "2026-05-16T00:30:03.429903"
     }
   ],
-  "last_updated": "2026-05-16T00:34:29.172818"
+  "last_updated": "2026-05-16T00:34:33.255173"
 }
