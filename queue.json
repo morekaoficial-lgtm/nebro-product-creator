@@ -508,7 +508,28 @@
       "processed_at": null,
       "error": null,
       "processing_started_at": "2026-05-16T00:15:03.622602"
+    },
+    {
+      "id": "69718198",
+      "submitted_at": "2026-05-15T16:16:31.238126",
+      "status": "pending",
+      "data": {
+        "tipo": "Bocina",
+        "marca": "NEBRO",
+        "modelo": "WG-150",
+        "descripcion_raw": "nebro\n\nGARANTIZADO-\n\nH\n\nTiempo de juego\n\n400\n\nCapacidad de la bateria\n\n360°\n\nSanida holográfico de 340\"\n\nLa cámara de reconancia microatomica desarrollacia internamente es de menor tamaño pero puede producir graves potentes.\n\nRGB\n\nluminación de inducción RGB\n\nLa carcasa de cristal, combinada con luces y sombras de colores, crea un espacio musical de ensueño. La iluminación se puede ajustar o apagar\n\nViene con chasis magnético\n\nLa parte inferior del staves tiene una funcion de suzion magnética inoursorada que se puede fijar objelas que admitan succión magnifica\n\nDisaño de carrocaris mini\n\nMini Su diseño compacto y lligers se igra facena cualquier momento de fida Sulgentlig y portátil te permits Desar tu minica con albert\n\nModelo: WG-150\nnebro\n\nGARANTIZADO-\n\nElecton die Jurranión\n\nCapeccad de la asteria 600mAh\n\nTog\n\n5W\n\nBocina Bluetooth Magnético Para Teléfono Movil\n\nWG-150",
+        "precio_venta": 195.0,
+        "costo_producto": 65.0,
+        "peso_kg": 0.2,
+        "largo_cm": 20.0,
+        "ancho_cm": 10.0,
+        "alto_cm": 6.0
+      },
+      "seo_content": null,
+      "shopify_result": null,
+      "processed_at": null,
+      "error": null
     }
   ],
-  "last_updated": "2026-05-15T16:14:51.006231"
+  "last_updated": "2026-05-15T16:16:31.238150"
 }
