@@ -595,7 +595,28 @@
       "processed_at": null,
       "error": null,
       "processing_started_at": "2026-05-16T00:30:03.429903"
+    },
+    {
+      "id": "cff8a9a4",
+      "submitted_at": "2026-05-15T16:34:42.917438",
+      "status": "pending",
+      "data": {
+        "tipo": "Audífonos",
+        "marca": "NEBRO",
+        "modelo": "T20S",
+        "descripcion_raw": "Especificaciones del producto.\n\nColor del producto: blanco\n\nVersión inalámbrica: V5.3\n\nDistancia de transmisión: >10 metros\n\nDiámetro del altavoz: 13 milímetros\n\nFrecuencia: 32 ohmios\n\nSensibilidad: 107±3dB\n\nMade in China\n\nBLANCO\n\nRango de respuesta de frecuencia: 20-20 kHz\n\nCapacidad de la batería (caja de carga): 4.2V/300mAh\n\nCapacidad de carga (auricular): 4.2V/30mAh\n\nTiempo de carga (caja de carga): aproximadamente\n\n1.5 horas\n\nLa caja de carga se puede usar para cargar los auriculares: aproximadamente 3 veces\nSIEREU\n\nNoise Canceling\n\nSCREEN COLOR TOUCH\n\nTWS\n\nWIRELESS HE EADSETS\n\nBT5.3\n\nTouch control\n\n100\n\nLED screen digital display of power\n\n100\n\nPT\n\nCasque stéréo antibruit haute définition\n\nInteligentni stereo sluchátka s potlačenim luku, kruita zvuku vysokým rozlišenim\n\nDE\n\nES\n\nAuriculares estéreo de ruido, calidad de sonido alta definición\n\nRU\n\nИнтеллектуальные стереонаушни оподавлением, качество з сшумоподавлен вука в\n\nFR\n\nFones de ouvida estérea com Inteligente, qualidade de alta dežnição\nmebro\n\nNoise Canceling\n\nMEREU EARPHONES\n\nDeep Bass for Sports\n\nEasy-Pairing\n\nTouch control\n\n100\n\n100\n\nAnti-lost lanyard\n\nLOK SCREEN WIRELESS\n\nKOUCH CO\n\nTWS\n\nBT5.3\n\nT20S",
+        "precio_venta": 267.0,
+        "costo_producto": 89.0,
+        "peso_kg": 0.2,
+        "largo_cm": 15.0,
+        "ancho_cm": 10.0,
+        "alto_cm": 8.0
+      },
+      "seo_content": null,
+      "shopify_result": null,
+      "processed_at": null,
+      "error": null
     }
   ],
-  "last_updated": "2026-05-16T00:34:37.859746"
+  "last_updated": "2026-05-15T16:34:42.917462"
 }
