@@ -442,7 +442,28 @@
       "processed_at": null,
       "error": null,
       "processing_started_at": "2026-05-16T00:00:03.836514"
+    },
+    {
+      "id": "c86a9afe",
+      "submitted_at": "2026-05-15T16:01:22.164211",
+      "status": "pending",
+      "data": {
+        "tipo": "Bocina",
+        "marca": "NEBRO",
+        "modelo": "WG-140",
+        "descripcion_raw": "IPX4\n\nEn modo auxiliar, presione para silenciar el altavoz\n\nRechazar el teléfono\n\nPresione este botón durante 3 segundos para rechazar la llamada telefónica\n\nContesta el teléfono\n\nPresione este botón para contestar el teléfono\n\nCuelga el teléfono\n\nVuelve a presionar este botón para terminar la llamada\n\nRedial\n\nDoble clic en el botón para volver a marcar el último número de teléfono\n\nBajar el Volumen\n\nPresione este botón para bajar el volumen del altavoz\n\nAnterior canción\n\nO presione este botón hacia atrás 2 segundos para volver a la canción anterior\n\nAumenta el Volumen\n\nPresione este botón para aumentar el volumen del altavoz\n\n+\n\nSiguiente canción\n\nPrestons Mourante 2\n\nвес лози зина тomducir la sigulante\n\nMada AUX\n\nCuando el altavoz està conectado a la fuente de audio a través de un cable de audio de 3,5 mm, reproducirá automáticamente el audio en el dispositivo. (hay un tono de alerta. a luz azul se mantiene encendida cuando se juega, la luz azul parpadea lentamente cuando se suspende).\n\nModo de tarjeta TF/m\nBOCINA DE INALAMBRICO\n\nIPX4\n\nDynamic Stereo sound\n\nBass-boosting\nVersión Inalámbrica 5.3\n\nBatería Larga Duración\n\n50W\n\nPotencia de Salida\n\nTF\n\nMemoria Flash\n\nAuxiliar\n\nUnidad flash USB\n\nCarabinero\n\nLuz RGB\n\nIPX4\n\nParámetros\n\nModelo WG-140\n\nVersion de Inalámbrico 53\n\nPotencia de Salida 50W\n\nBatera 6000mAhb\n\nUnidailide Altavoces 58*98mm+30*30mm\n\nTempo de Reproducción 8 Hora (Volumen al 50%)\n\nBistoria de Transmisión 10 m\n\nPeso 9709\n\nRango de Frecuencia 50Hz-18KHz\n\nEntrada de Energia 5V/2A\n\nComuitidad con inalámbrico FF/AUX/USB/EWS\n\nTamung 9/89 235mm\n\nMUDELO WG INO\nFebro\n\nFRÍA RGB ILUMINACIÓN\n\nTebro\n\nBocina Portátil Para Exteriores\n\nWG-140",
+        "precio_venta": 1650.0,
+        "costo_producto": 550.0,
+        "peso_kg": 1.92,
+        "largo_cm": 27.0,
+        "ancho_cm": 10.0,
+        "alto_cm": 10.0
+      },
+      "seo_content": null,
+      "shopify_result": null,
+      "processed_at": null,
+      "error": null
     }
   ],
-  "last_updated": "2026-05-15T15:59:10.170800"
+  "last_updated": "2026-05-15T16:01:22.164232"
 }
