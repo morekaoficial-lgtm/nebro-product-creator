@@ -1531,7 +1531,28 @@
       "processed_at": null,
       "error": null,
       "processing_started_at": "2026-05-16T07:35:03.454708"
+    },
+    {
+      "id": "a0ba733e",
+      "submitted_at": "2026-05-15T23:37:21.211351",
+      "status": "pending",
+      "data": {
+        "tipo": "Cable / Accesorio",
+        "marca": "NEBRO",
+        "modelo": "WD-302TT",
+        "descripcion_raw": "Carga Rápida Sincrónica\n\nReconocimiento de corriente inteligente, carga completa rápida, diga adiós a la ansiedad por la energía.\n\nCompatibilidad Inteligente\n\nIdentifica de forma inteligente todos los dispositivos y es compatible con lodos los dispositivos de carga.\n\nResistencia A La Flexión\n\nCon alta resistencia y tenacidad, puede soportar facilmente miles de curvas y no es fácil de romper o desconectar\n\nChip Inteligente Incorporado\n\nLa carga rápida no daña el dispositivo y se adapta de forma Inteligente a la corriente requerida por el dispositivo.\n\nFICHA TÉCNICA:\n\nModele: WD-302TT\n\nEntrada: Tipo-Ca Tipo-C\n\nSaida: 244\n\nTamaño: 1.2M\n\nCompatibilidad. Dispositivos moviles y tabletas\n\nMaterial: PVC\nWD-302TT\n\nTIFUR WORS\n\n240w\n\nM PD\n\nTebro\n\nC-C1200MM\n\nCable De Datos De Carga Rápida De PVC\n\nCarga Rapida 오옴 Sincrenica\n\nCompatibilidad Inteligente\n\nstencia A",
+        "precio_venta": 96.0,
+        "costo_producto": 12.0,
+        "peso_kg": 0.1,
+        "largo_cm": 15.0,
+        "ancho_cm": 5.0,
+        "alto_cm": 10.0
+      },
+      "seo_content": null,
+      "shopify_result": null,
+      "processed_at": null,
+      "error": null
     }
   ],
-  "last_updated": "2026-05-16T07:34:55.394888"
+  "last_updated": "2026-05-15T23:37:21.211379"
 }
