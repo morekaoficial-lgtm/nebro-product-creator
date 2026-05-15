@@ -552,7 +552,28 @@
       "processed_at": null,
       "error": null,
       "processing_started_at": "2026-05-16T00:20:03.172829"
+    },
+    {
+      "id": "3d9cfa51",
+      "submitted_at": "2026-05-15T16:29:45.221137",
+      "status": "pending",
+      "data": {
+        "tipo": "Audífonos",
+        "marca": "NEBRO",
+        "modelo": "T35",
+        "descripcion_raw": "Especificaciones del producto.\n\nColor del producto: negro\n\nVersión inalámbrica: V5.3.\n\nDistancia de transmisión: >10 metros.\n\nDiámetro del altavoz: 13 milímetros.\n\nFrecuencia: 32 ohmios.\n\nSensibilidad: 107±3dB.\n\nMade in China\n\nNEGRO\nBT5.3\n\nDeep Bass for Sports Easy-Pairing\n\nND SOUND\n\nNoice Canceling Calls\n\nWIRELESS EARPHONES\n\nDeep Bass for Sports Easy-Pairing\n\nCasque stéréo antibruit intelligent, qualité sonore haute définition\n\nDE\n\nInteligentni stereo sluchátka s potlačenim hluku, kvalita zvuku s vysokým rozlišenim\n\nES\n\nИнтеллектуальные стереонаушни кис шумоподавлением, качество з вука высокой четкости\n\nRU\n\nCasque stéréo antibruil intelligent, qualité sonore haute définition\n\nEN\n\nAuriculares esténo inteligentes con cancelación deruido, calidad de sonido de olta definición\n\nCZ\n\nAuriculares estéreo inteligentes con cancelación de ruido, calidad de sonido de alta definición\n\nPT\n\nFones de ouvido estéreo com cancelamento de ruido inteligente, qualidade de som de alta definição\n\nFR\n\nIntelligent noise canceling stereo headphones, high definition sound quality\nnebro\n\nBT53\n\nNoice Canceling calls\n\nWIRELESS EARPHONES\n\nDeep Bass for Sports Easy-Pairing\n\nDEEP BASS\n\nP\n\nHD SOUND\n\nTOUCH CONTROL\n\nCOMFORTABLE\n\nSILOLEU",
+        "precio_venta": 267.0,
+        "costo_producto": 89.0,
+        "peso_kg": 0.2,
+        "largo_cm": 15.0,
+        "ancho_cm": 8.0,
+        "alto_cm": 10.0
+      },
+      "seo_content": null,
+      "shopify_result": null,
+      "processed_at": null,
+      "error": null
     }
   ],
-  "last_updated": "2026-05-15T16:18:32.972392"
+  "last_updated": "2026-05-15T16:29:45.221453"
 }
