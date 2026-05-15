@@ -511,7 +511,7 @@
     {
       "id": "f16533be",
       "submitted_at": "2026-05-15T16:14:51.006205",
-      "status": "processing",
+      "status": "done",
       "data": {
         "tipo": "Audífonos",
         "marca": "NEBRO",
@@ -525,8 +525,15 @@
         "alto_cm": 10.0
       },
       "seo_content": null,
-      "shopify_result": null,
-      "processed_at": null,
+      "shopify_result": {
+        "success": true,
+        "product_id": 8294291111972,
+        "handle": "audifonos-bluetooth-nebro-we507-bluetooth-55",
+        "title": "Audífonos Bluetooth NEBRO WE507 Bluetooth 54",
+        "admin_url": "https://nebro-shop.myshopify.com/admin/products/8294291111972",
+        "variant_id": 44183808639012
+      },
+      "processed_at": "2026-05-16T00:55:11.045192",
       "error": null,
       "processing_started_at": "2026-05-16T00:50:05.909203",
       "timeout_reset": "2026-05-16T00:50:03.540892"
@@ -648,5 +655,5 @@
       "processing_started_at": "2026-05-16T00:35:03.024858"
     }
   ],
-  "last_updated": "2026-05-16T00:39:00.609427"
+  "last_updated": "2026-05-16T00:55:11.046104"
 }
