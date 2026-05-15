@@ -163,7 +163,7 @@
     {
       "id": "dfe79406",
       "submitted_at": "2026-05-15T15:19:39.147094",
-      "status": "processing",
+      "status": "done",
       "data": {
         "tipo": "Audífonos",
         "marca": "NEBRO",
@@ -177,8 +177,15 @@
         "alto_cm": 9.0
       },
       "seo_content": null,
-      "shopify_result": null,
-      "processed_at": null,
+      "shopify_result": {
+        "success": true,
+        "product_id": 8294207946788,
+        "handle": "cable-carga-rapida-cuatro-en-uno-nebro-wd316-240w-12m-aleacion-zinc",
+        "title": "Cable Carga Rápida Cuatro en Uno NEBRO WD316 240W 12M Aleación Zinc",
+        "admin_url": "https://nebro-shop.myshopify.com/admin/products/8294207946788",
+        "variant_id": 44183705190436
+      },
+      "processed_at": "2026-05-15T23:54:26.272612",
       "error": null,
       "processing_started_at": "2026-05-15T23:20:03.552247"
     },
@@ -359,5 +366,5 @@
       "processing_started_at": "2026-05-15T23:45:02.527803"
     }
   ],
-  "last_updated": "2026-05-15T23:54:22.344108"
+  "last_updated": "2026-05-15T23:54:26.274354"
 }
