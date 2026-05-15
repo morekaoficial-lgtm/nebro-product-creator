@@ -166,7 +166,28 @@
       "processed_at": null,
       "error": null,
       "processing_started_at": "2026-05-15T23:20:03.552247"
+    },
+    {
+      "id": "fd685501",
+      "submitted_at": "2026-05-15T15:21:37.221105",
+      "status": "pending",
+      "data": {
+        "tipo": "Audífonos",
+        "marca": "NEBRO",
+        "modelo": "WE-066",
+        "descripcion_raw": "Tebro\n\nCARACTERISTICAS DEL PRODUCTO:\n\n1. Duración de la bateria de 6 horas.\n\n3. Tiempo en standby de 48 dias\n\n2. Tiempo de carga de 1.5 horas.\n\n4. Estabilidad de conexión.\n\nCalidad del\n\nde la bateria Larga duracion\n\n((()))\n\nEstabilidad de conexion\n\nCompatibilidad\n\nAURICULARES INALÁMBRICOS\n\nNOMBRE DEL PRODUCTO: AURICULARES INALÁMBRICOS OWS\n\nMODELO DE PRODUCTO: WE-066\n\nBATERÍA DEL ALMACÉN DE CARGA: 300MAH\n\nBATERÍA DE AURICULARES: 30MAH\n\nENTRADA NOMINAL: 5V/1A",
+        "precio_venta": 330.0,
+        "costo_producto": 110.0,
+        "peso_kg": 0.17,
+        "largo_cm": 14.0,
+        "ancho_cm": 4.0,
+        "alto_cm": 10.0
+      },
+      "seo_content": null,
+      "shopify_result": null,
+      "processed_at": null,
+      "error": null
     }
   ],
-  "last_updated": "2026-05-15T15:19:39.147116"
+  "last_updated": "2026-05-15T15:21:37.221130"
 }
