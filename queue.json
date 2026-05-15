@@ -1034,7 +1034,7 @@
     {
       "id": "c1a81989",
       "submitted_at": "2026-05-15T18:00:11.348114",
-      "status": "processing",
+      "status": "done",
       "data": {
         "tipo": "Bocina",
         "marca": "NEBRO",
@@ -1048,11 +1048,18 @@
         "alto_cm": 12.0
       },
       "seo_content": null,
-      "shopify_result": null,
-      "processed_at": null,
+      "shopify_result": {
+        "success": true,
+        "product_id": 8294401540132,
+        "handle": "bocina-bluetooth-tws-nebro-wg146-bluetooth-54-8w-ipx4",
+        "title": "Bocina Bluetooth TWS NEBRO WG146 Bluetooth 54 8W IPX4",
+        "admin_url": "https://nebro-shop.myshopify.com/admin/products/8294401540132",
+        "variant_id": 44184220237860
+      },
+      "processed_at": "2026-05-16T02:05:34.438055",
       "error": null,
       "processing_started_at": "2026-05-16T02:05:02.691003"
     }
   ],
-  "last_updated": "2026-05-16T02:04:51.355296"
+  "last_updated": "2026-05-16T02:05:34.438904"
 }
