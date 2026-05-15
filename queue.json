@@ -276,7 +276,28 @@
       "processed_at": null,
       "error": null,
       "processing_started_at": "2026-05-15T23:35:02.951275"
+    },
+    {
+      "id": "66663b03",
+      "submitted_at": "2026-05-15T15:37:45.066435",
+      "status": "pending",
+      "data": {
+        "tipo": "Bocina",
+        "marca": "NEBRO",
+        "modelo": "WG-133",
+        "descripcion_raw": "mebro\n\nGARANTIZADO\n\nWG-133\n\nInstrucciones de operación:\n\n1. aparece: cuando el altavoz está encendido, el valor predeterminado es \"modo\", Bajo el \"modo\", asegúrese de que su teléfono u otro dispositivo \"Abre. Luego busque el nombre: \"nebro WG-133\" y ábrelo. Después del éxito, puedes tocar música y disfrutarla.\n\n2: tarjeta TF: inserte la tarjeta TF y luego cambie al modo Tarjeta TF y reproducción de música.\n\n3: USB: inserte el controlador USB y luego cambie al modo USB Toca música.\n\n4: DC 5V: puerto de carga, utilice la línea de carga para cargar el dispositivo. Durante la carga, verá una luz roja cerca del puerto,\n\nEspecificaciones del producto:\n\nVersión: 5.0\n\nMaterial: ABS\n\nSoporte: tarjeta TF, FM, USB, TWS,\n\nAltavoces: 4 Omega/8W*1\n\nDistancia de trabajo: ≥ 10 m\n\nBatería: 3,7V, 1200mah\n\nTiempo de juego: 1 - 2 horas\n\nTiempo de carga: aproximadamente 2 horas\n\nCarga: 5V/1A\n\nTF-USB admite 32 GB\n\nPresione para abrir o cerrar\n\n\"\"Pulsación larga para encender/apagar, pulsación corta para el modo de luz\n\n600\" Pulsac\nVersión inalámbrica 5.3\n\nRuido Blanco\n\nBatería De Larga Duración\n\nTWS\n\nAmplia Compatibilidad\n\nIPX6\n\n8W\n\nSalida Potencia de\n\n3603\n\nSonido Envolvente\n\nParámetros\n\nModelo: WG-133\n\nVersion: 5.0\n\nCarga: 5V/1A\n\nFalante: 40/8W\n\nRelação sinal-ruído:50Db\n\nDistança de trabalho: ≥10M\n\nBateria: 1200mAh\n\nTempo de jogo: 1-2 horas\n\nTempo de carga: Cerca de 3 horas\n\nSuporte: cartão TF, FM, USB, TWS\n\nTF USB apoio 32GB (Formato FAT apenas suportado)\nTebro\n\n-GARANTIZADO\n\nwebro\n\nFRÍA RGB ILUMINACIÓN\n\nBocina Inalámbrico Para Exteriores\n\nWG-133",
+        "precio_venta": 360.0,
+        "costo_producto": 120.0,
+        "peso_kg": 0.423,
+        "largo_cm": 12.0,
+        "ancho_cm": 10.0,
+        "alto_cm": 10.0
+      },
+      "seo_content": null,
+      "shopify_result": null,
+      "processed_at": null,
+      "error": null
     }
   ],
-  "last_updated": "2026-05-15T15:31:00.802571"
+  "last_updated": "2026-05-15T15:37:45.066458"
 }
