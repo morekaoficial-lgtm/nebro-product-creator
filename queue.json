@@ -744,7 +744,7 @@
     {
       "id": "a98014f6",
       "submitted_at": "2026-05-15T17:20:59.926978",
-      "status": "processing",
+      "status": "done",
       "data": {
         "tipo": "Bocina",
         "marca": "NEBRO",
@@ -758,8 +758,15 @@
         "alto_cm": 10.0
       },
       "seo_content": null,
-      "shopify_result": null,
-      "processed_at": null,
+      "shopify_result": {
+        "success": true,
+        "product_id": 8294320930852,
+        "handle": "bocina-bluetooth-nebro-wg184-bluetooth-53-8w",
+        "title": "Bocina Bluetooth NEBRO WG184 Bluetooth 53 8W",
+        "admin_url": "https://nebro-shop.myshopify.com/admin/products/8294320930852",
+        "variant_id": 44183848321060
+      },
+      "processed_at": "2026-05-16T01:25:36.028234",
       "error": null,
       "processing_started_at": "2026-05-16T01:25:03.566448"
     },
@@ -808,5 +815,5 @@
       "processing_started_at": "2026-05-16T01:25:03.566488"
     }
   ],
-  "last_updated": "2026-05-16T01:25:31.412127"
+  "last_updated": "2026-05-16T01:25:36.028933"
 }
