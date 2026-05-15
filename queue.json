@@ -1306,7 +1306,28 @@
       "processed_at": null,
       "error": null,
       "processing_started_at": "2026-05-16T07:00:03.531413"
+    },
+    {
+      "id": "6de804dc",
+      "submitted_at": "2026-05-15T23:00:09.832402",
+      "status": "pending",
+      "data": {
+        "tipo": "Cable / Accesorio",
+        "marca": "NEBRO",
+        "modelo": "WD-312",
+        "descripcion_raw": "nebro\n\n-GARANTIZADO\n\nS\n\n1.2M\n\n2.7W\n\nTebro\n\n240 PD\n\n100%\n\n240W\n\nCable De Carga Rápida Con Pantalla Digital\n\nUSB-A-Tipe-C Tipe-C+Lighitam Cafe moden para cambiar avslutad\n\nWD-312\nnebro\n\n-GARANTIZADO\n\n4 in 1\n\n1.2M\n\nrebro\n\n27W\n\nWD-312\n\n240W\n\nCable De Carga Rápida Con Pantalla Digital",
+        "precio_venta": 180.0,
+        "costo_producto": 60.0,
+        "peso_kg": 0.1,
+        "largo_cm": 10.0,
+        "ancho_cm": 5.0,
+        "alto_cm": 9.0
+      },
+      "seo_content": null,
+      "shopify_result": null,
+      "processed_at": null,
+      "error": null
     }
   ],
-  "last_updated": "2026-05-15T22:55:33.344267"
+  "last_updated": "2026-05-15T23:00:09.832429"
 }
