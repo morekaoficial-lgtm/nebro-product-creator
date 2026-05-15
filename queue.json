@@ -1139,7 +1139,28 @@
       "processed_at": null,
       "error": null,
       "processing_started_at": "2026-05-16T06:00:03.059711"
+    },
+    {
+      "id": "db45782c",
+      "submitted_at": "2026-05-15T22:02:24.440338",
+      "status": "pending",
+      "data": {
+        "tipo": "Bocina",
+        "marca": "NEBRO",
+        "modelo": "WG-197",
+        "descripcion_raw": "Tebro\n\nWG-197\n\nInstrucciones de operación:\n\n1. aparece: cuando el altavoz está encendido, el valor predeterminado es \"modo\", Bajo el \"modo\", asegúrese de que su teléfono u otro dispositivo \"Abre. Luego busque el nombre: \"Nebro WG-197\" y ábrelo. Después del éxito, puedes tocar música y disfrutarla.\n\n2: tarjeta TF: inserte la tarjeta TF y luego cambie al modo Tarjeta TF y reproducción de música.\n\n3: USB: inserte el controlador USB y luego cambie al modo USB toca música.\n\n4: DC 5V: puerto de carga, utilice la línea de carga para cargar el dispositivo. Durante la carga, verá una luz roja cerca del puerto,\n\nEspecificaciones del producto:\n\nModelo: WG-197\n\nVersión de Inalámbrico: 5.3\n\nPotencia de salida: 8 W\n\nTiempo de reproducción del altavoz : 2 horas\n\nTiempo de carga: 3 horas\n\nDistancia de transmisión de Inalámbrico: ≥10 m\n\nInterfaz de carga: Tipo-C\n\nTamaño del producto:97*97*114mm\n\nPresione para abrir o cerrar\n\n\"O\" Mantenga presionado para encender/apagar, presione brevemente para pausar/reproducir\n\n\"*\" Mantenga\ninalámbrica 5.5\n\nRuida Blanco\n\nBatería De Larga Guración\n\nIPXA\n\nAmplia Compatibilidad\n\n8W\n\nTWS\n\nPotoncia.de\n\nEnvelvente\n\nParámetros\n\nModelo: WG-197\n\nVersión de Inalámbrico: 5.3\n\nPotencia de salida: 8 W\n\nTiempo de reproducción del altavoz: 2 horas\n\nTiempo de carga: 3 horas\n\nDistancia de transmisión de Inalámbrico: ≥ 10 m\n\nInterfaz de carga: Tipo-C\n\nTamaño del producto:97*97*114mm\nnebro\n\nGARANTIZADO\n\nFRÍA RGB ILUMINACIÓN\n\nWebro\n\n+\n\nAltavoz Doble Bocina Inalámbrico\n\nWG-197",
+        "precio_venta": 267.0,
+        "costo_producto": 89.0,
+        "peso_kg": 0.5,
+        "largo_cm": 12.0,
+        "ancho_cm": 11.0,
+        "alto_cm": 10.0
+      },
+      "seo_content": null,
+      "shopify_result": null,
+      "processed_at": null,
+      "error": null
     }
   ],
-  "last_updated": "2026-05-15T21:59:05.576361"
+  "last_updated": "2026-05-15T22:02:24.440375"
 }
