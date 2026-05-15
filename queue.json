@@ -250,7 +250,7 @@
     {
       "id": "7eeb4a06",
       "submitted_at": "2026-05-15T15:25:25.019040",
-      "status": "processing",
+      "status": "done",
       "data": {
         "tipo": "Audífonos",
         "marca": "NEBRO",
@@ -264,8 +264,15 @@
         "alto_cm": 17.0
       },
       "seo_content": null,
-      "shopify_result": null,
-      "processed_at": null,
+      "shopify_result": {
+        "success": true,
+        "product_id": 8294208307236,
+        "handle": "audifonos-collar-nebro-we064-bluetooth-53-80-horas-bateria-800mah",
+        "title": "Audífonos Collar NEBRO WE064 Bluetooth 53 80 Horas Batería 800mAh",
+        "admin_url": "https://nebro-shop.myshopify.com/admin/products/8294208307236",
+        "variant_id": 44183705550884
+      },
+      "processed_at": "2026-05-15T23:54:37.508166",
       "error": null,
       "processing_started_at": "2026-05-15T23:30:03.473633"
     },
@@ -380,5 +387,5 @@
       "processing_started_at": "2026-05-15T23:45:02.527803"
     }
   ],
-  "last_updated": "2026-05-15T23:54:34.031840"
+  "last_updated": "2026-05-15T23:54:37.509246"
 }
