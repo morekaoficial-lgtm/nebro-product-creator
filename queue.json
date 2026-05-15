@@ -869,7 +869,28 @@
       "shopify_result": null,
       "processed_at": null,
       "error": null
+    },
+    {
+      "id": "c23bff71",
+      "submitted_at": "2026-05-15T17:39:45.658745",
+      "status": "pending",
+      "data": {
+        "tipo": "Audífonos",
+        "marca": "NEBRO",
+        "modelo": "WE T30",
+        "descripcion_raw": "Especificaciones del producto.\n\nColor del producto: blanco\n\nVersión inalámbrica: V5.3\n\nDistancia de transmisión:>10 metros\n\nDiámetro del altavoz: 13 milímetros\n\nFrecuencia: 32 ohmios\n\nSensibilidad: 107±3dB\n\nMade in China\n\nRango de respuesta de frecuencia: 20-20 kHz\n\nCapacidad de la batería (caja de carga): 4.2V/300mAh\n\nCapacidad de carga (auricular): 4.2V/30mAh\n\nTiempo de carga (caja de carga): aproximadamente\n\n1.5 horas\n\nBLANCO\n\nLacaja de carga se puede usar para cargar los auriculares: aproximadamente 3 veces.\nWireless Earphones\n\n130\n\nImmersive Deep Bass & Clear Call\n\nкисшу\n\nPT\n\n-RU\n\n.\n\nBT 5.3\n\nIMMERSIVE LISTENING LISTENING\n\nSTEREO EARPHONE\nWireless Earphones\n\nT30\n\nHD TWS Immerse Sound. For Clear Call, advanced Microphones\n\nCrystal-clear Hands free\n\nBT5.30\n\nDeep Bass for Sports\n\nImmersive Deep Bass & Clear Call",
+        "precio_venta": 297.0,
+        "costo_producto": 99.0,
+        "peso_kg": 0.182,
+        "largo_cm": 12.0,
+        "ancho_cm": 5.0,
+        "alto_cm": 12.0
+      },
+      "seo_content": null,
+      "shopify_result": null,
+      "processed_at": null,
+      "error": null
     }
   ],
-  "last_updated": "2026-05-15T17:38:14.388017"
+  "last_updated": "2026-05-15T17:39:45.659083"
 }
