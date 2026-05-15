@@ -686,7 +686,7 @@
     {
       "id": "e28bf7af",
       "submitted_at": "2026-05-15T17:16:57.912462",
-      "status": "processing",
+      "status": "done",
       "data": {
         "tipo": "Bocina",
         "marca": "NEBRO",
@@ -700,8 +700,15 @@
         "alto_cm": 9.0
       },
       "seo_content": null,
-      "shopify_result": null,
-      "processed_at": null,
+      "shopify_result": {
+        "success": true,
+        "product_id": 8294320865316,
+        "handle": "bocina-bluetooth-tws-nebro-wg138-bluetooth-53-20w",
+        "title": "Bocina Bluetooth TWS NEBRO WG138 Bluetooth 53 20W",
+        "admin_url": "https://nebro-shop.myshopify.com/admin/products/8294320865316",
+        "variant_id": 44183848255524
+      },
+      "processed_at": "2026-05-16T01:25:26.924997",
       "error": null,
       "processing_started_at": "2026-05-16T01:20:03.570832"
     },
@@ -794,5 +801,5 @@
       "processing_started_at": "2026-05-16T01:25:03.566488"
     }
   ],
-  "last_updated": "2026-05-16T01:25:22.132481"
+  "last_updated": "2026-05-16T01:25:26.925495"
 }
