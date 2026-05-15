@@ -424,7 +424,7 @@
     {
       "id": "0309ecae",
       "submitted_at": "2026-05-15T15:59:10.170765",
-      "status": "processing",
+      "status": "done",
       "data": {
         "tipo": "Audífonos",
         "marca": "NEBRO",
@@ -438,8 +438,15 @@
         "alto_cm": 10.0
       },
       "seo_content": null,
-      "shopify_result": null,
-      "processed_at": null,
+      "shopify_result": {
+        "success": true,
+        "product_id": 8294268960804,
+        "handle": "audifonos-bluetooth-tws-nebro-wet9-bluetooth-53",
+        "title": "Audífonos Bluetooth TWS NEBRO WET9 Bluetooth 53",
+        "admin_url": "https://nebro-shop.myshopify.com/admin/products/8294268960804",
+        "variant_id": 44183774429220
+      },
+      "processed_at": "2026-05-16T00:34:29.172100",
       "error": null,
       "processing_started_at": "2026-05-16T00:00:03.836514"
     },
@@ -576,5 +583,5 @@
       "processing_started_at": "2026-05-16T00:30:03.429903"
     }
   ],
-  "last_updated": "2026-05-15T16:29:45.221453"
+  "last_updated": "2026-05-16T00:34:29.172818"
 }
