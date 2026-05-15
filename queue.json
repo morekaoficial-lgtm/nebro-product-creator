@@ -298,7 +298,28 @@
       "processed_at": null,
       "error": null,
       "processing_started_at": "2026-05-15T23:40:03.694172"
+    },
+    {
+      "id": "86f7c59a",
+      "submitted_at": "2026-05-15T15:40:32.856922",
+      "status": "pending",
+      "data": {
+        "tipo": "Bocina",
+        "marca": "NEBRO",
+        "modelo": "WG-186",
+        "descripcion_raw": "Tebro\n\nGARANDZADO\n\n0000\n\nTebro\n\nCOSCO\n\nAltavoz Doble Bocina Inalámbrica mbrica\nTebro\n\nGARANTIZADO\n\n8.10\n\nCOSCO\n\nMebro\n\nAltavoz Doble\n\nBocina Inalámbrico\n\nFRÍA RGB ILUMINACIÓN\nTebro\n\nGARANTIZADO\n\n8.10\n\nCOSCO\n\nMebro\n\nAltavoz Doble\n\nBocina Inalámbrico\n\nFRÍA RGB ILUMINACIÓN",
+        "precio_venta": 189.0,
+        "costo_producto": 63.0,
+        "peso_kg": 0.29,
+        "largo_cm": 13.0,
+        "ancho_cm": 6.0,
+        "alto_cm": 13.0
+      },
+      "seo_content": null,
+      "shopify_result": null,
+      "processed_at": null,
+      "error": null
     }
   ],
-  "last_updated": "2026-05-15T15:37:45.066458"
+  "last_updated": "2026-05-15T15:40:32.856949"
 }
