@@ -104,7 +104,7 @@
     {
       "id": "4e5e97fc",
       "submitted_at": "2026-05-15T15:13:30.506965",
-      "status": "pending",
+      "status": "processing",
       "data": {
         "tipo": "Audífonos",
         "marca": "NEBRO",
@@ -120,7 +120,8 @@
       "seo_content": null,
       "shopify_result": null,
       "processed_at": null,
-      "error": null
+      "error": null,
+      "processing_started_at": "2026-05-15T23:15:02.547293"
     }
   ],
   "last_updated": "2026-05-15T15:13:30.506992"
