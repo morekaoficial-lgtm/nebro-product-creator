@@ -740,7 +740,28 @@
       "shopify_result": null,
       "processed_at": null,
       "error": null
+    },
+    {
+      "id": "c42e0639",
+      "submitted_at": "2026-05-15T17:23:04.698547",
+      "status": "pending",
+      "data": {
+        "tipo": "Bocina",
+        "marca": "NEBRO",
+        "modelo": "WG-134",
+        "descripcion_raw": "Tebro\n\nWG-134\n\nInstrucciones de operación:\n\n1. aparece: cuando el altavoz está encendido, el valor predeterminado es \"modo\", Bajo el \"modo\", asegúrese de que su teléfono u otro dispositivo\" Abre. Luego busque el nombre: \"nebro WG-134\" y ábrelo. Después del éxito, puedes tocar música y disfrutarla.\n\n2: tarjela TF: inserte la tarjeta TF y luego cambie al modo Tarjeta TF y reproducción de música.\n\n3: USB. inserte el controlador USB y luego cambie al modo USB Toca música.\n\n4: DC 5V puerto de carga, utilice la línea de carga para cargar el dispositivo. Durante la carga, verá una luz roja cerca del puerto,\n\nEspecificaciones del producto:\n\nVersión: 5.4\n\nMaterial ABS\n\nSoporte: tarjeta TF, FM, USB, TWS,\n\nAltavoces: 4 Omega/8W*1\n\nDistancia de trabajo: ≥ 10 m\n\nBatería: 3.7V, 1200mah\n\nTiempo de juego: 1-2 horas\n\nTiempo de carga: aproximadamente 2 horas\n\nCarga: 5V/1A\n\nTF-USB admite 32 GB\n\nPresione para abrir o cerrar\n\n\"\"Mantenga presionado para encender/apagar, presione brevemente para alternar los efectos de iluminación.\nVersite\n\nBateria De\n\nTWIS\n\n8W\n\nSalita\n\n3603\n\nEnvatomia\n\nParámetros\n\nModelo: WG-134\n\nVersión de Inalámbrico: V5.4\n\nPotencia de salida: BW\n\nDuración de la bateria:\n\nTiempo de reproducción del altavoz (volumen al 100%): 2.5h (volumen al 75% 3h\n\nTiempo de conversación: aproximadamente 3 horas (100%)\n\nTiempo en espera: aproximadamente 120 horas\n\nDistancia de transmisión de inalámbrico: 10 m\n\nCompatibilidad con Inalámbrico: Inalámbrico, TF, AUX, FM, TWS, LED, llamada\n\nMODELO:WG-134\nTebro\n\nGARANTIZADO\n\nFRÍA RGB ILUMINACIÓN\n\nRebro\n\n+\n\nBocina Doble Bocina Inalámbrico\n\nWG-134",
+        "precio_venta": 363.0,
+        "costo_producto": 121.0,
+        "peso_kg": 0.463,
+        "largo_cm": 10.0,
+        "ancho_cm": 10.0,
+        "alto_cm": 12.0
+      },
+      "seo_content": null,
+      "shopify_result": null,
+      "processed_at": null,
+      "error": null
     }
   ],
-  "last_updated": "2026-05-15T17:20:59.927218"
+  "last_updated": "2026-05-15T17:23:04.698576"
 }
