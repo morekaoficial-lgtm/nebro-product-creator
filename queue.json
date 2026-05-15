@@ -366,7 +366,7 @@
     {
       "id": "86f7c59a",
       "submitted_at": "2026-05-15T15:40:32.856922",
-      "status": "processing",
+      "status": "done",
       "data": {
         "tipo": "Bocina",
         "marca": "NEBRO",
@@ -380,8 +380,15 @@
         "alto_cm": 13.0
       },
       "seo_content": null,
-      "shopify_result": null,
-      "processed_at": null,
+      "shopify_result": {
+        "success": true,
+        "product_id": 8294208798756,
+        "handle": "bocina-bluetooth-rgb-nebro-wg186-altavoz-doble-potente-portatil",
+        "title": "Bocina Bluetooth RGB NEBRO WG186 Altavoz Doble Potente Portátil",
+        "admin_url": "https://nebro-shop.myshopify.com/admin/products/8294208798756",
+        "variant_id": 44183706042404
+      },
+      "processed_at": "2026-05-15T23:54:52.387528",
       "error": null,
       "processing_started_at": "2026-05-15T23:45:02.527784"
     },
@@ -408,5 +415,5 @@
       "processing_started_at": "2026-05-15T23:45:02.527803"
     }
   ],
-  "last_updated": "2026-05-15T23:54:48.915700"
+  "last_updated": "2026-05-15T23:54:52.387965"
 }
