@@ -1440,7 +1440,7 @@
     {
       "id": "1fd3bf4c",
       "submitted_at": "2026-05-15T23:24:24.570480",
-      "status": "processing",
+      "status": "done",
       "data": {
         "tipo": "Soporte",
         "marca": "NEBRO",
@@ -1454,8 +1454,15 @@
         "alto_cm": 10.0
       },
       "seo_content": null,
-      "shopify_result": null,
-      "processed_at": null,
+      "shopify_result": {
+        "success": true,
+        "product_id": 8294629212196,
+        "handle": "soporte-bluetooth-nebro-wat096",
+        "title": "Soporte Bluetooth NEBRO WAT096",
+        "admin_url": "https://nebro-shop.myshopify.com/admin/products/8294629212196",
+        "variant_id": 44184780079140
+      },
+      "processed_at": "2026-05-16T07:34:55.393708",
       "error": null,
       "processing_started_at": "2026-05-16T07:25:03.230657"
     },
@@ -1523,5 +1530,5 @@
       "error": null
     }
   ],
-  "last_updated": "2026-05-16T07:34:49.979047"
+  "last_updated": "2026-05-16T07:34:55.394888"
 }
