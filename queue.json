@@ -279,7 +279,7 @@
     {
       "id": "d745f1ce",
       "submitted_at": "2026-05-15T15:27:59.144419",
-      "status": "processing",
+      "status": "done",
       "data": {
         "tipo": "Bocina",
         "marca": "NEBRO",
@@ -293,8 +293,15 @@
         "alto_cm": 9.0
       },
       "seo_content": null,
-      "shopify_result": null,
-      "processed_at": null,
+      "shopify_result": {
+        "success": true,
+        "product_id": 8294208405540,
+        "handle": "bocina-bluetooth-rgb-nebro-wg182-5w-sonido-envolvente-2000mah",
+        "title": "Bocina Bluetooth RGB NEBRO WG182 5W Sonido Envolvente 2000mAh",
+        "admin_url": "https://nebro-shop.myshopify.com/admin/products/8294208405540",
+        "variant_id": 44183705649188
+      },
+      "processed_at": "2026-05-15T23:54:40.922694",
       "error": null,
       "processing_started_at": "2026-05-15T23:30:03.473674"
     },
@@ -387,5 +394,5 @@
       "processing_started_at": "2026-05-15T23:45:02.527803"
     }
   ],
-  "last_updated": "2026-05-15T23:54:37.509246"
+  "last_updated": "2026-05-15T23:54:40.923773"
 }
