@@ -1643,7 +1643,7 @@
     {
       "id": "8298b5af",
       "submitted_at": "2026-05-15T23:49:30.641087",
-      "status": "processing",
+      "status": "done",
       "data": {
         "tipo": "Cargador",
         "marca": "NEBRO",
@@ -1657,8 +1657,15 @@
         "alto_cm": 10.0
       },
       "seo_content": null,
-      "shopify_result": null,
-      "processed_at": null,
+      "shopify_result": {
+        "success": true,
+        "product_id": 8294631243812,
+        "handle": "cargador-bluetooth-nebro-va001s",
+        "title": "Cargador Bluetooth NEBRO VA001s",
+        "admin_url": "https://nebro-shop.myshopify.com/admin/products/8294631243812",
+        "variant_id": 44184787353636
+      },
+      "processed_at": "2026-05-16T07:54:49.645096",
       "error": null,
       "processing_started_at": "2026-05-16T07:50:03.241598"
     },
@@ -1726,5 +1733,5 @@
       "error": null
     }
   ],
-  "last_updated": "2026-05-16T07:54:44.754862"
+  "last_updated": "2026-05-16T07:54:49.645673"
 }
