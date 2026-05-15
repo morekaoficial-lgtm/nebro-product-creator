@@ -533,7 +533,7 @@
     {
       "id": "69718198",
       "submitted_at": "2026-05-15T16:16:31.238126",
-      "status": "processing",
+      "status": "done",
       "data": {
         "tipo": "Bocina",
         "marca": "NEBRO",
@@ -547,8 +547,15 @@
         "alto_cm": 6.0
       },
       "seo_content": null,
-      "shopify_result": null,
-      "processed_at": null,
+      "shopify_result": {
+        "success": true,
+        "product_id": 8294269485092,
+        "handle": "bocina-bluetooth-nebro-wg150-5w",
+        "title": "Bocina Bluetooth NEBRO WG150 5W",
+        "admin_url": "https://nebro-shop.myshopify.com/admin/products/8294269485092",
+        "variant_id": 44183774986276
+      },
+      "processed_at": "2026-05-16T00:34:47.017898",
       "error": null,
       "processing_started_at": "2026-05-16T00:20:03.172800"
     },
@@ -618,5 +625,5 @@
       "error": null
     }
   ],
-  "last_updated": "2026-05-15T16:34:42.917462"
+  "last_updated": "2026-05-16T00:34:47.018668"
 }
