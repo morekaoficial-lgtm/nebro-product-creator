@@ -1399,7 +1399,28 @@
       "shopify_result": null,
       "processed_at": null,
       "error": null
+    },
+    {
+      "id": "161a8ffc",
+      "submitted_at": "2026-05-15T23:22:56.233614",
+      "status": "pending",
+      "data": {
+        "tipo": "Cable / Accesorio",
+        "marca": "NEBRO",
+        "modelo": "WD-311TT",
+        "descripcion_raw": "Modelo WD-311TT\n\nTamaño: 1.2M\n\nEntrada: Tipo-Ca Tipo-C\n\nMaterial: Aleación de zinc alambre trenzado\nTebro -GARANTIZADO\n\n3A\n\nPANTALLA DIGITAL INTELIGENTE\nNebro\n\n240W+ | C-C\n\nCable De Carga Rápida Trenzado De Colores\n\n1.2M\n\nWD-311TT\nTebro\n\n-GARANTIZADO-\n\n1.2M\n\n2400\n\nWebro\n\n240W |\n\nC-C\n\nCable De Carga Rápida Trenzado De Colores\n\nDurades\n\nWD-311TT",
+        "precio_venta": 126.0,
+        "costo_producto": 42.0,
+        "peso_kg": 0.107,
+        "largo_cm": 16.0,
+        "ancho_cm": 4.0,
+        "alto_cm": 9.0
+      },
+      "seo_content": null,
+      "shopify_result": null,
+      "processed_at": null,
+      "error": null
     }
   ],
-  "last_updated": "2026-05-15T23:21:30.303363"
+  "last_updated": "2026-05-15T23:22:56.233646"
 }
