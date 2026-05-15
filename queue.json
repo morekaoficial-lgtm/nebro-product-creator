@@ -192,7 +192,7 @@
     {
       "id": "fd685501",
       "submitted_at": "2026-05-15T15:21:37.221105",
-      "status": "processing",
+      "status": "done",
       "data": {
         "tipo": "Audífonos",
         "marca": "NEBRO",
@@ -206,8 +206,15 @@
         "alto_cm": 10.0
       },
       "seo_content": null,
-      "shopify_result": null,
-      "processed_at": null,
+      "shopify_result": {
+        "success": true,
+        "product_id": 8294208077860,
+        "handle": "audifonos-bluetooth-ows-nebro-we066-6-horas-bateria-estuche-300mah",
+        "title": "Audífonos Bluetooth OWS NEBRO WE066 6 Horas Batería Estuche 300mAh",
+        "admin_url": "https://nebro-shop.myshopify.com/admin/products/8294208077860",
+        "variant_id": 44183705321508
+      },
+      "processed_at": "2026-05-15T23:54:29.508952",
       "error": null,
       "processing_started_at": "2026-05-15T23:25:02.676784"
     },
@@ -366,5 +373,5 @@
       "processing_started_at": "2026-05-15T23:45:02.527803"
     }
   ],
-  "last_updated": "2026-05-15T23:54:26.274354"
+  "last_updated": "2026-05-15T23:54:29.510465"
 }
