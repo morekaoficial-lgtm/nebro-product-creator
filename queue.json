@@ -1179,7 +1179,7 @@
     {
       "id": "a5a9f953",
       "submitted_at": "2026-05-15T22:06:02.575676",
-      "status": "processing",
+      "status": "done",
       "data": {
         "tipo": "Bocina",
         "marca": "NEBRO",
@@ -1193,8 +1193,15 @@
         "alto_cm": 12.0
       },
       "seo_content": null,
-      "shopify_result": null,
-      "processed_at": null,
+      "shopify_result": {
+        "success": true,
+        "product_id": 8294614695972,
+        "handle": "bocina-bluetooth-collar-nebro-wg190-bluetooth-54-5w",
+        "title": "Bocina Bluetooth Collar NEBRO WG190 Bluetooth 54 5W",
+        "admin_url": "https://nebro-shop.myshopify.com/admin/products/8294614695972",
+        "variant_id": 44184699371556
+      },
+      "processed_at": "2026-05-16T06:14:44.385631",
       "error": null,
       "processing_started_at": "2026-05-16T06:10:03.648862"
     },
@@ -1220,5 +1227,5 @@
       "error": null
     }
   ],
-  "last_updated": "2026-05-16T06:14:39.442175"
+  "last_updated": "2026-05-16T06:14:44.386295"
 }
