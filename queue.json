@@ -802,7 +802,7 @@
     {
       "id": "50ff785a",
       "submitted_at": "2026-05-15T17:24:50.579025",
-      "status": "processing",
+      "status": "done",
       "data": {
         "tipo": "Bocina",
         "marca": "NEBRO",
@@ -816,11 +816,18 @@
         "alto_cm": 14.0
       },
       "seo_content": null,
-      "shopify_result": null,
-      "processed_at": null,
+      "shopify_result": {
+        "success": true,
+        "product_id": 8294320996388,
+        "handle": "bocina-bluetooth-tws-nebro-wg086-bluetooth-53-10w-ipx5",
+        "title": "Bocina Bluetooth TWS NEBRO WG086 Bluetooth 53 10W IPX5",
+        "admin_url": "https://nebro-shop.myshopify.com/admin/products/8294320996388",
+        "variant_id": 44183848386596
+      },
+      "processed_at": "2026-05-16T01:25:45.927035",
       "error": null,
       "processing_started_at": "2026-05-16T01:25:03.566488"
     }
   ],
-  "last_updated": "2026-05-16T01:25:41.120277"
+  "last_updated": "2026-05-16T01:25:45.927742"
 }
