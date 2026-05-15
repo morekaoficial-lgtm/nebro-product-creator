@@ -482,7 +482,7 @@
     {
       "id": "39651955",
       "submitted_at": "2026-05-15T16:10:36.808072",
-      "status": "processing",
+      "status": "done",
       "data": {
         "tipo": "Audífonos",
         "marca": "NEBRO",
@@ -496,8 +496,15 @@
         "alto_cm": 9.0
       },
       "seo_content": null,
-      "shopify_result": null,
-      "processed_at": null,
+      "shopify_result": {
+        "success": true,
+        "product_id": 8294269222948,
+        "handle": "audifonos-bluetooth-nebro-we067",
+        "title": "Audífonos Bluetooth NEBRO WE067",
+        "admin_url": "https://nebro-shop.myshopify.com/admin/products/8294269222948",
+        "variant_id": 44183774691364
+      },
+      "processed_at": "2026-05-16T00:34:37.859157",
       "error": null,
       "processing_started_at": "2026-05-16T00:15:03.622527"
     },
@@ -590,5 +597,5 @@
       "processing_started_at": "2026-05-16T00:30:03.429903"
     }
   ],
-  "last_updated": "2026-05-16T00:34:33.255173"
+  "last_updated": "2026-05-16T00:34:37.859746"
 }
