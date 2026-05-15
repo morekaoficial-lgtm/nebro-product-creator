@@ -1614,7 +1614,7 @@
     {
       "id": "63d43f1d",
       "submitted_at": "2026-05-15T23:41:06.411291",
-      "status": "pending",
+      "status": "processing",
       "data": {
         "tipo": "Cable / Accesorio",
         "marca": "NEBRO",
@@ -1630,7 +1630,8 @@
       "seo_content": null,
       "shopify_result": null,
       "processed_at": null,
-      "error": null
+      "error": null,
+      "processing_started_at": "2026-05-16T07:45:03.240892"
     }
   ],
   "last_updated": "2026-05-16T07:44:56.856444"
