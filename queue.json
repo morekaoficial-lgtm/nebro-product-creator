@@ -210,7 +210,28 @@
       "processed_at": null,
       "error": null,
       "processing_started_at": "2026-05-15T23:25:02.676838"
+    },
+    {
+      "id": "7eeb4a06",
+      "submitted_at": "2026-05-15T15:25:25.019040",
+      "status": "pending",
+      "data": {
+        "tipo": "Audífonos",
+        "marca": "NEBRO",
+        "modelo": "WE-064",
+        "descripcion_raw": "nebro\n\n-GARANTIZADO\n\nBatería grande de 180 mAh\n\nJi Eli 7003F4 3D verdadero\n\n30H\n\nBattery life\n\nAURICULARES PARA COLGAR DEL CUELLO\n\nModelo: WE-064\n\nnebro\n\n-GARANTIZADO\n\nAURICULARES PARA COLGAR DEL CUELLO\n\nNuevo Bluetooth 5.3\n\nMenor consumo de energía, transmisión más estable, latencia cero, disfruta de música fluida.\n\n80H\n\nBatería de duración ultralarga\n\nPuedes escuchar música de forma continua durante 80 horas después de cargarla una vez\n\nDiseño de ajuste magnético\n\nLos auriculares se adsorben automáticamente cuando están cerca uno del otro y no se enredan.\n\nNo puedo deshacerme de él\n\nDiseño ergonómico, se ajusta firmemente Ja las orejas y no se puede quitar incluso si eres un fanático de los deportes.\n\nModelo:WE-064",
+        "precio_venta": 225.0,
+        "costo_producto": 75.0,
+        "peso_kg": 0.109,
+        "largo_cm": 24.0,
+        "ancho_cm": 3.0,
+        "alto_cm": 17.0
+      },
+      "seo_content": null,
+      "shopify_result": null,
+      "processed_at": null,
+      "error": null
     }
   ],
-  "last_updated": "2026-05-15T15:23:23.668402"
+  "last_updated": "2026-05-15T15:25:25.019060"
 }
