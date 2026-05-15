@@ -1469,7 +1469,7 @@
     {
       "id": "f78a76b6",
       "submitted_at": "2026-05-15T23:26:08.974359",
-      "status": "processing",
+      "status": "done",
       "data": {
         "tipo": "Cable / Accesorio",
         "marca": "NEBRO",
@@ -1483,8 +1483,15 @@
         "alto_cm": 7.0
       },
       "seo_content": null,
-      "shopify_result": null,
-      "processed_at": null,
+      "shopify_result": {
+        "success": true,
+        "product_id": 8294630162468,
+        "handle": "cable-accesorio-bluetooth-nebro-wd05m-solar-carga-rapida",
+        "title": "Cable / Accesorio Bluetooth NEBRO WD05M Solar Carga Rápida",
+        "admin_url": "https://nebro-shop.myshopify.com/admin/products/8294630162468",
+        "variant_id": 44184783093796
+      },
+      "processed_at": "2026-05-16T07:44:38.302687",
       "error": null,
       "processing_started_at": "2026-05-16T07:35:03.454660"
     },
@@ -1598,5 +1605,5 @@
       "error": null
     }
   ],
-  "last_updated": "2026-05-15T23:41:06.411315"
+  "last_updated": "2026-05-16T07:44:38.303467"
 }
