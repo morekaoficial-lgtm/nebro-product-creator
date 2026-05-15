@@ -395,7 +395,7 @@
     {
       "id": "839b919e",
       "submitted_at": "2026-05-15T15:44:12.442356",
-      "status": "processing",
+      "status": "done",
       "data": {
         "tipo": "Audífonos",
         "marca": "NEBRO",
@@ -409,11 +409,18 @@
         "alto_cm": 12.0
       },
       "seo_content": null,
-      "shopify_result": null,
-      "processed_at": null,
+      "shopify_result": {
+        "success": true,
+        "product_id": 8294208962596,
+        "handle": "bocina-bluetooth-rgb-nebro-wet16-altavoz-doble-potente-portatil",
+        "title": "Bocina Bluetooth RGB NEBRO WET16 Altavoz Doble Potente Portátil",
+        "admin_url": "https://nebro-shop.myshopify.com/admin/products/8294208962596",
+        "variant_id": 44183706173476
+      },
+      "processed_at": "2026-05-15T23:54:56.123620",
       "error": null,
       "processing_started_at": "2026-05-15T23:45:02.527803"
     }
   ],
-  "last_updated": "2026-05-15T23:54:52.387965"
+  "last_updated": "2026-05-15T23:54:56.124365"
 }
