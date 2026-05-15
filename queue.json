@@ -231,7 +231,28 @@
       "shopify_result": null,
       "processed_at": null,
       "error": null
+    },
+    {
+      "id": "d745f1ce",
+      "submitted_at": "2026-05-15T15:27:59.144419",
+      "status": "pending",
+      "data": {
+        "tipo": "Bocina",
+        "marca": "NEBRO",
+        "modelo": "WG-182",
+        "descripcion_raw": "Tebro\n\n-GARANTIZADO\n\nX\n\nFRÍA RGB ILUMINACIÓN\n\nAltavoz Doble Bocina Inalámbrico\n\nWG-182\n\nVersión inalámbrica 5.4\n\nRuido Blanco\n\nAmplia Compatibilidad\n\n360\n\nSonido Envolvente\n\nBatería De Larga Duración\n\n5W\n\nPotencia de Salida\n\nParámetros\n\nModelo: WG-182\n\nVersion: 5.3\n\nCarga: 5V/0.5A\n\nDistança de trabalho: ≥10M\n\nBateria: 2000mAh\n\nTiempo de carga: 3 - 4 horas\n\nTiempo de reproducción: 3 - 4 horas\n\nInterfaz de carga: Tipo - C\n\nEspecificación / potencia del altavoz: 52mm/5w*2\n\nTamaño del producto: 176*80*80\n\nMODELO:WG-182",
+        "precio_venta": 309.0,
+        "costo_producto": 103.0,
+        "peso_kg": 0.56,
+        "largo_cm": 19.0,
+        "ancho_cm": 9.0,
+        "alto_cm": 9.0
+      },
+      "seo_content": null,
+      "shopify_result": null,
+      "processed_at": null,
+      "error": null
     }
   ],
-  "last_updated": "2026-05-15T15:25:25.019060"
+  "last_updated": "2026-05-15T15:27:59.144657"
 }
