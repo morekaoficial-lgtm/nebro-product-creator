@@ -1444,7 +1444,28 @@
       "processed_at": null,
       "error": null,
       "processing_started_at": "2026-05-16T07:25:03.230657"
+    },
+    {
+      "id": "f78a76b6",
+      "submitted_at": "2026-05-15T23:26:08.974359",
+      "status": "pending",
+      "data": {
+        "tipo": "Cable / Accesorio",
+        "marca": "NEBRO",
+        "modelo": "WD-05M",
+        "descripcion_raw": "CARACTERÍSTICAS DEL PRODUCTO:\n\n1. Tiempo de vida 20000 ciclos.\n\n2. Componente plástico de alta calidad de uso rudo con núcleo de cobre.\n\n3. Fabricado bajo estrictos estándares de calidad.\n\nFICHA TÉCNICA:\n\nProducto: Cable USB-V8\n\nModelo: WD-05M\n\nEntrada: USB 2.0\n\nSalida: 2.4A\n\nTamaño: 1M\n\nCompatibilidad: Dispositivos móviles y tabletas\n\nMaterial: Plástico + cobre\n\nPRECAUCIONES Y ADVERTENCIAS:\n\nDeberá de revisar el rango de voltaje requerido por su dispositivo antes de su uso.\n\nMantenga el cargador alejado del calor, fuego y luz solar directa.\n\nEvitar el contacto con agua, gases corrosivos, o ambientes húmedos.\n\nNo manipular o modificar este cargador ya que puede provocar descargas eléctricas.\n\nSi existiera algún daño, suspenda su uso.\n\nModelo: WD-05M\nCOMPATIBLE CON DISPOSITIVOS\n\nMOVILES YTABLETAS\n\n1M\n\nV8\n\nCable De Datos De Carga Rápida\n\nMaxde\n\nWD-05M",
+        "precio_venta": 18.0,
+        "costo_producto": 6.0,
+        "peso_kg": 0.1,
+        "largo_cm": 10.0,
+        "ancho_cm": 2.0,
+        "alto_cm": 7.0
+      },
+      "seo_content": null,
+      "shopify_result": null,
+      "processed_at": null,
+      "error": null
     }
   ],
-  "last_updated": "2026-05-15T23:24:24.570500"
+  "last_updated": "2026-05-15T23:26:08.974385"
 }
