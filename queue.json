@@ -1469,7 +1469,7 @@
     {
       "id": "f78a76b6",
       "submitted_at": "2026-05-15T23:26:08.974359",
-      "status": "pending",
+      "status": "processing",
       "data": {
         "tipo": "Cable / Accesorio",
         "marca": "NEBRO",
@@ -1485,12 +1485,13 @@
       "seo_content": null,
       "shopify_result": null,
       "processed_at": null,
-      "error": null
+      "error": null,
+      "processing_started_at": "2026-05-16T07:35:03.454660"
     },
     {
       "id": "31746899",
       "submitted_at": "2026-05-15T23:27:35.144843",
-      "status": "pending",
+      "status": "processing",
       "data": {
         "tipo": "Cable / Accesorio",
         "marca": "NEBRO",
@@ -1506,12 +1507,13 @@
       "seo_content": null,
       "shopify_result": null,
       "processed_at": null,
-      "error": null
+      "error": null,
+      "processing_started_at": "2026-05-16T07:35:03.454705"
     },
     {
       "id": "9adc097d",
       "submitted_at": "2026-05-15T23:30:02.218260",
-      "status": "pending",
+      "status": "processing",
       "data": {
         "tipo": "Cargador",
         "marca": "NEBRO",
@@ -1527,7 +1529,8 @@
       "seo_content": null,
       "shopify_result": null,
       "processed_at": null,
-      "error": null
+      "error": null,
+      "processing_started_at": "2026-05-16T07:35:03.454708"
     }
   ],
   "last_updated": "2026-05-16T07:34:55.394888"
