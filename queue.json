@@ -122,7 +122,28 @@
       "processed_at": null,
       "error": null,
       "processing_started_at": "2026-05-15T23:15:02.547293"
+    },
+    {
+      "id": "65cc3f31",
+      "submitted_at": "2026-05-15T15:16:58.179294",
+      "status": "pending",
+      "data": {
+        "tipo": "Audífonos",
+        "marca": "NEBRO",
+        "modelo": "WE-505",
+        "descripcion_raw": "nebro\n\nGARANTIZADO-\n\n0\n\nV5.4 WIRELESS\n\nOWS\n\nAURICULARES INALÁMBRICOS\n\nWE-505\n\nTebro\n\n-GARANTIZADO-\n\n0\n\nOWS\n\nAURICULARES INALÁMBRICOS\n\nSilicona icona liquida agradabila para la piel/reducción de ruido de llamadas/ panorámico\n\nWE-505\nModelo:WE-505\n\n7\n\nCapacidad del estuche de carga: 400mAh\n\nVersión de Bluetooth: Bluetooth 5.4\n\nCapacidad de los auriculares:40mAh\n\nPuerto de carga:Tipo C\n\nCorriente de carga: 5V/200mAh",
+        "precio_venta": 360.0,
+        "costo_producto": 120.0,
+        "peso_kg": 0.1,
+        "largo_cm": 3.0,
+        "ancho_cm": 9.0,
+        "alto_cm": 10.0
+      },
+      "seo_content": null,
+      "shopify_result": null,
+      "processed_at": null,
+      "error": null
     }
   ],
-  "last_updated": "2026-05-15T15:13:30.506992"
+  "last_updated": "2026-05-15T15:16:58.179319"
 }
