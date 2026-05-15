@@ -657,7 +657,7 @@
     {
       "id": "d2efaf7d",
       "submitted_at": "2026-05-15T17:13:57.090558",
-      "status": "processing",
+      "status": "done",
       "data": {
         "tipo": "Bocina",
         "marca": "NEBRO",
@@ -671,8 +671,15 @@
         "alto_cm": 18.0
       },
       "seo_content": null,
-      "shopify_result": null,
-      "processed_at": null,
+      "shopify_result": {
+        "success": true,
+        "product_id": 8294320832548,
+        "handle": "bocina-bluetooth-tws-nebro-wg080s-bluetooth-53-40w-ipx5",
+        "title": "Bocina Bluetooth TWS NEBRO WG080S Bluetooth 53 40W IPX5",
+        "admin_url": "https://nebro-shop.myshopify.com/admin/products/8294320832548",
+        "variant_id": 44183848222756
+      },
+      "processed_at": "2026-05-16T01:25:22.131144",
       "error": null,
       "processing_started_at": "2026-05-16T01:15:03.381851"
     },
@@ -787,5 +794,5 @@
       "processing_started_at": "2026-05-16T01:25:03.566488"
     }
   ],
-  "last_updated": "2026-05-15T17:24:50.579047"
+  "last_updated": "2026-05-16T01:25:22.132481"
 }
