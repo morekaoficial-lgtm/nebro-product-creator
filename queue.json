@@ -947,7 +947,7 @@
     {
       "id": "ab84ed73",
       "submitted_at": "2026-05-15T17:54:29.287140",
-      "status": "pending",
+      "status": "processing",
       "data": {
         "tipo": "Bocina",
         "marca": "NEBRO",
@@ -963,7 +963,8 @@
       "seo_content": null,
       "shopify_result": null,
       "processed_at": null,
-      "error": null
+      "error": null,
+      "processing_started_at": "2026-05-16T01:55:03.593367"
     }
   ],
   "last_updated": "2026-05-15T17:54:29.287383"
