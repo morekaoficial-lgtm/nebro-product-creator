@@ -1552,7 +1552,28 @@
       "shopify_result": null,
       "processed_at": null,
       "error": null
+    },
+    {
+      "id": "7240f354",
+      "submitted_at": "2026-05-15T23:38:50.407513",
+      "status": "pending",
+      "data": {
+        "tipo": "Cable / Accesorio",
+        "marca": "NEBRO",
+        "modelo": "WD-114L",
+        "descripcion_raw": "New Weaving Technology\n\nCon la nueva tecnologia de tejido, los hitos están firmemente conectados, son resistentes a fos arañazes y no son fáciles de romper\n\nCarga Transmisión Des En Uno\n\nLa transmisión de datus se puede realizar durante la carga, la carga es eficiente, la carga y la transmisión de datos no interfieren entre si\n\n2A\n\nHECHO EN CHINA\n\nCorriente Alta De Z A\n\nPuede transportar una corrents micma de 24, con satida rápida, segura y estabila, y punde cargar rápidamento teléfono\n\nConector De Aleación De Zinc\n\nMoldura de una pinza de alancio de ac revestimiento UV suave, ducaters y no fácil de romper, antioxidanta\nnebro\n\n-GARANTIZADO\n\nLongitud 1200MM\n\nAlambre Trenzado\n\nAleación de Zinc\n\n30\n\n30W\n\nTIPO-CALIGHTNING\n\nCable de datos trenzado de carga rápida\n\nWD-114L",
+        "precio_venta": 84.0,
+        "costo_producto": 28.0,
+        "peso_kg": 0.15,
+        "largo_cm": 15.0,
+        "ancho_cm": 5.0,
+        "alto_cm": 10.0
+      },
+      "seo_content": null,
+      "shopify_result": null,
+      "processed_at": null,
+      "error": null
     }
   ],
-  "last_updated": "2026-05-15T23:37:21.211379"
+  "last_updated": "2026-05-15T23:38:50.407538"
 }
