@@ -947,7 +947,7 @@
     {
       "id": "ab84ed73",
       "submitted_at": "2026-05-15T17:54:29.287140",
-      "status": "processing",
+      "status": "done",
       "data": {
         "tipo": "Bocina",
         "marca": "NEBRO",
@@ -961,8 +961,15 @@
         "alto_cm": 10.0
       },
       "seo_content": null,
-      "shopify_result": null,
-      "processed_at": null,
+      "shopify_result": {
+        "success": true,
+        "product_id": 8294400262180,
+        "handle": "bocina-bluetooth-tws-nebro-wg195-bluetooth-54-8w-ipx4",
+        "title": "Bocina Bluetooth TWS NEBRO WG195 Bluetooth 54 8W IPX4",
+        "admin_url": "https://nebro-shop.myshopify.com/admin/products/8294400262180",
+        "variant_id": 44184205361188
+      },
+      "processed_at": "2026-05-16T02:04:41.707507",
       "error": null,
       "processing_started_at": "2026-05-16T01:55:03.593367"
     },
@@ -1032,5 +1039,5 @@
       "error": null
     }
   ],
-  "last_updated": "2026-05-15T18:00:11.348140"
+  "last_updated": "2026-05-16T02:04:41.710368"
 }
