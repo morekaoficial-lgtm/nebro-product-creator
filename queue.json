@@ -831,7 +831,7 @@
     {
       "id": "9604d3f3",
       "submitted_at": "2026-05-15T17:36:00.199818",
-      "status": "processing",
+      "status": "done",
       "data": {
         "tipo": "Bocina",
         "marca": "NEBRO",
@@ -845,8 +845,15 @@
         "alto_cm": 12.0
       },
       "seo_content": null,
-      "shopify_result": null,
-      "processed_at": null,
+      "shopify_result": {
+        "success": true,
+        "product_id": 8294354386980,
+        "handle": "bocina-bluetooth-tws-nebro-wg132-bluetooth-53-8w",
+        "title": "Bocina Bluetooth TWS NEBRO WG132 Bluetooth 53 8W",
+        "admin_url": "https://nebro-shop.myshopify.com/admin/products/8294354386980",
+        "variant_id": 44183884824612
+      },
+      "processed_at": "2026-05-16T01:44:49.449279",
       "error": null,
       "processing_started_at": "2026-05-16T01:40:03.399434"
     },
@@ -916,5 +923,5 @@
       "error": null
     }
   ],
-  "last_updated": "2026-05-15T17:41:06.495026"
+  "last_updated": "2026-05-16T01:44:49.451338"
 }
