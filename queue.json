@@ -1755,7 +1755,28 @@
       "shopify_result": null,
       "processed_at": null,
       "error": null
+    },
+    {
+      "id": "84b05f08",
+      "submitted_at": "2026-05-15T23:57:50.218335",
+      "status": "pending",
+      "data": {
+        "tipo": "Cable / Accesorio",
+        "marca": "NEBRO",
+        "modelo": "VC-109",
+        "descripcion_raw": "CABLE IP PARA CARGA Y SINCRONIZA DATOS\n\nCarga Máxima\n\nCompatibilidad\n\nSincroniza datos\n\nCARACTERÍSTICAS DEL PRODUCTO:\n\nEl tiempo de vida es de 20000 ciclos.\n\nDiseñad en plástico de uso rudo con núcleo de cobre.\n\nElabora con los más altos estándares de calidad internacional.\n\nFICHA TÉCNICA:\n\nProducto: Cable\n\nModelo: VC-109\n\nEntrada: USB 2.0\n\nSalida: CC 5V-2.4A/12W\n\nSalida: TIPO-C 2.4A\n\nMedida: 1M\n\nCompatibilidad: Dispositivos móviles\n\nMaterial: Plástico + cobre\nTebro\n\nGARANTIZADO\n\n2.4A\n\nCARGA Y SINCRONIZA DATOS\n\nTipo-C\n\nبا\n\nVC-109\n\n1M",
+        "precio_venta": 18.0,
+        "costo_producto": 6.0,
+        "peso_kg": 0.107,
+        "largo_cm": 15.0,
+        "ancho_cm": 5.0,
+        "alto_cm": 9.0
+      },
+      "seo_content": null,
+      "shopify_result": null,
+      "processed_at": null,
+      "error": null
     }
   ],
-  "last_updated": "2026-05-15T23:56:05.673181"
+  "last_updated": "2026-05-15T23:57:50.218363"
 }
