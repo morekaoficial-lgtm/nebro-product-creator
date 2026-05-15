@@ -134,7 +134,7 @@
     {
       "id": "65cc3f31",
       "submitted_at": "2026-05-15T15:16:58.179294",
-      "status": "processing",
+      "status": "done",
       "data": {
         "tipo": "Audífonos",
         "marca": "NEBRO",
@@ -148,8 +148,15 @@
         "alto_cm": 10.0
       },
       "seo_content": null,
-      "shopify_result": null,
-      "processed_at": null,
+      "shopify_result": {
+        "success": true,
+        "product_id": 8294207815716,
+        "handle": "audifonos-bluetooth-ows-nebro-we505-silicona-reduccion-ruido-bluetooth-54",
+        "title": "Audífonos Bluetooth OWS NEBRO WE505 Silicona Reducción Ruido Bluetooth 54",
+        "admin_url": "https://nebro-shop.myshopify.com/admin/products/8294207815716",
+        "variant_id": 44183705059364
+      },
+      "processed_at": "2026-05-15T23:54:22.342872",
       "error": null,
       "processing_started_at": "2026-05-15T23:20:03.552185"
     },
@@ -352,5 +359,5 @@
       "processing_started_at": "2026-05-15T23:45:02.527803"
     }
   ],
-  "last_updated": "2026-05-15T23:54:18.997016"
+  "last_updated": "2026-05-15T23:54:22.344108"
 }
