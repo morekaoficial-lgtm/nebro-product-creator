@@ -827,7 +827,28 @@
       "processed_at": "2026-05-16T01:25:45.927035",
       "error": null,
       "processing_started_at": "2026-05-16T01:25:03.566488"
+    },
+    {
+      "id": "9604d3f3",
+      "submitted_at": "2026-05-15T17:36:00.199818",
+      "status": "pending",
+      "data": {
+        "tipo": "Bocina",
+        "marca": "NEBRO",
+        "modelo": "WG-132",
+        "descripcion_raw": "Tebro\n\n-GARANTIZADG\n\nMini\n\nBocina Portátil Para Exteriores\n\nWG-132\nVarsión malámbrica 5.3\n\nIPXA\n\nBlanco\n\nBaterie De Large Die\n\nAmplia Compatibilidad\n\nTWS\n\n8W\n\nRotencia de Saliga\n\nParámetros\n\nModelo: WG-132\n\nVersión de BT: V5.3\n\nPotencia de salida. 8W\n\nDuración de la batería:\n\nTiempo de reproducción del altavoz (volumen al 100%): 2.5h (volumen al 75 95): 3h\n\nTiempo de conversación: aproximadamente 3 horas (100%)\n\nTiempo en espera: aproximadamente 120 horas\n\nDistancia de transmisión de Bluetooth: 10 m\n\nCompatibilidad con Bluetooth: BT, TF, AUX, FM, TWS, llamada\n\nMODELO:WG-132\nrebro\n\nWG-132\n\nInstrucciones de operación:\n\ntamparejamiento: cuando se abre el altavoz, el valor predeterminado es \"modo\", en \"Modo\", asegúrese de que su teléfono u otro dispositivo\" está encendido, asi que Busque el nombre: \"nebro WG-132\" y ábrelo, después de que la conexión sea exitosa, usted Puedes\n\ntocar música y disfrutaria. 2 tarjeta tf: Inserte la tarjeta TF y luego cambie al modo de tarjeta TF Toca música.\n\n3 USB: Inserte el controlador usb, luego cambie al modo USB y raproduzca Música.\n\n4. DC5v puerto de carga, utilice la linea de carga para cargar el dispositivo. Período Al cargar, verás luces rojas cerca del puerto,\n\n6. AUX: Inserte el cable del altavoz y el teléfono para reproducir música En modo radio, el cable de audio se puede insertar como antena Radio externa,\n\nEspecificaciones del producto:\n\nVersión: 53\n\nMaterial: S + hielo de silicio\n\nSoporte: 1 eta TF, FM, USB, AUX, TWS,\n\nAltavoces pulgadas, 4 Omega/8W*1\n\nDistancia trabajo: ≥ 10 m\n\nBatería: 3, 1500mah\n\nTiempo de ego: 1-2 horas\n\nTiempo de a",
+        "precio_venta": 213.0,
+        "costo_producto": 71.0,
+        "peso_kg": 0.37,
+        "largo_cm": 12.0,
+        "ancho_cm": 6.0,
+        "alto_cm": 12.0
+      },
+      "seo_content": null,
+      "shopify_result": null,
+      "processed_at": null,
+      "error": null
     }
   ],
-  "last_updated": "2026-05-16T01:25:45.927742"
+  "last_updated": "2026-05-15T17:36:00.199852"
 }
