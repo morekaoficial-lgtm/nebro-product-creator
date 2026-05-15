@@ -1059,7 +1059,28 @@
       "processed_at": "2026-05-16T02:05:34.438055",
       "error": null,
       "processing_started_at": "2026-05-16T02:05:02.691003"
+    },
+    {
+      "id": "ca4dfc82",
+      "submitted_at": "2026-05-15T19:38:23.608665",
+      "status": "pending",
+      "data": {
+        "tipo": "Audífonos",
+        "marca": "NEBRO",
+        "modelo": "WE T25S",
+        "descripcion_raw": "Especificaciones del producto -\n\nColor del producto:negro\n\nVersión inalámbrica: V5.3.\n\nDistancia de transmisión: >10 metros.\n\nDiámetro del altavoz: 13 milímetros.\n\nFrecuencia: 32 ohmios.\n\nSensibilidad: 107±3dB.\n\nMade in China\n\nRango de respuesta de frecuencia: 20-20kHz\n\nCapacidad de la batería (caja de carga): 4.2V/300mAh\n\nCapacidad de carga (auricular): 4.2V/30mAh\n\nTiempo de carga (caja de carga): aproximadamente 1.5 horas\n\nLa caja de carga se puede usar para cargar losauriculares: aproximadamente 3 veces.\nFARPHONES\n\nSCREEN WIRELESS\n\nTWS\n\nHEADSET\n\nHO\n\nدو\n\n001\n\n100\n\nHigh Quality Sound\n\nThe Impressive Hi-fi Stereo Sound And Clear Call\n\nCZ\n\nANC+ENC\n\nCasque stéréo antibrust haute definition onore\n\nDE\n\nInteligentni stereo sluchatka potlačenim hluku, kvalita ruku s vysokým rozlišenim\n\nES\n\nИнтеллектуальные стереонаушни кисшумоподавлением, качество з вука высской четности\n\nRU\n\nCanque takreo antitruit baute defuntion\n\nEN\n\ncancelación\n\nAuriculares estéreo inteligentes con cancelación de rundo, calidad de sanida de alta delfinicion\n\nPT\n\nFones de ouvelo esteren com cancelamento de cuida inteligente, qualidade de som de alta definição\nWIRELESS\n\nEARPHONES\n\nCOLOR SCREEN WIRELES\n\nTWS\n\n100\n\nThe Impressive Hi-fi Stereo Sound And Clear Call\n\nANC+ENC\n\nHigh Quiatty Sound\n\nPremium HD Sound\n\nT25S\n\nTouch control your devices of iOS or Android by the earbuds",
+        "precio_venta": 267.0,
+        "costo_producto": 89.0,
+        "peso_kg": 0.168,
+        "largo_cm": 14.0,
+        "ancho_cm": 5.0,
+        "alto_cm": 10.0
+      },
+      "seo_content": null,
+      "shopify_result": null,
+      "processed_at": null,
+      "error": null
     }
   ],
-  "last_updated": "2026-05-16T02:05:34.438904"
+  "last_updated": "2026-05-15T19:38:23.609024"
 }
