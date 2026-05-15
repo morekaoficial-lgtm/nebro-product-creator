@@ -653,7 +653,28 @@
       "processed_at": "2026-05-16T00:39:00.608604",
       "error": null,
       "processing_started_at": "2026-05-16T00:35:03.024858"
+    },
+    {
+      "id": "d2efaf7d",
+      "submitted_at": "2026-05-15T17:13:57.090558",
+      "status": "pending",
+      "data": {
+        "tipo": "Bocina",
+        "marca": "NEBRO",
+        "modelo": "WG-080S",
+        "descripcion_raw": "Conexión BT\n\n1. Encienda el altavoz, busque en su teléfono un dispositivo BT llamado \"WG-080S*y luego haga clic en conectarse.\n\n2. En la conexión bluetooth, Presione el botón \"modo\" durante 3 segundos para desconectar la conexión Bluetooth\n\nModo TWS\n\n1. Encienda los dos altavoces para asegurarse de que no están conectados a ningún\n\ndispositivo.\n\n2. Haga doble clic en el botón \"power\" de un altavoz para ingresar al modo de emparejamiento tws.\n\n3. Si el emparejamiento es exitoso, el indicador de emparejamiento TWS de los dos altavoces se mantendrá amarillo. El indicador Bluetooth del altavoz principal parpadeará y el altavoz secundario se apagara.\n\n4. Busque y haga clic en \"WG-080S\" para conectarse a BT.\n\n5. Haga doble clic en el botón \"power\" de cualquier altavoz para salir del modo de emparejamiento tws.\n\nModo AUX\n\nCuando el altavoz está conectado a la fuente de audio a través de un cable de audio de 3,5 mm, reproducirá automáticamente el audio en el dispositivo. (hay un tono de alerta.\n\nla luz azul se mantie\nAT 5.3\n\nSonido digital\n\nBanstide energia Bléctrica\n\nCarga sapida\n\nMicrofona\n\n40W\n\nALD\n\nUSB\n\nTWB\n\nTF\nNORMAS\n\n0\n\nModelo:WG-080S\n\n0\n\nVersión BT. 5.3\n\nPotencia: 40W\n\nUnidad de altavoz: $106mm\n\nRespuesta de frecuencia: 50hz-18khz\n\nRango inalámbrico: ≤ 10m\n\nCapacidad de la batería: 4000mah\n\nEntrada de alimentación: tipo-c 5V/2A\n\nTiempo de carga: 5 horas\n\nTiempo de juego: 5-6 horas\n\nTamaño: 160*90*191 mm\n\nPeso neto: 1580 gramos\nTebro\n\nGARANTIZADO\n\nWG-080S\n\nAltavoces inalámbricos portátiles\n\nIPX5\n\n40\n\nRGB\n\nTebro\n\nTWS",
+        "precio_venta": 1785.0,
+        "costo_producto": 595.0,
+        "peso_kg": 1.828,
+        "largo_cm": 23.0,
+        "ancho_cm": 24.0,
+        "alto_cm": 18.0
+      },
+      "seo_content": null,
+      "shopify_result": null,
+      "processed_at": null,
+      "error": null
     }
   ],
-  "last_updated": "2026-05-16T00:55:11.046104"
+  "last_updated": "2026-05-15T17:13:57.090828"
 }
