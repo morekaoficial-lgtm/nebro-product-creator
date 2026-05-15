@@ -761,7 +761,28 @@
       "shopify_result": null,
       "processed_at": null,
       "error": null
+    },
+    {
+      "id": "50ff785a",
+      "submitted_at": "2026-05-15T17:24:50.579025",
+      "status": "pending",
+      "data": {
+        "tipo": "Bocina",
+        "marca": "NEBRO",
+        "modelo": "WG-086",
+        "descripcion_raw": "Tebro\n\nWG-086\n\n1: Coincidencia: cuando el altavoz está encendido, el predeterminado es el \"modo\" a conectar, asegurandose de que su teléfono u otro dispositivo está encendido. busque el nombre:\"Nebro WG-086\", luego ábrelo y, una vez conectado con éxito, podrá reproducir música y disfrutario.\n\n2: Tarjeta TF: inserte la tarjeta TF y luego cambie al modo de tarjeta TF para reproducir música.\n\n3: USB: Inserte el controlador USB y cambie al modo USB para reproducir música.\n\n4: DC 5V: puerto de carga, utilice la linea de carga para cargar el dispositivo. Al cargar, verás luces rojas cerca del puerto,\n\nEspecificaciones del producto:\n\nVersión: 5.3\n\nContrato de trabajo: 10m\n\nModo de suministro de energia. DC 5V\n\nDuración de la reproducción: 2,5 horas\n\nTiempo de carga: 2,5 horas\n\nFrecuencia: 30hz-18khz\n\nSeis ruidos: 85DB\n\nCapacidad de la batería: 1200mAh\n\nFunción del producto: TF/FM/USB/TWS\n\nTF-USB admite 32 GB (solo admite formato fat)\n\nPrincipales funciones y uso.\n\n+\" Corta una canción, presiona para aumentar el volu\nModelo de producto: WG-086\n\nVersión: 5.3\n\nContrato de trabajo: 10m\n\nParámetros del altavoz: 4 Omega 10w\n\nFrecuencia: 30hz-18khz\n\nCapacidad de la batería: 1200mah\n\nDuración de la reproducción: 2,5 horas\n\nTiempo de carga: 2.5 horas\n\nFunción del producto: TF/FM/USB/TWS\n\nTF - USB admite 32 GB (solo admite formato fat)\nTWS\n\nmebro\n\n+:-\n\nWG-086\n\nTWS\n\nAmbas alternativas se forman a través de la transesterificación de la uretra\nnebro\n\nGARANTIZADO\n\nLuces multicolor\n\nMebro\n\nWG-086\n\nBOCINA\n\nIMPERMEABILIZACIÓN\n\nIPX5\n\n10W",
+        "precio_venta": 330.0,
+        "costo_producto": 110.0,
+        "peso_kg": 0.584,
+        "largo_cm": 13.0,
+        "ancho_cm": 13.0,
+        "alto_cm": 14.0
+      },
+      "seo_content": null,
+      "shopify_result": null,
+      "processed_at": null,
+      "error": null
     }
   ],
-  "last_updated": "2026-05-15T17:23:04.698576"
+  "last_updated": "2026-05-15T17:24:50.579047"
 }
