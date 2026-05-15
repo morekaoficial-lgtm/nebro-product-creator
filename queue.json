@@ -620,7 +620,7 @@
     {
       "id": "cff8a9a4",
       "submitted_at": "2026-05-15T16:34:42.917438",
-      "status": "processing",
+      "status": "done",
       "data": {
         "tipo": "Audífonos",
         "marca": "NEBRO",
@@ -634,11 +634,18 @@
         "alto_cm": 8.0
       },
       "seo_content": null,
-      "shopify_result": null,
-      "processed_at": null,
+      "shopify_result": {
+        "success": true,
+        "product_id": 8294276268068,
+        "handle": "audifonos-bluetooth-tws-nebro-t20s-bluetooth-53",
+        "title": "Audífonos Bluetooth TWS NEBRO T20S Bluetooth 53",
+        "admin_url": "https://nebro-shop.myshopify.com/admin/products/8294276268068",
+        "variant_id": 44183782719524
+      },
+      "processed_at": "2026-05-16T00:39:00.608604",
       "error": null,
       "processing_started_at": "2026-05-16T00:35:03.024858"
     }
   ],
-  "last_updated": "2026-05-16T00:34:55.342058"
+  "last_updated": "2026-05-16T00:39:00.609427"
 }
