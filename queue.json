@@ -126,7 +126,7 @@
     {
       "id": "65cc3f31",
       "submitted_at": "2026-05-15T15:16:58.179294",
-      "status": "pending",
+      "status": "processing",
       "data": {
         "tipo": "Audífonos",
         "marca": "NEBRO",
@@ -142,12 +142,13 @@
       "seo_content": null,
       "shopify_result": null,
       "processed_at": null,
-      "error": null
+      "error": null,
+      "processing_started_at": "2026-05-15T23:20:03.552185"
     },
     {
       "id": "dfe79406",
       "submitted_at": "2026-05-15T15:19:39.147094",
-      "status": "pending",
+      "status": "processing",
       "data": {
         "tipo": "Audífonos",
         "marca": "NEBRO",
@@ -163,7 +164,8 @@
       "seo_content": null,
       "shopify_result": null,
       "processed_at": null,
-      "error": null
+      "error": null,
+      "processing_started_at": "2026-05-15T23:20:03.552247"
     }
   ],
   "last_updated": "2026-05-15T15:19:39.147116"
