@@ -1575,7 +1575,28 @@
       "processed_at": null,
       "error": null,
       "processing_started_at": "2026-05-16T07:40:03.784878"
+    },
+    {
+      "id": "63d43f1d",
+      "submitted_at": "2026-05-15T23:41:06.411291",
+      "status": "pending",
+      "data": {
+        "tipo": "Cable / Accesorio",
+        "marca": "NEBRO",
+        "modelo": "WD-301TT",
+        "descripcion_raw": "TIPO-Ca TIPO-C\n\nMebro\n\nMebro\n\n65W+\n\nCABLE DE DATOS TRENZADO\n\nWD-301TT\nCubierta Exterior Tejida Mejorada\n\nAlambre trenzado de alta densidad material duradere de alta resistencia, maer vida útil y mayor durabilidad\n\nCompatibilidad Inteligente\n\nIdentifica de forma inteligente todos tos dispositivos y es compatible con todos los dispositivos de carga\n\nAleación De Zinc\n\nLa superlice tiene un revestiment antioxidante, que est duraders, nose готе lácilmente y es remittente a la in\n\n日\n\nChip Inteligente Incorporado\n\nLa carga rápida no caña a dopo ya adopta de farera eteligente a la c requerida por el dispunitine",
+        "precio_venta": 36.0,
+        "costo_producto": 12.0,
+        "peso_kg": 0.1,
+        "largo_cm": 15.0,
+        "ancho_cm": 5.0,
+        "alto_cm": 10.0
+      },
+      "seo_content": null,
+      "shopify_result": null,
+      "processed_at": null,
+      "error": null
     }
   ],
-  "last_updated": "2026-05-15T23:38:50.407538"
+  "last_updated": "2026-05-15T23:41:06.411315"
 }
