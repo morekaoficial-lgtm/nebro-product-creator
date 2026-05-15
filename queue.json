@@ -420,7 +420,28 @@
       "processed_at": "2026-05-15T23:54:56.123620",
       "error": null,
       "processing_started_at": "2026-05-15T23:45:02.527803"
+    },
+    {
+      "id": "0309ecae",
+      "submitted_at": "2026-05-15T15:59:10.170765",
+      "status": "pending",
+      "data": {
+        "tipo": "Audífonos",
+        "marca": "NEBRO",
+        "modelo": "WE T9",
+        "descripcion_raw": "Especificaciones del producto_\n\nColor del producto: negro\n\nVersión inalámbrica: V5.3.\n\nDistancia de transmisión: >10 metros.\n\nDiámetro del altavoz: 13 milímetros.\n\nFrecuencia: 32 ohmios.\n\nSensibilidad: 107±3dB.\n\nMade in China\n\nRango de respuesta de frecuencia: 20-20 kHz.\n\nCapacidad de la batería (caja de carga): 4.2V/300mAh.\n\nCapacidad de carga (auricular): 4.2V/30mAh.\n\nTiempo de carga (caja de carga): aproximadamente\n\n1.5 horas.\n\nNEGRO\n\nLa caja de carga se puede usar para cargar los auriculares: aproximadamente 3 veces.\nIRELESS STPBUD REA WIRELESS\n\nTWS\n\n$135\n\nS\n\nWIRELESS\n\nImpressive Hi-fi Stereo Sound And Clear Call\n\nPromkum HD Sunnd\n\nHigh Qually Sound\n\nCZ\n\nvetta avuku\n\nPT\nTebro\n\nWIRELESS EARBUDS\n\n*:\n\nFLIP THE FACE\n\nD\n\nDSETS WIRELES\n\nTW\n\nT9",
+        "precio_venta": 330.0,
+        "costo_producto": 110.0,
+        "peso_kg": 0.2,
+        "largo_cm": 14.0,
+        "ancho_cm": 6.0,
+        "alto_cm": 10.0
+      },
+      "seo_content": null,
+      "shopify_result": null,
+      "processed_at": null,
+      "error": null
     }
   ],
-  "last_updated": "2026-05-15T23:54:56.124365"
+  "last_updated": "2026-05-15T15:59:10.170800"
 }
