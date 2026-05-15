@@ -1327,7 +1327,28 @@
       "shopify_result": null,
       "processed_at": null,
       "error": null
+    },
+    {
+      "id": "f9c34e33",
+      "submitted_at": "2026-05-15T23:02:45.806138",
+      "status": "pending",
+      "data": {
+        "tipo": "Cable / Accesorio",
+        "marca": "NEBRO",
+        "modelo": "WD-308",
+        "descripcion_raw": "Tebro\n\n-GARANTIZADO\n\nTipo-O-Laming\n\nmebro\n\n27W\n\n27W+65W\n\nCable Trenzado De Aleación De Zinc\n\nWD-308\nModelo:WD-308\n\nTamaño: 1.2M\n\nEntrada: A+C-C+L\n\nMaterial: Aleación de zinc alambre trenzado\nTebro\n\nGARANTIZADO\n\n4 in 1\n\nfirebro\n\n27W\n\n65W\n\nWD-308\n\n27W+65W\n\nCable Trenzado De Aleación De Zinc\n\nLongitud del\n\nUSB-AxTipo-C s Tipe-C-Liglitning. Cuntis montes para cсателитантинше",
+        "precio_venta": 96.0,
+        "costo_producto": 32.0,
+        "peso_kg": 0.1,
+        "largo_cm": 10.0,
+        "ancho_cm": 5.0,
+        "alto_cm": 9.0
+      },
+      "seo_content": null,
+      "shopify_result": null,
+      "processed_at": null,
+      "error": null
     }
   ],
-  "last_updated": "2026-05-15T23:00:09.832429"
+  "last_updated": "2026-05-15T23:02:45.806167"
 }
