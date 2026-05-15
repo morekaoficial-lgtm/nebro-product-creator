@@ -723,7 +723,7 @@
     {
       "id": "a98014f6",
       "submitted_at": "2026-05-15T17:20:59.926978",
-      "status": "pending",
+      "status": "processing",
       "data": {
         "tipo": "Bocina",
         "marca": "NEBRO",
@@ -739,12 +739,13 @@
       "seo_content": null,
       "shopify_result": null,
       "processed_at": null,
-      "error": null
+      "error": null,
+      "processing_started_at": "2026-05-16T01:25:03.566448"
     },
     {
       "id": "c42e0639",
       "submitted_at": "2026-05-15T17:23:04.698547",
-      "status": "pending",
+      "status": "processing",
       "data": {
         "tipo": "Bocina",
         "marca": "NEBRO",
@@ -760,12 +761,13 @@
       "seo_content": null,
       "shopify_result": null,
       "processed_at": null,
-      "error": null
+      "error": null,
+      "processing_started_at": "2026-05-16T01:25:03.566484"
     },
     {
       "id": "50ff785a",
       "submitted_at": "2026-05-15T17:24:50.579025",
-      "status": "pending",
+      "status": "processing",
       "data": {
         "tipo": "Bocina",
         "marca": "NEBRO",
@@ -781,7 +783,8 @@
       "seo_content": null,
       "shopify_result": null,
       "processed_at": null,
-      "error": null
+      "error": null,
+      "processing_started_at": "2026-05-16T01:25:03.566488"
     }
   ],
   "last_updated": "2026-05-15T17:24:50.579047"
