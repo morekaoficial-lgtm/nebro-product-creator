@@ -831,7 +831,7 @@
     {
       "id": "9604d3f3",
       "submitted_at": "2026-05-15T17:36:00.199818",
-      "status": "pending",
+      "status": "processing",
       "data": {
         "tipo": "Bocina",
         "marca": "NEBRO",
@@ -847,12 +847,13 @@
       "seo_content": null,
       "shopify_result": null,
       "processed_at": null,
-      "error": null
+      "error": null,
+      "processing_started_at": "2026-05-16T01:40:03.399434"
     },
     {
       "id": "6093dc2b",
       "submitted_at": "2026-05-15T17:38:14.387988",
-      "status": "pending",
+      "status": "processing",
       "data": {
         "tipo": "Audífonos",
         "marca": "NEBRO",
@@ -868,12 +869,13 @@
       "seo_content": null,
       "shopify_result": null,
       "processed_at": null,
-      "error": null
+      "error": null,
+      "processing_started_at": "2026-05-16T01:40:03.399485"
     },
     {
       "id": "c23bff71",
       "submitted_at": "2026-05-15T17:39:45.658745",
-      "status": "pending",
+      "status": "processing",
       "data": {
         "tipo": "Audífonos",
         "marca": "NEBRO",
@@ -889,7 +891,8 @@
       "seo_content": null,
       "shopify_result": null,
       "processed_at": null,
-      "error": null
+      "error": null,
+      "processing_started_at": "2026-05-16T01:40:03.399489"
     }
   ],
   "last_updated": "2026-05-15T17:39:45.659083"
