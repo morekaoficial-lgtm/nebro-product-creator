@@ -1636,7 +1636,7 @@
     {
       "id": "8298b5af",
       "submitted_at": "2026-05-15T23:49:30.641087",
-      "status": "pending",
+      "status": "processing",
       "data": {
         "tipo": "Cargador",
         "marca": "NEBRO",
@@ -1652,7 +1652,8 @@
       "seo_content": null,
       "shopify_result": null,
       "processed_at": null,
-      "error": null
+      "error": null,
+      "processing_started_at": "2026-05-16T07:50:03.241598"
     }
   ],
   "last_updated": "2026-05-15T23:49:30.641113"
