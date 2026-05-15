@@ -1190,7 +1190,28 @@
       "processed_at": null,
       "error": null,
       "processing_started_at": "2026-05-16T06:10:03.648862"
+    },
+    {
+      "id": "f3caee0e",
+      "submitted_at": "2026-05-15T22:12:00.514417",
+      "status": "pending",
+      "data": {
+        "tipo": "Audífonos",
+        "marca": "NEBRO",
+        "modelo": "WJ-002",
+        "descripcion_raw": "mebro\n\nGARANTIZADO\n\nAUDIFONO EXTRA BASS\n\nAPRECACUCIONES\n\n1. Asegúrese de que el producto se mantenga alejado del calor, fuegoluz solar directa agua, ambientes húmedos, o gase es corrosivos\n\n2. No corte o muerda el cable.\n\n3. Siel producto presenta algún dan o, evite su uso\n\nMODELO:WJ-002\n\nPRODUCTO:AUTIFONO\nTebro\n\nGARANTIZADO\n\nWJ-002\n\nAUDIFONO EXTRA BASS",
+        "precio_venta": 54.0,
+        "costo_producto": 18.0,
+        "peso_kg": 0.1,
+        "largo_cm": 10.0,
+        "ancho_cm": 2.0,
+        "alto_cm": 7.0
+      },
+      "seo_content": null,
+      "shopify_result": null,
+      "processed_at": null,
+      "error": null
     }
   ],
-  "last_updated": "2026-05-15T22:06:02.575969"
+  "last_updated": "2026-05-15T22:12:00.514448"
 }
