@@ -1632,7 +1632,28 @@
       "processed_at": null,
       "error": null,
       "processing_started_at": "2026-05-16T07:45:03.240892"
+    },
+    {
+      "id": "8298b5af",
+      "submitted_at": "2026-05-15T23:49:30.641087",
+      "status": "pending",
+      "data": {
+        "tipo": "Cargador",
+        "marca": "NEBRO",
+        "modelo": "VA-001s",
+        "descripcion_raw": "CARGADOR DOBLE ENTRADA PARA AUTO\n\nUSB A+T\n\nPOWER OU\n\n50\n\nPRECAUCIONES Y ADVERTENCIAS:\n\nVerifique el rango de voltaje requerido por su dispositivo antes de uso. No exponer el cargador a altas lemperaturas.\n\nEvite si contacto con agua, gases corrosivos o ambientes húmedos.\n\nNo altere ni modifique el cargador por ningún motivo.\n\nSi el producto tiene algún daño, suspenda su uso inmediatamente.\n\nEvite trozar o manipular el cable del cargador\nVA-0015\n\nCARGADOR\n\nDOBLE ENTRADA PARA AUTO\n\n370\n\nD\n\nUSB A+TIRO-C\n\nPOWER POTPOT\n\n50N",
+        "precio_venta": 141.0,
+        "costo_producto": 47.0,
+        "peso_kg": 0.1,
+        "largo_cm": 15.0,
+        "ancho_cm": 5.0,
+        "alto_cm": 10.0
+      },
+      "seo_content": null,
+      "shopify_result": null,
+      "processed_at": null,
+      "error": null
     }
   ],
-  "last_updated": "2026-05-16T07:44:56.856444"
+  "last_updated": "2026-05-15T23:49:30.641113"
 }
