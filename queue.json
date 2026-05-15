@@ -1614,7 +1614,7 @@
     {
       "id": "63d43f1d",
       "submitted_at": "2026-05-15T23:41:06.411291",
-      "status": "processing",
+      "status": "done",
       "data": {
         "tipo": "Cable / Accesorio",
         "marca": "NEBRO",
@@ -1628,8 +1628,15 @@
         "alto_cm": 10.0
       },
       "seo_content": null,
-      "shopify_result": null,
-      "processed_at": null,
+      "shopify_result": {
+        "success": true,
+        "product_id": 8294631211044,
+        "handle": "cable-accesorio-bluetooth-nebro-wd301tt-65w-carga-rapida",
+        "title": "Cable / Accesorio Bluetooth NEBRO WD301TT 65W Carga Rápida",
+        "admin_url": "https://nebro-shop.myshopify.com/admin/products/8294631211044",
+        "variant_id": 44184787320868
+      },
+      "processed_at": "2026-05-16T07:54:44.754282",
       "error": null,
       "processing_started_at": "2026-05-16T07:45:03.240892"
     },
@@ -1719,5 +1726,5 @@
       "error": null
     }
   ],
-  "last_updated": "2026-05-15T23:54:26.114160"
+  "last_updated": "2026-05-16T07:54:44.754862"
 }
