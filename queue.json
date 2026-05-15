@@ -965,7 +965,28 @@
       "processed_at": null,
       "error": null,
       "processing_started_at": "2026-05-16T01:55:03.593367"
+    },
+    {
+      "id": "4ed9f9a7",
+      "submitted_at": "2026-05-15T17:56:09.936656",
+      "status": "pending",
+      "data": {
+        "tipo": "Bocina",
+        "marca": "NEBRO",
+        "modelo": "WG-196",
+        "descripcion_raw": "Tebro\n\nWG-196\n\nInstrucciones de operación:\n\n1. aparece: cuando el altavoz está encendido, el valor predeterminado es \"modo\", Bajo el \"modo\", asegúrese de que su teléfono u otro dispositivo \"Abre. Luego busque el nombre: \"Nebro WG-196\" y ábrelo Después del éxito, puedes tocar música y disfrutarla.\n\n2: tarjeta TF: inserte la tarjeta TF y luego cambie al modo Tarjeta TF y reproducción de música.\n\n3: USB: inserte el controlador USB y luego cambie al modo USB toca música.\n\n4: DC 5V: puerto de carga, utilice la línea de carga para cargar el dispositivo. Durante la carga, verá una luz roja cerca del puerto,\n\nEspecificaciones del producto:\n\nModelo: WG-196\n\nVersión de Inalámbrico: 5.3\n\nPotencia de salida: 8 W\n\nTiempo de reproducción del altavoz: 2 horas\n\nTiempo de carga: 3 horas\n\nDistancia de transmisión de Inalámbrico: ≥10 m\n\nInterfaz de carga: Tipo-C\n\nTamaño del producto:97*97*111mm\n\nPresione para abrir o cerrar\n\n\"+\"Presiona una canción por un corto tiempo, presiona y mantén para subir el volumen, y haz doble clic e\nVersión Inalámbrica 5.3\n\nRuido Blanco\n\nBatería De Larga Duración\n\nAmplia Compatibilidad\n\nBW\n\nPolencia de Salida\n\n3605\n\nSamido Envolvente\n\nTWS\n\nParámetros\n\nModelo: WG-196\n\nVersión de Inalámbrico: 5.3\n\nPotencia de salida: 8 W\n\nTiempo de reproducción del altavoz: 2 horas\n\nTiempo de carga: 3 horas\n\nDistancia de transmisión de Inalámbrico: 10 m\n\nInterfaz de carga: Tipo-C\n\nTamaño del producto:97*97*111mm\n\nModelo:WG-196\nTebro\n\nGARANTIZADO\n\nFRÍA RGB ILUMINACIÓN\n\nFebro\n\nAltavoz Doble\n\nBocina Inalámbrico\n\nWG-196",
+        "precio_venta": 255.0,
+        "costo_producto": 85.0,
+        "peso_kg": 0.437,
+        "largo_cm": 12.0,
+        "ancho_cm": 10.0,
+        "alto_cm": 10.0
+      },
+      "seo_content": null,
+      "shopify_result": null,
+      "processed_at": null,
+      "error": null
     }
   ],
-  "last_updated": "2026-05-15T17:54:29.287383"
+  "last_updated": "2026-05-15T17:56:09.936916"
 }
