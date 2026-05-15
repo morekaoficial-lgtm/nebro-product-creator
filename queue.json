@@ -1411,7 +1411,7 @@
     {
       "id": "161a8ffc",
       "submitted_at": "2026-05-15T23:22:56.233614",
-      "status": "processing",
+      "status": "done",
       "data": {
         "tipo": "Cable / Accesorio",
         "marca": "NEBRO",
@@ -1425,8 +1425,15 @@
         "alto_cm": 9.0
       },
       "seo_content": null,
-      "shopify_result": null,
-      "processed_at": null,
+      "shopify_result": {
+        "success": true,
+        "product_id": 8294629146660,
+        "handle": "cable-accesorio-bluetooth-nebro-wd311tt-240w-carga-rapida",
+        "title": "Cable / Accesorio Bluetooth NEBRO WD311TT 240W Carga Rápida",
+        "admin_url": "https://nebro-shop.myshopify.com/admin/products/8294629146660",
+        "variant_id": 44184780013604
+      },
+      "processed_at": "2026-05-16T07:34:49.977774",
       "error": null,
       "processing_started_at": "2026-05-16T07:25:03.230653"
     },
@@ -1516,5 +1523,5 @@
       "error": null
     }
   ],
-  "last_updated": "2026-05-16T07:34:45.586958"
+  "last_updated": "2026-05-16T07:34:49.979047"
 }
