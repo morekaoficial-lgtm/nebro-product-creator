@@ -337,7 +337,7 @@
     {
       "id": "66663b03",
       "submitted_at": "2026-05-15T15:37:45.066435",
-      "status": "processing",
+      "status": "done",
       "data": {
         "tipo": "Bocina",
         "marca": "NEBRO",
@@ -351,8 +351,15 @@
         "alto_cm": 10.0
       },
       "seo_content": null,
-      "shopify_result": null,
-      "processed_at": null,
+      "shopify_result": {
+        "success": true,
+        "product_id": 8294208667684,
+        "handle": "bocina-bluetooth-rgb-exterior-nebro-wg133-8w-ipx6-tws-resistente-agua",
+        "title": "Bocina Bluetooth RGB Exterior NEBRO WG133 8W IPX6 TWS Resistente Agua",
+        "admin_url": "https://nebro-shop.myshopify.com/admin/products/8294208667684",
+        "variant_id": 44183705911332
+      },
+      "processed_at": "2026-05-15T23:54:48.914313",
       "error": null,
       "processing_started_at": "2026-05-15T23:40:03.694172"
     },
@@ -401,5 +408,5 @@
       "processing_started_at": "2026-05-15T23:45:02.527803"
     }
   ],
-  "last_updated": "2026-05-15T23:54:45.133433"
+  "last_updated": "2026-05-15T23:54:48.915700"
 }
