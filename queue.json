@@ -1585,7 +1585,7 @@
     {
       "id": "7240f354",
       "submitted_at": "2026-05-15T23:38:50.407513",
-      "status": "processing",
+      "status": "done",
       "data": {
         "tipo": "Cable / Accesorio",
         "marca": "NEBRO",
@@ -1599,8 +1599,15 @@
         "alto_cm": 10.0
       },
       "seo_content": null,
-      "shopify_result": null,
-      "processed_at": null,
+      "shopify_result": {
+        "success": true,
+        "product_id": 8294630326308,
+        "handle": "cable-accesorio-bluetooth-nebro-wd114l-30w-carga-rapida",
+        "title": "Cable / Accesorio Bluetooth NEBRO WD114L 30W Carga Rápida",
+        "admin_url": "https://nebro-shop.myshopify.com/admin/products/8294630326308",
+        "variant_id": 44184783519780
+      },
+      "processed_at": "2026-05-16T07:44:56.855801",
       "error": null,
       "processing_started_at": "2026-05-16T07:40:03.784878"
     },
@@ -1626,5 +1633,5 @@
       "error": null
     }
   ],
-  "last_updated": "2026-05-16T07:44:51.965327"
+  "last_updated": "2026-05-16T07:44:56.856444"
 }
