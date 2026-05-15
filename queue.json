@@ -1486,7 +1486,28 @@
       "shopify_result": null,
       "processed_at": null,
       "error": null
+    },
+    {
+      "id": "9adc097d",
+      "submitted_at": "2026-05-15T23:30:02.218260",
+      "status": "pending",
+      "data": {
+        "tipo": "Cargador",
+        "marca": "NEBRO",
+        "modelo": "VGA-054T",
+        "descripcion_raw": "nebro\n\n-GARANTIZADO-\n\nVGA-054T\n\nGaN\n\nTecnología De Nitruro De Galio\n\nCarga rapida a baja temperatura, resistencia a la temperatura. resistencia ordenada y no caliente.\n\nIntelligent Protection\n\nLa carcasa está hecha de material ABS ignifugo, resistente a caídas y duradero\n\n4\n\nCarga Rápida\n\nAlta salida de corriente, carga potenti y rápida, rectificación sincrónica. carga sin preocupaciones\n\nWide Compatibility\n\nAdmite múltiples protocolos de carga rápida y es compatible con multiples dispositivos de carga rápida\nTebro\n\n-GARANTIZADO-\n\nTIPO-Ca TIPO-C\n\nwwe1000MM\n\nTONA LA\n\nmebro\n\n45W\n\nREDIG\n\nGaN 45W\n\nCARGADOR DE CARGA RÁPIDA\n\nVGA-054T",
+        "precio_venta": 168.0,
+        "costo_producto": 56.0,
+        "peso_kg": 0.15,
+        "largo_cm": 10.0,
+        "ancho_cm": 6.0,
+        "alto_cm": 10.0
+      },
+      "seo_content": null,
+      "shopify_result": null,
+      "processed_at": null,
+      "error": null
     }
   ],
-  "last_updated": "2026-05-15T23:27:35.144869"
+  "last_updated": "2026-05-15T23:30:02.218286"
 }
