@@ -848,7 +848,28 @@
       "shopify_result": null,
       "processed_at": null,
       "error": null
+    },
+    {
+      "id": "6093dc2b",
+      "submitted_at": "2026-05-15T17:38:14.387988",
+      "status": "pending",
+      "data": {
+        "tipo": "Audífonos",
+        "marca": "NEBRO",
+        "modelo": "WE T12",
+        "descripcion_raw": "TWS\n\nINTELLIGENT NOISE REDUCTION WIRELESS HEADPHONES\n\nBT5.3\n\nWIRELESS\n\nDeep\n\nCasque stéréo antibruit intelligent, qualité sonore haute définition\n\nDE\n\nAuriculares estérea Inteligentes con cancelación de nado, calidad de sonido de alta definición\n\nCZ\n\nInteligentni stereo sluchátka s potlačenim hluku, kvalita zvuku s vysokým rozlišenim\n\nES\n\nAuriculares estéreo Inteligentes con cancelación de ruido, calidad de sonido de alta definición\n\nPT\n\nИнтеллектуальные стереонаушни кисшумоподавлением, качество з вука высокой четкости\n\nRU\n\nFones de ouvido estéreo com cancelamento de ruido inteligente, qualidade de som de alta definição\n\nFR\n\nCasque stéréo antibuit intelligent, qualité sorre haute deknition\n\nEN\n\nIntelligent noise canceling stereo headphones, high definition sound quality\n\nT12\n\nWireless Headp\n\nSTEREO EARPHONE\nmebro\n\nINTELLIGENT NOISE REDUCTION WIRELESS HEADPHONES\n\nT12\n\nDeep Bas's\n\nCang standby long battery life\n\nBT5.3\n\nFant connection and stable\n\nTrue Wireless\n\n*\n\nTaap-Pairing Deep Raus for Sports\n\nWIRELESS",
+        "precio_venta": 330.0,
+        "costo_producto": 110.0,
+        "peso_kg": 0.186,
+        "largo_cm": 12.0,
+        "ancho_cm": 5.0,
+        "alto_cm": 12.0
+      },
+      "seo_content": null,
+      "shopify_result": null,
+      "processed_at": null,
+      "error": null
     }
   ],
-  "last_updated": "2026-05-15T17:36:00.199852"
+  "last_updated": "2026-05-15T17:38:14.388017"
 }
