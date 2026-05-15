@@ -1465,7 +1465,28 @@
       "shopify_result": null,
       "processed_at": null,
       "error": null
+    },
+    {
+      "id": "31746899",
+      "submitted_at": "2026-05-15T23:27:35.144843",
+      "status": "pending",
+      "data": {
+        "tipo": "Cable / Accesorio",
+        "marca": "NEBRO",
+        "modelo": "WD-05TL",
+        "descripcion_raw": "CARACTERÍSTICAS DEL PRODUCTO:\n\n1. Tiempo de vida 20000 ciclos.\n\n2. Componente plástico de alta calidad de uso rudo con núcleo de cobre.\n\n3. Fabricado bajo estrictos estándares de calidad.\n\nFICHA TÉCNICA:\n\nSalida: 3.0A\n\nProducto: Cable Tipo-C/IP\n\nMedida: 1M\n\nModelo\n\n: WD-05TL\n\nCompatibilidad: Dispositivos móviles y tabletas.\n\nEntrada: TIPO-C\n\nMaterial. Plástico + cobre\n\nPRECAUCIONES Y ADVERTENCIAS:\n\nDeberá de revisar el rango de voltaje requerido por su dispositivo antes de su uso.\n\nMantenga el cargador alejado del calor, fuego y luz solar directa.\n\nEvitar el contacto con agua, gases corrosivos, o ambientes húmedos.\n\nNo manipular o modificar este cargador ya que puede provocar descargas eléctricas.\n\nSi existiera algún daño, suspenda su uso.\nTebro\n\nCABLE CARGA RAPIDA TipoC-IP IM\n\nTIPO-C\n\nIP\n\n27W\n\nWD-05TL",
+        "precio_venta": 36.0,
+        "costo_producto": 12.0,
+        "peso_kg": 0.1,
+        "largo_cm": 10.0,
+        "ancho_cm": 2.0,
+        "alto_cm": 8.0
+      },
+      "seo_content": null,
+      "shopify_result": null,
+      "processed_at": null,
+      "error": null
     }
   ],
-  "last_updated": "2026-05-15T23:26:08.974385"
+  "last_updated": "2026-05-15T23:27:35.144869"
 }
