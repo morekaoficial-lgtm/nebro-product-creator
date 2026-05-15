@@ -308,7 +308,7 @@
     {
       "id": "a5de8b0b",
       "submitted_at": "2026-05-15T15:31:00.802338",
-      "status": "processing",
+      "status": "done",
       "data": {
         "tipo": "Bocina",
         "marca": "NEBRO",
@@ -322,8 +322,15 @@
         "alto_cm": 17.0
       },
       "seo_content": null,
-      "shopify_result": null,
-      "processed_at": null,
+      "shopify_result": {
+        "success": true,
+        "product_id": 8294208503844,
+        "handle": "bocina-bluetooth-rgb-solar-nebro-wg602-10w-tws-radio-fm-tarjeta-tf",
+        "title": "Bocina Bluetooth RGB Solar NEBRO WG602 10W TWS Radio FM Tarjeta TF",
+        "admin_url": "https://nebro-shop.myshopify.com/admin/products/8294208503844",
+        "variant_id": 44183705747492
+      },
+      "processed_at": "2026-05-15T23:54:45.132639",
       "error": null,
       "processing_started_at": "2026-05-15T23:35:02.951275"
     },
@@ -394,5 +401,5 @@
       "processing_started_at": "2026-05-15T23:45:02.527803"
     }
   ],
-  "last_updated": "2026-05-15T23:54:40.923773"
+  "last_updated": "2026-05-15T23:54:45.133433"
 }
