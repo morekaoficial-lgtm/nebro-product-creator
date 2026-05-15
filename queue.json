@@ -1088,7 +1088,28 @@
       "processed_at": "2026-05-16T03:44:43.563965",
       "error": null,
       "processing_started_at": "2026-05-16T03:40:03.792343"
+    },
+    {
+      "id": "9b85db71",
+      "submitted_at": "2026-05-15T20:11:53.998418",
+      "status": "pending",
+      "data": {
+        "tipo": "Audífonos",
+        "marca": "NEBRO",
+        "modelo": "WE-062",
+        "descripcion_raw": "AUDIFONOS INALÁMBRICOS\n\nNombre de emparejamiento: WE-062\n\nVersión de Bluetooth: 5.3\n\nProtocolos de audio Bluetooth: HFP, HSP, AVRCP, SPP, PBAP, TWS+\n\nRango de alcance: 10M/33 pies\n\nTiempo de duración de carga en audifonos reproduciendo música: 6-7 horas\n\nTiempo de duración de carga en audífornos llamando: 6 horas\n\nLa carga de la bateria de los audifonos: 20 horas\n\nEntrada de carga: Tipo C\n\nTiempo necesario para cargar completamente los audifonos: 1 hora\n\nTiempo de carga para la caja de los audifonos: 2 horas\n\nFuente de alimentación de audifonos: Bateria de litio incorporada 3.7V/30mAh\n\nFuente de alimentación de la bateria de caja: Bateria de Litio incorporada 3.7V/300mAh\n\nEcualizador\n\nLarga Duración\n\nCompatibilidad\n\nCalidad de Audio\n\nMODELO:WE-062\nTebro\n\nEXTRA BASS\n\n6H MUSICA\n\nROJO\n\nAUDIFONOS INALÁMBRICOS\n\nWE-062\nmebro",
+        "precio_venta": 195.0,
+        "costo_producto": 65.0,
+        "peso_kg": 0.1,
+        "largo_cm": 11.0,
+        "ancho_cm": 3.0,
+        "alto_cm": 9.0
+      },
+      "seo_content": null,
+      "shopify_result": null,
+      "processed_at": null,
+      "error": null
     }
   ],
-  "last_updated": "2026-05-16T03:44:43.567285"
+  "last_updated": "2026-05-15T20:11:53.998442"
 }
