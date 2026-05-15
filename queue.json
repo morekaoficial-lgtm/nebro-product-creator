@@ -1696,7 +1696,28 @@
       "shopify_result": null,
       "processed_at": null,
       "error": null
+    },
+    {
+      "id": "55d8eccf",
+      "submitted_at": "2026-05-15T23:54:26.114129",
+      "status": "pending",
+      "data": {
+        "tipo": "Cable / Accesorio",
+        "marca": "NEBRO",
+        "modelo": "WD-317",
+        "descripcion_raw": "WD-317\n\nAdmite Conexión De Navegación Para Automóvil\n\nCarPlay + Carlife\n\nLongitud retráctil del resorte\n\nAlambre de resorte extendido de 2.0M, libre de estirarse sin enredarse, adecuado para multiples escenas, fácil de tirar con la mano, resistente al desgaste y duradero\n\nLuces de colores esmaltadas\n\nLa luz ambiental de color cambia de color aleatoriamente después del encendido, con múltiples colores para agregar color.\n\nCarga rápida 4 en 1\n\nLos puertos USB-A+Tipo-C a Tipo-C+Lightning son adaptables y compatibles, y admiten una carga rápida para computadoras portátiles, tabletas y teléfonos.\n4 in 1\n\nCABLE DE DATOS DE CARGA RÁPIDA DE RESORTE\n\n2M LONGITUD DE LINEA\n\n27W\n\nAdmate Conexión De Navegación Para Automu\n\nCarPlay + Carlife\n\nUSB-A-Tipo-C\n\n▼\n\nTipo-C-Lightning\n\nWD-317",
+        "precio_venta": 105.0,
+        "costo_producto": 35.0,
+        "peso_kg": 0.107,
+        "largo_cm": 20.0,
+        "ancho_cm": 4.0,
+        "alto_cm": 12.0
+      },
+      "seo_content": null,
+      "shopify_result": null,
+      "processed_at": null,
+      "error": null
     }
   ],
-  "last_updated": "2026-05-15T23:52:55.114967"
+  "last_updated": "2026-05-15T23:54:26.114160"
 }
