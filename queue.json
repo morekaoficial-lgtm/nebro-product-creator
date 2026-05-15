@@ -1382,7 +1382,7 @@
     {
       "id": "5b028645",
       "submitted_at": "2026-05-15T23:21:30.303341",
-      "status": "processing",
+      "status": "done",
       "data": {
         "tipo": "Cable / Accesorio",
         "marca": "NEBRO",
@@ -1396,8 +1396,15 @@
         "alto_cm": 9.0
       },
       "seo_content": null,
-      "shopify_result": null,
-      "processed_at": null,
+      "shopify_result": {
+        "success": true,
+        "product_id": 8294629113892,
+        "handle": "cable-accesorio-bluetooth-nebro-wd311tl-27w-carga-rapida",
+        "title": "Cable / Accesorio Bluetooth NEBRO WD311TL 27W Carga Rápida",
+        "admin_url": "https://nebro-shop.myshopify.com/admin/products/8294629113892",
+        "variant_id": 44184779980836
+      },
+      "processed_at": "2026-05-16T07:34:45.586253",
       "error": null,
       "processing_started_at": "2026-05-16T07:25:03.230634"
     },
@@ -1509,5 +1516,5 @@
       "error": null
     }
   ],
-  "last_updated": "2026-05-15T23:30:02.218286"
+  "last_updated": "2026-05-16T07:34:45.586958"
 }
