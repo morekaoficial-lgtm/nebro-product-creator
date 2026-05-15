@@ -529,7 +529,28 @@
       "shopify_result": null,
       "processed_at": null,
       "error": null
+    },
+    {
+      "id": "e5f5ff5b",
+      "submitted_at": "2026-05-15T16:18:32.972366",
+      "status": "pending",
+      "data": {
+        "tipo": "Bocina",
+        "marca": "NEBRO",
+        "modelo": "WG-191",
+        "descripcion_raw": "nebro\n\nBARANTUADO\n\nWebro\n\nLuces RGB\n\nBT5.4\n\nReproducción De Tarjeta TF\n\nBatería De Larga Duración\n\nAmplia Compatibilidad\n\nRuido Blanco\n\n3609\n\nSonido Envolvente\n\nModelo: WG-191\nnebro\n\nGARANTIZADO\n\nSonido Estéreo Hi-Fi\n\nMusica Fuerte Y Clara\n\nVersión inalámbrica 54\n\n*\n\nLuces RGB\n\nよ\n\nmebro\n\nALTAVOZ PORTÁTIL CON CORDÓN\n\nidd\n\nConenkin Die Dos Unitades\n\nWG-191",
+        "precio_venta": 207.0,
+        "costo_producto": 69.0,
+        "peso_kg": 0.232,
+        "largo_cm": 10.0,
+        "ancho_cm": 5.0,
+        "alto_cm": 10.0
+      },
+      "seo_content": null,
+      "shopify_result": null,
+      "processed_at": null,
+      "error": null
     }
   ],
-  "last_updated": "2026-05-15T16:16:31.238150"
+  "last_updated": "2026-05-15T16:18:32.972392"
 }
