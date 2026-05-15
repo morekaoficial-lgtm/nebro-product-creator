@@ -485,7 +485,28 @@
       "shopify_result": null,
       "processed_at": null,
       "error": null
+    },
+    {
+      "id": "f16533be",
+      "submitted_at": "2026-05-15T16:14:51.006205",
+      "status": "pending",
+      "data": {
+        "tipo": "Audífonos",
+        "marca": "NEBRO",
+        "modelo": "WE-507",
+        "descripcion_raw": "Modelo WE-507\n\nCapacidad det etluche de carga 400\n\nPuerto de carga: Tipa C\n\nCorriente de carga:\n\n-\n\nConsejos. Por seguridad, no utilice este producto en condiciones de alistemperatura a cortocircuito. Manténgalo fuera del alcance de los niños\nTebro\n\n-GARANTIZADO-\n\nCONDUCCIÓN\n\nConducción Osea Abierta\n\n4H\n\nGancho Para La Oreja\n\nAURICULARES INALÁMBRICOS\n\nWE-507\nebro\n\n00 CONDUCCION OSEA\n\nConducción Ozesa Ahierta\n\n4H\n\nTEMPO DE COMERSACEN\n\nTEMPO DE MEDICA\n\nTebro\n\nV5.4 WIRELESS\n\nGancho Para La Oreja\n\nAURICULARES INALÁMBRICOS\n\nWE-507",
+        "precio_venta": 287.0,
+        "costo_producto": 99.0,
+        "peso_kg": 0.145,
+        "largo_cm": 12.0,
+        "ancho_cm": 4.0,
+        "alto_cm": 10.0
+      },
+      "seo_content": null,
+      "shopify_result": null,
+      "processed_at": null,
+      "error": null
     }
   ],
-  "last_updated": "2026-05-15T16:10:36.808096"
+  "last_updated": "2026-05-15T16:14:51.006231"
 }
