@@ -1284,7 +1284,28 @@
       "processed_at": null,
       "error": null,
       "processing_started_at": "2026-05-16T06:55:03.089434"
+    },
+    {
+      "id": "e8b361ba",
+      "submitted_at": "2026-05-15T22:55:33.344238",
+      "status": "pending",
+      "data": {
+        "tipo": "Cable / Accesorio",
+        "marca": "NEBRO",
+        "modelo": "WD-315",
+        "descripcion_raw": "Modelo WD-315\n\nTamaño: 1.2M\n\nEntrada: A+C-C+L\n\nMaterial: Aleación de zinc alambre trenzado\nnebro\n\nGARANTIZADO-\n\n4inl\n\n1.2M\n\nmebro\n\nW\n\nPD\n\nن\n\n240W+\n\nCable De Datos Cuatro En Uno\n\nWD-315\nnebro\n\n4in\n\n1.2M\n\n240W+\n\nCable De Datos Cuatro En Uno\n\nCarcasa de aleación de zinc + Material tejido\n\nUSB-A+Tipo-C\n\n▼\n\nTipo-C+Lightning\n\nWD-315\n\nLuz de respiración\n\n1002\n\nPantalla Digital Inteligente\n\nC\n\nTransmvalón De Datos\n\nChip De Montro",
+        "precio_venta": 180.0,
+        "costo_producto": 60.0,
+        "peso_kg": 0.1,
+        "largo_cm": 10.0,
+        "ancho_cm": 5.0,
+        "alto_cm": 9.0
+      },
+      "seo_content": null,
+      "shopify_result": null,
+      "processed_at": null,
+      "error": null
     }
   ],
-  "last_updated": "2026-05-16T06:54:39.860940"
+  "last_updated": "2026-05-15T22:55:33.344267"
 }
