@@ -1237,7 +1237,7 @@
     {
       "id": "1345a069",
       "submitted_at": "2026-05-15T22:44:18.198087",
-      "status": "processing",
+      "status": "done",
       "data": {
         "tipo": "Bocina",
         "marca": "NEBRO",
@@ -1251,8 +1251,15 @@
         "alto_cm": 15.0
       },
       "seo_content": null,
-      "shopify_result": null,
-      "processed_at": null,
+      "shopify_result": {
+        "success": true,
+        "product_id": 8294624657444,
+        "handle": "bocina-bluetooth-tws-nebro-wg147-bluetooth-53-10w-ipx5",
+        "title": "Bocina Bluetooth TWS NEBRO WG147 Bluetooth 53 10W IPX5",
+        "admin_url": "https://nebro-shop.myshopify.com/admin/products/8294624657444",
+        "variant_id": 44184758976548
+      },
+      "processed_at": "2026-05-16T06:54:39.860329",
       "error": null,
       "processing_started_at": "2026-05-16T06:45:03.543151"
     },
@@ -1278,5 +1285,5 @@
       "error": null
     }
   ],
-  "last_updated": "2026-05-15T22:51:28.026575"
+  "last_updated": "2026-05-16T06:54:39.860940"
 }
