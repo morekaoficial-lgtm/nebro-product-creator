@@ -1734,7 +1734,28 @@
       "processed_at": null,
       "error": null,
       "processing_started_at": "2026-05-16T07:55:03.879402"
+    },
+    {
+      "id": "3d3cdc58",
+      "submitted_at": "2026-05-15T23:56:05.673154",
+      "status": "pending",
+      "data": {
+        "tipo": "Cable / Accesorio",
+        "marca": "NEBRO",
+        "modelo": "WD-117T",
+        "descripcion_raw": "nebro\n\nGARANTIZADO-\n\n100W+ TIPO-C a TIPO-C\n\n57.52%\n\nAlambre Trenzado 48\n\nAtambne treszado de alta densidad - material duradern de alta resistencia mayor vida útil y maer durabilidad\n\nCarga Transmisión Das En Una\n\nLa carga y la transmisión de sales se pumien mlizar simultaneartunte on interierir entre of\n\nAluminum Shell\n\nLa superficie tiene un reten antioxidante, que es durudere, on zа потре técitmente y es rente a laidaci\n\nPantalla Digital Inteligente\n\n1903\n\nde de partaita diginal herontal de velocidial de potencia de campe de\nAluminum shell\n\n12 metros de large\n\nHigh-definition\n\n100%\n\n100W+ TIPO-C a TIPO-C\n\nHorizontal Screen Digital Display Data Cable\n\nAlambra Trenzado 48\n\nPantalla Digitaأ Inteligente\n\nWD-117T",
+        "precio_venta": 80.0,
+        "costo_producto": 26.5,
+        "peso_kg": 0.1,
+        "largo_cm": 12.0,
+        "ancho_cm": 2.0,
+        "alto_cm": 8.0
+      },
+      "seo_content": null,
+      "shopify_result": null,
+      "processed_at": null,
+      "error": null
     }
   ],
-  "last_updated": "2026-05-16T07:54:49.645673"
+  "last_updated": "2026-05-15T23:56:05.673181"
 }
