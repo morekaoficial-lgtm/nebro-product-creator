@@ -319,7 +319,28 @@
       "shopify_result": null,
       "processed_at": null,
       "error": null
+    },
+    {
+      "id": "839b919e",
+      "submitted_at": "2026-05-15T15:44:12.442356",
+      "status": "pending",
+      "data": {
+        "tipo": "Audífonos",
+        "marca": "NEBRO",
+        "modelo": "WE T16",
+        "descripcion_raw": "Especificaciones del producto.\n\nColor del producto: negro\n\nVersión inalámbrica: V5.3.\n\nDistancia de transmisión: >10 metros.\n\nDiámetro del altavoz: 13 milímetros.\n\nFrecuencia: 32 ohmios.\n\nSensibilidad: 107±3dB.\n\nRango de respuesta de frecuencia: 20-20kHz\n\nCapacidad de la batería (caja de carga): 4.2V/300mAh.\n\nCapacidad de carga (auricular): 4.2V/30mAh.\n\nTiempo de carga (caja de carga): aproximadamente\n\n1.5 horas.\n\nNEGRO\n\nLa caja de carga se puede usar para cargar los auriculares: aproximadamente 3 veces.\nDeep Bass Popmusic\n\nBASS\n\nPT\n\nT16\n\nWireless Stereo Earphones\n\nLongstandbytime, long battery lije\n\nBT5.3 Fast connection and stable\n\nG\n\nCz\n\nCasque stéréo antib\n\nИнтеллекту\n\nWireless Stereo Tws Earphones\n\nSTEREO EARPHONE\nWireless Stereo Tws Earphones\n\nT16\n\ncut\n\nWireless Stereo Tws Earphones\n\nfor music\n\nLoll long batterytme\n\n☆\n\nDeep Bas for music\n\nBT5.3",
+        "precio_venta": 297.0,
+        "costo_producto": 99.0,
+        "peso_kg": 2.0,
+        "largo_cm": 12.0,
+        "ancho_cm": 5.0,
+        "alto_cm": 12.0
+      },
+      "seo_content": null,
+      "shopify_result": null,
+      "processed_at": null,
+      "error": null
     }
   ],
-  "last_updated": "2026-05-15T15:40:32.856949"
+  "last_updated": "2026-05-15T15:44:12.442381"
 }
