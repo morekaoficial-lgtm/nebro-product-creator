@@ -104,7 +104,7 @@
     {
       "id": "4e5e97fc",
       "submitted_at": "2026-05-15T15:13:30.506965",
-      "status": "processing",
+      "status": "done",
       "data": {
         "tipo": "Audífonos",
         "marca": "NEBRO",
@@ -118,8 +118,15 @@
         "alto_cm": 10.0
       },
       "seo_content": null,
-      "shopify_result": null,
-      "processed_at": null,
+      "shopify_result": {
+        "success": true,
+        "product_id": 8294207684644,
+        "handle": "audifonos-bluetooth-ows-nebro-we506-clip-oreja-sonido-direccional-estuche-400mah",
+        "title": "Audífonos Bluetooth OWS NEBRO WE506 Clip Oreja Sonido Direccional Estuche 400mAh",
+        "admin_url": "https://nebro-shop.myshopify.com/admin/products/8294207684644",
+        "variant_id": 44183704928292
+      },
+      "processed_at": "2026-05-15T23:54:18.995433",
       "error": null,
       "processing_started_at": "2026-05-15T23:48:00.257150",
       "timeout_reset": "2026-05-15T23:47:57.914455"
@@ -345,5 +352,5 @@
       "processing_started_at": "2026-05-15T23:45:02.527803"
     }
   ],
-  "last_updated": "2026-05-15T15:44:12.442381"
+  "last_updated": "2026-05-15T23:54:18.997016"
 }
