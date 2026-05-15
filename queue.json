@@ -675,7 +675,28 @@
       "processed_at": null,
       "error": null,
       "processing_started_at": "2026-05-16T01:15:03.381851"
+    },
+    {
+      "id": "e28bf7af",
+      "submitted_at": "2026-05-15T17:16:57.912462",
+      "status": "pending",
+      "data": {
+        "tipo": "Bocina",
+        "marca": "NEBRO",
+        "modelo": "WG-138",
+        "descripcion_raw": "Operación\n\nSobres\n\nOperación\n\nن\n\n▷\n\nFunción\n\nLED\n\nEncendido\n\nPresione el botón durante 2\n\nsegundos y encienda el altavoz\n\nParpadeo LED azul\n\nApagado\n\nPresione el botón durante 2 segundos para apagar la fuente de alimentación del altavoz\n\nRGB Modo\n\nPulsación corta para cambiar el modo de color RGB LED\n\nTWS Modo\n\nDoble cliché botón para activar el modo TWS,o vuelva a presionar para salir del modo TWS\n\nRepucción/ Sussión\n\nCo\n\nPresione este botón para reproducir o suspensión la música en modo BT/TF/USB\n\nta el no\n\nRezar el telé\n\nPresione este botón para contestar el teléfono\n\nPresione este botón durante 3\n\nsegundos para rechazar la Ilamada telefónica\n\nCua el tele 10\n\nVuelve a presionar este botón para terminar la llamada\n\nReal\n\nDoble clic en el botón para volver a marcar el último número de teléfono\n\nParpadeo LED naranja\n\nBajar el Volumen\n\nPresione este botón para bajar el volumen del altavoz\n\nAnterior canción\n\nO presione este botón hacia atrás 2 segundos para volver a la canción anterior\n\nModo de tarjeta TV/memor\nVersión Inalámbrica 5.3\n\n20W\n\nTF\n\nPotencia de Salida\n\nMemoria Flash\n\n0\n\nUnidad flash USB\n\nLuz RGB\n\nΠ\n\nBatería Larga Duración\n\nAuxiliar\n\nCarabinero\n\nParámetros\n\nMageto: WG-138\n\nVersión de Inalámbrico: 5.3\n\nPolencia de Salida: 20W\n\nBatería: 2000mAh\n\nUnidad de Altavoces: 52*75mm\n\nTiempo de Reproducción: 8 Horas (Volumen al 50%)\n\nDistancia de Transmisión: 10 m\n\nRahgo de Frecuencia: 50Hz-18KHz\n\nEntrada de Energia: 5V/2A\n\nCompatibilidad con Inalámbrico: TF/AUX/USB/TWS\n\nPeso: 4659\n\nTamaño 86*82*145mm\n\nMODELO WG-138\nnebro\n\nGARANTIZADO\n\nILUMINACIÓN\n\nFRÍA RGB\n\nmebro\n\nMini\n\nBocina Portátil Para Exteriores\n\nWG-138",
+        "precio_venta": 690.0,
+        "costo_producto": 230.0,
+        "peso_kg": 0.532,
+        "largo_cm": 17.0,
+        "ancho_cm": 9.0,
+        "alto_cm": 9.0
+      },
+      "seo_content": null,
+      "shopify_result": null,
+      "processed_at": null,
+      "error": null
     }
   ],
-  "last_updated": "2026-05-15T17:13:57.090828"
+  "last_updated": "2026-05-15T17:16:57.912683"
 }
