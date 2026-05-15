@@ -1117,7 +1117,28 @@
       "processed_at": "2026-05-16T04:24:37.838955",
       "error": null,
       "processing_started_at": "2026-05-16T04:15:03.826738"
+    },
+    {
+      "id": "2bcefc38",
+      "submitted_at": "2026-05-15T21:59:05.576335",
+      "status": "pending",
+      "data": {
+        "tipo": "Bocina",
+        "marca": "NEBRO",
+        "modelo": "WG-131",
+        "descripcion_raw": "Parámetros\n\nModelo:WG-131\n\nPotencia Máxima: 5W\n\nVersión inalámbrica: 5.3\n\nCapacidad de la Batería: 1200mAh\n\nnebro\n\n-GARANTIZADO-\n\nModelo: WG-131\n\n(())\n\nVersión inalámbrica 5.3\n\nRuido Blanco\n\nBateria De Larga Duración\n\nAmplia Compatibilidad\n\n3603\n\nSonido Envolvente\n\n5W\n\nPatencia de Salida\nTebro\n\n-GARANTIZADO\n\n1200 TERY LIFE\n\n6 HORA TIEMPOGUE J\n\n+\n\nBOCINA BLUETOOTH\n\nBatería de gran capacidad de 1200mAh\n\n5w POWER\n\nModelo: WG-131",
+        "precio_venta": 177.0,
+        "costo_producto": 59.0,
+        "peso_kg": 0.2,
+        "largo_cm": 13.0,
+        "ancho_cm": 4.0,
+        "alto_cm": 9.0
+      },
+      "seo_content": null,
+      "shopify_result": null,
+      "processed_at": null,
+      "error": null
     }
   ],
-  "last_updated": "2026-05-16T04:24:37.839407"
+  "last_updated": "2026-05-15T21:59:05.576361"
 }
