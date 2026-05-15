@@ -1675,7 +1675,28 @@
       "shopify_result": null,
       "processed_at": null,
       "error": null
+    },
+    {
+      "id": "e82fc817",
+      "submitted_at": "2026-05-15T23:52:55.114939",
+      "status": "pending",
+      "data": {
+        "tipo": "Cable / Accesorio",
+        "marca": "NEBRO",
+        "modelo": "WD-25M",
+        "descripcion_raw": "Tebro\n\nGARANTIZADO\n\n2M\n\nCARACTERÍSTICAS DEL PRODUCTO:\n\n1. Tiempo de vida 20000 ciclos.\n\n2. Componente plástico de alta calidad de uso rudo con núcleo de cobre.\n\n3. Fabricado bajo estrictos estándares de calidad.\n\nFICHA TÉCNICA:\n\nProducto: Cable V8\n\nModelo: WD-25M\n\nEntrada: USB 2.0\n\nSalida: 2.4A\n\nTamaño: 2M\n\nCompatibilidad: Dispositivos móviles y tabletas\n\nMaterial: Plástico + cobre\nCOMPATIBLE CON DISPOSITIVOS MOVILES Y TABLETAS\n\n2.4A\n\nV8\n\nCable De Datos De Carga Rápida\n\n2M\n\nModula WD-25M",
+        "precio_venta": 27.0,
+        "costo_producto": 9.0,
+        "peso_kg": 0.1,
+        "largo_cm": 15.0,
+        "ancho_cm": 5.0,
+        "alto_cm": 8.0
+      },
+      "seo_content": null,
+      "shopify_result": null,
+      "processed_at": null,
+      "error": null
     }
   ],
-  "last_updated": "2026-05-15T23:50:56.939044"
+  "last_updated": "2026-05-15T23:52:55.114967"
 }
