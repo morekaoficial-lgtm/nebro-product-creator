@@ -1527,7 +1527,7 @@
     {
       "id": "9adc097d",
       "submitted_at": "2026-05-15T23:30:02.218260",
-      "status": "processing",
+      "status": "done",
       "data": {
         "tipo": "Cargador",
         "marca": "NEBRO",
@@ -1541,8 +1541,15 @@
         "alto_cm": 10.0
       },
       "seo_content": null,
-      "shopify_result": null,
-      "processed_at": null,
+      "shopify_result": {
+        "success": true,
+        "product_id": 8294630228004,
+        "handle": "cargador-bluetooth-nebro-vga054t-45w-carga-rapida",
+        "title": "Cargador Bluetooth NEBRO VGA054T 45W Carga Rápida",
+        "admin_url": "https://nebro-shop.myshopify.com/admin/products/8294630228004",
+        "variant_id": 44184783159332
+      },
+      "processed_at": "2026-05-16T07:44:47.293065",
       "error": null,
       "processing_started_at": "2026-05-16T07:35:03.454708"
     },
@@ -1612,5 +1619,5 @@
       "error": null
     }
   ],
-  "last_updated": "2026-05-16T07:44:42.929497"
+  "last_updated": "2026-05-16T07:44:47.295631"
 }
