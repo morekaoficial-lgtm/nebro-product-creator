@@ -143,7 +143,28 @@
       "shopify_result": null,
       "processed_at": null,
       "error": null
+    },
+    {
+      "id": "dfe79406",
+      "submitted_at": "2026-05-15T15:19:39.147094",
+      "status": "pending",
+      "data": {
+        "tipo": "Audífonos",
+        "marca": "NEBRO",
+        "modelo": "WD-316",
+        "descripcion_raw": "rebro\n\nWD-316\n\nDEL\n\n1.2M\n\nTebro\n\n240W+\n\nCable De Carga Rápida Cuatro En Uno\n\nGB\n\nCuatro de interfaces\n\nDe Zinc\n\nTransmisión Dates\n\nTebro\n\n-GARANTIZADO\n\nUSB-A+Tipo-Ca Tipo-C-Lightning\n\nCuatro modos para cambiar a voluntad\n\nCarga y transmisión al mismo tiempo\n\nce Longitud\n\n1.2M\n\n240W+\n\nCable De Carga Rápida Cuatro En Uno\n\nAG Cuatro tipos de interfaces\n\nAleación De Zinc\n\nWD-316\n\nModelo:WD-316\n\nTamaño: 1.2M\n\nEntrada: A+C-C+L\n\nMaterial: Aleación de zinc + alambre trenzado",
+        "precio_venta": 180.0,
+        "costo_producto": 60.0,
+        "peso_kg": 0.135,
+        "largo_cm": 16.0,
+        "ancho_cm": 3.0,
+        "alto_cm": 9.0
+      },
+      "seo_content": null,
+      "shopify_result": null,
+      "processed_at": null,
+      "error": null
     }
   ],
-  "last_updated": "2026-05-15T15:16:58.179319"
+  "last_updated": "2026-05-15T15:19:39.147116"
 }
