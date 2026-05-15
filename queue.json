@@ -1353,7 +1353,7 @@
     {
       "id": "f9c34e33",
       "submitted_at": "2026-05-15T23:02:45.806138",
-      "status": "processing",
+      "status": "done",
       "data": {
         "tipo": "Cable / Accesorio",
         "marca": "NEBRO",
@@ -1367,11 +1367,18 @@
         "alto_cm": 9.0
       },
       "seo_content": null,
-      "shopify_result": null,
-      "processed_at": null,
+      "shopify_result": {
+        "success": true,
+        "product_id": 8294627147812,
+        "handle": "cable-accesorio-bluetooth-nebro-wd308-27w",
+        "title": "Cable / Accesorio Bluetooth NEBRO WD308 27W",
+        "admin_url": "https://nebro-shop.myshopify.com/admin/products/8294627147812",
+        "variant_id": 44184769691684
+      },
+      "processed_at": "2026-05-16T07:14:52.040057",
       "error": null,
       "processing_started_at": "2026-05-16T07:05:03.820163"
     }
   ],
-  "last_updated": "2026-05-16T07:14:46.695313"
+  "last_updated": "2026-05-16T07:14:52.040972"
 }
