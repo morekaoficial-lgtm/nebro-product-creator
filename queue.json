@@ -1168,7 +1168,28 @@
       "processed_at": null,
       "error": null,
       "processing_started_at": "2026-05-16T06:05:03.302918"
+    },
+    {
+      "id": "a5a9f953",
+      "submitted_at": "2026-05-15T22:06:02.575676",
+      "status": "pending",
+      "data": {
+        "tipo": "Bocina",
+        "marca": "NEBRO",
+        "modelo": "WG-190",
+        "descripcion_raw": "Instrucciones de operación\n\n1. Conexión Bluetooth: Enciende el altavoz Bluetooth y cambie al modo Bluetooth. Utilice un teléfono móvil u otros dispositivos para buscar el nombre y el modelo de Bluetooth y, a continuación, conectarse. Un tono rápido indica una conexión exitosa.\n\n2. Conmutación de luz RGB: cuando el altavoz está encendido, pulse brevemente la luzBotón para cambiar, hay múltiples modos de luz en total.\n\n3. Llamada Bluetooth: pulse el botón reproducir para responder o colgarLa llamada, y presiona para rechazar la llamada.\n\n4. Prompt de carga: Inserte el cable USB en el puerto de carga TYPE-C. La luz roja está encendida cuando se carga, y la luz roja se apaga cuando se completa la carga\n\n5. Después de jugar durante mucho tiempo, el dispositivo se apagará automáticamente cuando la batería esté baja. Por favor, cargarlo completamente antes de volverlo a encender.\n\n6. Si el dispositivo no se reproduce sin problemas, por favor compruebe si está más allá de la distancia efectiva de conexión Bluetooth.\nLUCES DE DJ INTERMITENTES\n\n(p))\n\nVersión\n\ninalámbrica 5.4\n\n모오\n\nAmplia Compatibilidad\n\nRuido Blanco\n\n360\n\nSonido Envolvente\n\nIluminación Fría Rgb\n\nEl artístico anillo de luz LED deslumbrante parpadea en siete colores, irradiando una atmósfera moderna y fresca, haciendo que el escenario sea más emocionante.\n\nBatería de gran capacidad, batería de larga duración.\n\nBatería incorporada de gran capacidad, gran duración de la batería, compañía a largo plazo para viajes al aire libre.\n\nModelo: WG-190\nSonido Estéreo Hi-Fi\n\nMúsica Fuerte Y Clara\n\nSonido Envolvente\n\n360\n\nAmplia\n\nCompatibilidad\n\n路\n\nRuido Blanco\n\nLUCES DE DJ INTERMITENTES\n\nEfectos de iluminación ROB coloridos múltiples modos de degradado\nmebro\n\nGARANTIZADO-\n\nSomde Estare P\n\nMucca Fuerte Y Clara\n\nLunes De Di Intermitenten\n\neh\n\n+\n\n5W\n\nAltavoz Inalámbrico Cilíndrico\n\nReproducción De Disco U/Reproducción De Tarjeta TF/ Conexiones inalámbricas\n\nWG-190",
+        "precio_venta": 288.0,
+        "costo_producto": 96.0,
+        "peso_kg": 0.639,
+        "largo_cm": 14.0,
+        "ancho_cm": 12.0,
+        "alto_cm": 12.0
+      },
+      "seo_content": null,
+      "shopify_result": null,
+      "processed_at": null,
+      "error": null
     }
   ],
-  "last_updated": "2026-05-16T06:04:40.595161"
+  "last_updated": "2026-05-15T22:06:02.575969"
 }
