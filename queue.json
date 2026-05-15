@@ -464,7 +464,28 @@
       "processed_at": null,
       "error": null,
       "processing_started_at": "2026-05-16T00:05:02.604400"
+    },
+    {
+      "id": "39651955",
+      "submitted_at": "2026-05-15T16:10:36.808072",
+      "status": "pending",
+      "data": {
+        "tipo": "Audífonos",
+        "marca": "NEBRO",
+        "modelo": "WE-067",
+        "descripcion_raw": "mebro\n\nGARANTIZADO-\n\nCalidad De Sonido Sin Detrimento\n\nSonidos Grav\n\nAUDIFINO INALÁMBRICOS\n\nCompatibilidad\n\nEcualizador\n\nWE-067\nmebro\n\nGARANTIZADO-\n\nCalidad De Sonido Sin Detrimento\n\nSonidos Grav\n\nAUDIFINO INALÁMBRICOS\n\nCompatibilidad\n\nEcualizador\n\nWE-067",
+        "precio_venta": 315.0,
+        "costo_producto": 105.0,
+        "peso_kg": 0.1,
+        "largo_cm": 11.0,
+        "ancho_cm": 4.0,
+        "alto_cm": 9.0
+      },
+      "seo_content": null,
+      "shopify_result": null,
+      "processed_at": null,
+      "error": null
     }
   ],
-  "last_updated": "2026-05-15T16:01:22.164232"
+  "last_updated": "2026-05-15T16:10:36.808096"
 }
