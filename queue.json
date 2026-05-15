@@ -773,7 +773,7 @@
     {
       "id": "c42e0639",
       "submitted_at": "2026-05-15T17:23:04.698547",
-      "status": "processing",
+      "status": "done",
       "data": {
         "tipo": "Bocina",
         "marca": "NEBRO",
@@ -787,8 +787,15 @@
         "alto_cm": 12.0
       },
       "seo_content": null,
-      "shopify_result": null,
-      "processed_at": null,
+      "shopify_result": {
+        "success": true,
+        "product_id": 8294320963620,
+        "handle": "bocina-bluetooth-tws-nebro-wg134-bluetooth-54-8w",
+        "title": "Bocina Bluetooth TWS NEBRO WG134 Bluetooth 54 8W",
+        "admin_url": "https://nebro-shop.myshopify.com/admin/products/8294320963620",
+        "variant_id": 44183848353828
+      },
+      "processed_at": "2026-05-16T01:25:41.118819",
       "error": null,
       "processing_started_at": "2026-05-16T01:25:03.566484"
     },
@@ -815,5 +822,5 @@
       "processing_started_at": "2026-05-16T01:25:03.566488"
     }
   ],
-  "last_updated": "2026-05-16T01:25:36.028933"
+  "last_updated": "2026-05-16T01:25:41.120277"
 }
