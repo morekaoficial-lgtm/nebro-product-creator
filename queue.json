@@ -1420,7 +1420,28 @@
       "shopify_result": null,
       "processed_at": null,
       "error": null
+    },
+    {
+      "id": "1fd3bf4c",
+      "submitted_at": "2026-05-15T23:24:24.570480",
+      "status": "pending",
+      "data": {
+        "tipo": "Soporte",
+        "marca": "NEBRO",
+        "modelo": "WAT-096",
+        "descripcion_raw": "nebro\n\n-GARANTIZADO-\n\nWAT-096\n\n12:10\n\nThursday Adly\n\n360\n\nGiratorio 360°\n\nSe puede utilizar tanto en dirección horizontal como vertical.\n\nRevestimiento de aleación de zinc\n\nSeguro y confiable, duradero y no desmagnetizante.\n\nOperación con una sola mano\n\nOperación con una sola mano, conducción más segura.\n\nAnillo magnético N52\n\nFuerte adsorción magnética, estable y no se puede sacudir\nAnillo Magnéfico N52\n\nRecubrimiento de aleación de zinc\n\nEstrategias de fondo acrilico blanco\n\nN52\n\nSoporte Magnético Para Coche\n\nWAT-096",
+        "precio_venta": 126.0,
+        "costo_producto": 42.0,
+        "peso_kg": 0.1,
+        "largo_cm": 71.0,
+        "ancho_cm": 5.0,
+        "alto_cm": 10.0
+      },
+      "seo_content": null,
+      "shopify_result": null,
+      "processed_at": null,
+      "error": null
     }
   ],
-  "last_updated": "2026-05-15T23:22:56.233646"
+  "last_updated": "2026-05-15T23:24:24.570500"
 }
