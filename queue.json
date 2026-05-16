@@ -1875,7 +1875,7 @@
     {
       "id": "214339e9",
       "submitted_at": "2026-05-16T15:55:14.860190",
-      "status": "processing",
+      "status": "done",
       "data": {
         "tipo": "Cable / Accesorio",
         "marca": "NEBRO",
@@ -1889,11 +1889,18 @@
         "alto_cm": 8.0
       },
       "seo_content": null,
-      "shopify_result": null,
-      "processed_at": null,
+      "shopify_result": {
+        "success": true,
+        "product_id": 8294783320100,
+        "handle": "cable-accesorio-bluetooth-nebro-wd305tl-30w-carga-rapida",
+        "title": "Cable / Accesorio Bluetooth NEBRO WD305TL 30W Carga Rápida",
+        "admin_url": "https://nebro-shop.myshopify.com/admin/products/8294783320100",
+        "variant_id": 44185422757924
+      },
+      "processed_at": "2026-05-17T00:20:20.996880",
       "error": null,
       "processing_started_at": "2026-05-17T00:17:21.654739"
     }
   ],
-  "last_updated": "2026-05-17T00:20:16.035136"
+  "last_updated": "2026-05-17T00:20:20.997638"
 }
