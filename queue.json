@@ -1991,7 +1991,7 @@
     {
       "id": "361eb064",
       "submitted_at": "2026-05-16T18:30:06.848921",
-      "status": "pending",
+      "status": "processing",
       "data": {
         "tipo": "Bocina",
         "marca": "NEBRO",
@@ -2007,12 +2007,13 @@
       "seo_content": null,
       "shopify_result": null,
       "processed_at": null,
-      "error": null
+      "error": null,
+      "processing_started_at": "2026-05-17T02:37:40.646111"
     },
     {
       "id": "985ca8cb",
       "submitted_at": "2026-05-16T18:34:53.546156",
-      "status": "pending",
+      "status": "processing",
       "data": {
         "tipo": "Soporte",
         "marca": "NEBRO",
@@ -2028,7 +2029,8 @@
       "seo_content": null,
       "shopify_result": null,
       "processed_at": null,
-      "error": null
+      "error": null,
+      "processing_started_at": "2026-05-17T02:37:40.646139"
     }
   ],
   "last_updated": "2026-05-16T18:34:53.546190"
