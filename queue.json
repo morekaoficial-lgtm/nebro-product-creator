@@ -1788,7 +1788,7 @@
     {
       "id": "84b05f08",
       "submitted_at": "2026-05-15T23:57:50.218335",
-      "status": "processing",
+      "status": "done",
       "data": {
         "tipo": "Cable / Accesorio",
         "marca": "NEBRO",
@@ -1802,11 +1802,18 @@
         "alto_cm": 9.0
       },
       "seo_content": null,
-      "shopify_result": null,
-      "processed_at": null,
+      "shopify_result": {
+        "success": true,
+        "product_id": 8294631899172,
+        "handle": "cable-accesorio-bluetooth-nebro-vc109-12w",
+        "title": "Cable / Accesorio Bluetooth NEBRO VC109 12W",
+        "admin_url": "https://nebro-shop.myshopify.com/admin/products/8294631899172",
+        "variant_id": 44184791056420
+      },
+      "processed_at": "2026-05-16T08:05:14.018296",
       "error": null,
       "processing_started_at": "2026-05-16T08:00:04.220212"
     }
   ],
-  "last_updated": "2026-05-16T08:05:09.469919"
+  "last_updated": "2026-05-16T08:05:14.019288"
 }
