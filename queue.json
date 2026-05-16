@@ -1842,7 +1842,28 @@
       "processed_at": "2026-05-16T10:25:44.426319",
       "error": null,
       "processing_started_at": "2026-05-16T10:25:03.206118"
+    },
+    {
+      "id": "33d65094",
+      "submitted_at": "2026-05-16T15:53:36.742294",
+      "status": "pending",
+      "data": {
+        "tipo": "Cable / Accesorio",
+        "marca": "NEBRO",
+        "modelo": "WD-301L",
+        "descripcion_raw": "Cubierta Exterior Tejida Mejorada\n\nAlambre trenzado de alta densidad+ matenal duradero de alta resistencia, mayor vida útil y mayor durabilidad.\n\nCompatibilidad Inteligente\n\nIdentifica de forma inteligente todos los dispomtivos y es compatibile con todos los dispositivos de carga\n\nAleación De Zinc\n\nLa superficie tiene un revestatunit antioxidante, que es duraderm, no se rome fàcilmente y es resistente a la destación\n\nChip Inteligente Incorporado\n\nLa carga rápida na daña el dispositivo y se adapta du forna inteligente a la curtsence requerida por el dispositive\n\nTebro\n\n-GARANTIZADO\n\nUSB-A a iP\n\nCable De Material Tranzado Fino\n\nAó De Zinc\n\nTebro\n\nTebro\n\n2.4A4\n\nCABLE DE DATOS TRENZADO\n\nCarpe Rapida Sinosinica\n\nComputiodidad Intaligante\n\nChip Inteligente Incorporado\n\nWD-301L",
+        "precio_venta": 29.0,
+        "costo_producto": 9.5,
+        "peso_kg": 0.1,
+        "largo_cm": 15.0,
+        "ancho_cm": 5.0,
+        "alto_cm": 9.0
+      },
+      "seo_content": null,
+      "shopify_result": null,
+      "processed_at": null,
+      "error": null
     }
   ],
-  "last_updated": "2026-05-16T10:25:44.427100"
+  "last_updated": "2026-05-16T15:53:36.742327"
 }
