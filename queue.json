@@ -1929,7 +1929,28 @@
       "processed_at": "2026-05-17T00:44:45.570611",
       "error": null,
       "processing_started_at": "2026-05-17T00:43:56.518168"
+    },
+    {
+      "id": "6235869e",
+      "submitted_at": "2026-05-16T18:09:51.683660",
+      "status": "pending",
+      "data": {
+        "tipo": "Bocina",
+        "marca": "NEBRO",
+        "modelo": "WG-141",
+        "descripcion_raw": "Versión Inalámbrica 5.3\n\nTF\n\n0\n\n120\n\nPotencia de Salida\n\n0\n\n0\n\nBatería Larga Duración\n\nPortatil\n\nMemoria Flash\n\nAuxiliar\n\nUnidad flash USB\n\nLuz RGB\n\nParámetros\n\nModelo WG-141\n\nVersión de Inalámbrica: 5.3\n\nPolencia de Salida 120W\n\nBatería 12000mAh\n\nUnidad de Altavoces. 101mm*2+30mm*2\n\nTiempo de Reproducción 8 Horas (Volumen al 50%)\n\nDistancia de Transmisión 10 m\n\nRango de Frecuencia 40Hz-18KHz\n\nEntrada de Energia 5V/2A\n\nCompatibilidad con Inalámbrico TF/AUX/USB/TWS\n\nPeso 2515g\n\nTamaño: 349*145*188mm\n\nMODELO: WG-141\nIPX4\n\nDynamic Stereo sound\n\ns-boo Bass-bo s-boosting Driver\nmebro WG-141\n\nFRIA ROB ILUMINACIÓN\n\nnebro\n\nBocina Portátil Para Exteriores\n\n320\n\nMT-025",
+        "precio_venta": 2370.0,
+        "costo_producto": 790.0,
+        "peso_kg": 2.644,
+        "largo_cm": 21.0,
+        "ancho_cm": 37.0,
+        "alto_cm": 19.0
+      },
+      "seo_content": null,
+      "shopify_result": null,
+      "processed_at": null,
+      "error": null
     }
   ],
-  "last_updated": "2026-05-17T00:44:45.571156"
+  "last_updated": "2026-05-16T18:09:51.683699"
 }
