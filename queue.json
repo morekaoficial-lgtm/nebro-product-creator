@@ -2103,7 +2103,28 @@
       "processed_at": "2026-05-17T02:58:14.141636",
       "error": null,
       "processing_started_at": "2026-05-17T02:57:59.430406"
+    },
+    {
+      "id": "5d9f1002",
+      "submitted_at": "2026-05-16T18:59:30.390507",
+      "status": "pending",
+      "data": {
+        "tipo": "Cable / Accesorio",
+        "marca": "NEBRO",
+        "modelo": "WD-310",
+        "descripcion_raw": "4in1\n\n1.2M\n\n!\n\nWebro\n\n240W+\n\nCable De Datos Cuatro En Uno\n\nCartasad\n\nWD-310\n1.2M\n\nFebro\n\n4in1\n\n240W+\n\nCable De Datos Cuatro En Uno\n\nToe-Lig\n\nWD-310\nModelo:WD-310\n\nTamaño: 1.2M\n\nEntrada: A C-CL\n\nMaterial Aleacion de zinc alambre trenzado",
+        "precio_venta": 144.0,
+        "costo_producto": 48.0,
+        "peso_kg": 0.126,
+        "largo_cm": 17.0,
+        "ancho_cm": 4.0,
+        "alto_cm": 9.0
+      },
+      "seo_content": null,
+      "shopify_result": null,
+      "processed_at": null,
+      "error": null
     }
   ],
-  "last_updated": "2026-05-17T02:58:14.142781"
+  "last_updated": "2026-05-16T18:59:30.390533"
 }
