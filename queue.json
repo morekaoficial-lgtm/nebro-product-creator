@@ -1863,7 +1863,28 @@
       "shopify_result": null,
       "processed_at": null,
       "error": null
+    },
+    {
+      "id": "214339e9",
+      "submitted_at": "2026-05-16T15:55:14.860190",
+      "status": "pending",
+      "data": {
+        "tipo": "Cable / Accesorio",
+        "marca": "NEBRO",
+        "modelo": "WD-305TL",
+        "descripcion_raw": "30W+ |\n\nC-L\n\nCubierta Exterior Tejida Mejorada\n\nAlambre trenzado de alta densidad + material duradero de alta resistencia, mayor vida útil y mayor durabilidad.\n\nCompatibilidad Inteligente\n\nIdentifica de forma inteligente todos los dispositivos y es compatible con todos los dispositivos de carga\n\nAleación De Zinc\n\nLa superficie tiene un revestimiento antioxidante, que es duradero, no se rompe facilmente y es resistente a la oxidación.\n\n日\n\nChip Inteligente Incorporado\n\nLa carga rápida no daña el dispositivo y se adapta de forma inteligente a la corriente requerida por el dispositivo\nnebro\n\nGARANTIZADO\n\nCarga rápida de alla potencia\n\nNúcleo de alambre engrosado\n\n30W\n\n30W+ |\n\nC-L\n\nCable De Carga Rápida Con Pantalla Digital\n\nAlambre Trenzado 48\n\nAleación De Zinc\n\n1.2M\n\nWD-305TL",
+        "precio_venta": 63.0,
+        "costo_producto": 21.0,
+        "peso_kg": 0.1,
+        "largo_cm": 12.0,
+        "ancho_cm": 2.0,
+        "alto_cm": 8.0
+      },
+      "seo_content": null,
+      "shopify_result": null,
+      "processed_at": null,
+      "error": null
     }
   ],
-  "last_updated": "2026-05-16T15:53:36.742327"
+  "last_updated": "2026-05-16T15:55:14.860236"
 }
