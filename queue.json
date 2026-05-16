@@ -2045,7 +2045,28 @@
       "processed_at": "2026-05-17T02:37:55.438156",
       "error": null,
       "processing_started_at": "2026-05-17T02:37:40.646139"
+    },
+    {
+      "id": "6a65f305",
+      "submitted_at": "2026-05-16T18:39:21.647017",
+      "status": "pending",
+      "data": {
+        "tipo": "Cargador",
+        "marca": "NEBRO",
+        "modelo": "VGA-206",
+        "descripcion_raw": "Puertos duales Tipo C + USB-A\n\nCarga rápida a baja temperatura\n\nmebro\n\n70W\n\nKIT DE CARGADOR DE PARED GAN\n\nPLEGABLES\n70W\n\nKit De Cargador De Pared Gan\n\nPuertos doales TipoC-USB-A\nKIT DE CARGA RÁPIDA DE 70W\n\nModel:VGA-206\n\nA\n\nInput: 110-240V-1.8A Max, 50/60HZ\n\nOutput:\n\nType-C:5V 3A, 9V = 3A, 10V -2A, 2V = 3A, 1 15V = 3A 20V = 3.5A PPS3.3-21V-70W Max\n\nUSB-A:5V 3A, 9V = 2A, 10V I = 2.25A 12V = 1.5A 22.5W Max\n\nType-C+USB-A: 60W Max\n\nType-C:5V 3A, 9V- 3A, 10V = 2A, 1 V = 3A, 15V = 3A,20V-2.25A\n\nPPS 3.3-21V-45W Max\n\nUSB-A:5V 3A 15W",
+        "precio_venta": 447.0,
+        "costo_producto": 149.0,
+        "peso_kg": 0.24,
+        "largo_cm": 16.0,
+        "ancho_cm": 4.0,
+        "alto_cm": 11.0
+      },
+      "seo_content": null,
+      "shopify_result": null,
+      "processed_at": null,
+      "error": null
     }
   ],
-  "last_updated": "2026-05-17T02:37:55.438670"
+  "last_updated": "2026-05-16T18:39:21.647050"
 }
