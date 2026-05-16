@@ -1672,7 +1672,7 @@
     {
       "id": "d44f4b04",
       "submitted_at": "2026-05-15T23:50:56.939018",
-      "status": "processing",
+      "status": "done",
       "data": {
         "tipo": "Cargador",
         "marca": "NEBRO",
@@ -1686,8 +1686,15 @@
         "alto_cm": 7.0
       },
       "seo_content": null,
-      "shopify_result": null,
-      "processed_at": null,
+      "shopify_result": {
+        "success": true,
+        "product_id": 8294631702564,
+        "handle": "cargador-bluetooth-nebro-wb156-carga-rapida",
+        "title": "Cargador Bluetooth NEBRO WB156 Carga Rápida",
+        "admin_url": "https://nebro-shop.myshopify.com/admin/products/8294631702564",
+        "variant_id": 44184790237220
+      },
+      "processed_at": "2026-05-16T08:04:53.846757",
       "error": null,
       "processing_started_at": "2026-05-16T07:55:03.879340"
     },
@@ -1780,5 +1787,5 @@
       "processing_started_at": "2026-05-16T08:00:04.220212"
     }
   ],
-  "last_updated": "2026-05-15T23:57:50.218363"
+  "last_updated": "2026-05-16T08:04:53.847626"
 }
