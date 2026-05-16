@@ -2107,7 +2107,7 @@
     {
       "id": "5d9f1002",
       "submitted_at": "2026-05-16T18:59:30.390507",
-      "status": "processing",
+      "status": "done",
       "data": {
         "tipo": "Cable / Accesorio",
         "marca": "NEBRO",
@@ -2121,11 +2121,18 @@
         "alto_cm": 9.0
       },
       "seo_content": null,
-      "shopify_result": null,
-      "processed_at": null,
+      "shopify_result": {
+        "success": true,
+        "product_id": 8294880084004,
+        "handle": "cable-accesorio-bluetooth-nebro-wd310-240w-carga-rapida",
+        "title": "Cable / Accesorio Bluetooth NEBRO WD310 240W Carga Rápida",
+        "admin_url": "https://nebro-shop.myshopify.com/admin/products/8294880084004",
+        "variant_id": 44186446757924
+      },
+      "processed_at": "2026-05-17T03:07:48.252040",
       "error": null,
       "processing_started_at": "2026-05-17T03:07:36.869997"
     }
   ],
-  "last_updated": "2026-05-16T18:59:30.390533"
+  "last_updated": "2026-05-17T03:07:48.252668"
 }
