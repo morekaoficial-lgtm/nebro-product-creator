@@ -1987,7 +1987,28 @@
       "processed_at": "2026-05-17T02:27:56.202026",
       "error": null,
       "processing_started_at": "2026-05-17T02:27:39.481891"
+    },
+    {
+      "id": "361eb064",
+      "submitted_at": "2026-05-16T18:30:06.848921",
+      "status": "pending",
+      "data": {
+        "tipo": "Bocina",
+        "marca": "NEBRO",
+        "modelo": "WG-085",
+        "descripcion_raw": "BOCINA\n\nWATERPROOFBT\n\nTWS\n\nLuces multicores\n\nTebro\n\nIPX6\nEXTERIORES BOCINA\n\nNombre del producto: Altavos inalámbrico\n\nModelo: WG-085\n\nEntrada de alimentación: 5V-1A\n\nUnidad de accionamiento: 66mm*2\n\nGama de frecuencias: 120Hz-15KHz\n\nBatería: 3.7V 3600mAh\n1 Se puede abrir/cerrar con una presión larga de 3 segundos y se puede restablecer con una presión larga de 8 segundos. Cambio de modo de prensa corta\n\n2\n\n3\n\nPulsación corta para cambiar el modo de parpadeo LED\n\nPresione corto para entrar / salir del modo TWS y presione largo para desconectar/conectar dispositivos Bluetooth conectados\n\n4\n\nReproducción/pausa de prensa corta, Al hacer una llamada, se puede contestar/colgar con un clic corto, y se puede rechazar con un clic largo. En modo radio, presione largo para buscar automáticamente el canal\n\n5+\n\n6\n\nPulsaciones cortas para aumentar el volumen y largas para presionar una canción y largas para presionar la radio\n\nPulsaciones cortas para aumentar o disminuir el volumen, presione la canción anterior durante mucho tiempo y presione la estación de radio anterior durante mucho tiempo",
+        "precio_venta": 885.0,
+        "costo_producto": 295.0,
+        "peso_kg": 1.232,
+        "largo_cm": 13.0,
+        "ancho_cm": 25.0,
+        "alto_cm": 13.0
+      },
+      "seo_content": null,
+      "shopify_result": null,
+      "processed_at": null,
+      "error": null
     }
   ],
-  "last_updated": "2026-05-17T02:27:56.202731"
+  "last_updated": "2026-05-16T18:30:06.848951"
 }
