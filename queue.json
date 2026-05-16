@@ -1759,7 +1759,7 @@
     {
       "id": "3d3cdc58",
       "submitted_at": "2026-05-15T23:56:05.673154",
-      "status": "processing",
+      "status": "done",
       "data": {
         "tipo": "Cable / Accesorio",
         "marca": "NEBRO",
@@ -1773,8 +1773,15 @@
         "alto_cm": 8.0
       },
       "seo_content": null,
-      "shopify_result": null,
-      "processed_at": null,
+      "shopify_result": {
+        "success": true,
+        "product_id": 8294631866404,
+        "handle": "cable-accesorio-bluetooth-nebro-wd117t-100w",
+        "title": "Cable / Accesorio Bluetooth NEBRO WD117T 100W",
+        "admin_url": "https://nebro-shop.myshopify.com/admin/products/8294631866404",
+        "variant_id": 44184791023652
+      },
+      "processed_at": "2026-05-16T08:05:09.469234",
       "error": null,
       "processing_started_at": "2026-05-16T08:00:04.220195"
     },
@@ -1801,5 +1808,5 @@
       "processing_started_at": "2026-05-16T08:00:04.220212"
     }
   ],
-  "last_updated": "2026-05-16T08:05:04.055483"
+  "last_updated": "2026-05-16T08:05:09.469919"
 }
