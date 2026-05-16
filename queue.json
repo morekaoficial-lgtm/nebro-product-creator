@@ -1701,7 +1701,7 @@
     {
       "id": "e82fc817",
       "submitted_at": "2026-05-15T23:52:55.114939",
-      "status": "processing",
+      "status": "done",
       "data": {
         "tipo": "Cable / Accesorio",
         "marca": "NEBRO",
@@ -1715,8 +1715,15 @@
         "alto_cm": 8.0
       },
       "seo_content": null,
-      "shopify_result": null,
-      "processed_at": null,
+      "shopify_result": {
+        "success": true,
+        "product_id": 8294631735332,
+        "handle": "cable-accesorio-bluetooth-nebro-wd25m-carga-rapida",
+        "title": "Cable / Accesorio Bluetooth NEBRO WD25M Carga Rápida",
+        "admin_url": "https://nebro-shop.myshopify.com/admin/products/8294631735332",
+        "variant_id": 44184790401060
+      },
+      "processed_at": "2026-05-16T08:04:59.209111",
       "error": null,
       "processing_started_at": "2026-05-16T07:55:03.879398"
     },
@@ -1787,5 +1794,5 @@
       "processing_started_at": "2026-05-16T08:00:04.220212"
     }
   ],
-  "last_updated": "2026-05-16T08:04:53.847626"
+  "last_updated": "2026-05-16T08:04:59.209789"
 }
