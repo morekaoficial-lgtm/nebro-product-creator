@@ -2049,7 +2049,7 @@
     {
       "id": "6a65f305",
       "submitted_at": "2026-05-16T18:39:21.647017",
-      "status": "processing",
+      "status": "done",
       "data": {
         "tipo": "Cargador",
         "marca": "NEBRO",
@@ -2063,8 +2063,15 @@
         "alto_cm": 11.0
       },
       "seo_content": null,
-      "shopify_result": null,
-      "processed_at": null,
+      "shopify_result": {
+        "success": true,
+        "product_id": 8294872678436,
+        "handle": "cargador-bluetooth-nebro-vga206-70w-carga-rapida",
+        "title": "Cargador Bluetooth NEBRO VGA206 70W Carga Rápida",
+        "admin_url": "https://nebro-shop.myshopify.com/admin/products/8294872678436",
+        "variant_id": 44186368999460
+      },
+      "processed_at": "2026-05-17T02:58:10.410333",
       "error": null,
       "processing_started_at": "2026-05-17T02:57:59.430366"
     },
@@ -2091,5 +2098,5 @@
       "processing_started_at": "2026-05-17T02:57:59.430406"
     }
   ],
-  "last_updated": "2026-05-16T18:44:16.971284"
+  "last_updated": "2026-05-17T02:58:10.410989"
 }
