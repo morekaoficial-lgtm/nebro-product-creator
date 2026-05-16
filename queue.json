@@ -1991,7 +1991,7 @@
     {
       "id": "361eb064",
       "submitted_at": "2026-05-16T18:30:06.848921",
-      "status": "processing",
+      "status": "done",
       "data": {
         "tipo": "Bocina",
         "marca": "NEBRO",
@@ -2005,8 +2005,15 @@
         "alto_cm": 13.0
       },
       "seo_content": null,
-      "shopify_result": null,
-      "processed_at": null,
+      "shopify_result": {
+        "success": true,
+        "product_id": 8294871105572,
+        "handle": "bocina-bluetooth-tws-collar-nebro-wg085-ipx6",
+        "title": "Bocina Bluetooth TWS Collar NEBRO WG085 IPX6",
+        "admin_url": "https://nebro-shop.myshopify.com/admin/products/8294871105572",
+        "variant_id": 44186361036836
+      },
+      "processed_at": "2026-05-17T02:37:51.244469",
       "error": null,
       "processing_started_at": "2026-05-17T02:37:40.646111"
     },
@@ -2033,5 +2040,5 @@
       "processing_started_at": "2026-05-17T02:37:40.646139"
     }
   ],
-  "last_updated": "2026-05-16T18:34:53.546190"
+  "last_updated": "2026-05-17T02:37:51.245782"
 }
