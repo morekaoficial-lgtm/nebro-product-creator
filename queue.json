@@ -2066,7 +2066,28 @@
       "shopify_result": null,
       "processed_at": null,
       "error": null
+    },
+    {
+      "id": "191f3534",
+      "submitted_at": "2026-05-16T18:44:16.971245",
+      "status": "pending",
+      "data": {
+        "tipo": "Cable / Accesorio",
+        "marca": "NEBRO",
+        "modelo": "WD-306TL",
+        "descripcion_raw": "Cargent\n\n0\n\nmebro\n\nC-L 30W\n\nCable De Carga Rápida Trenzado De Colores\n\n1.2M\n\nWD-306TL\n30W+ |\n\nC-L\n\nCable De Carga Rápida Trenzado De Colores\n\nWD-306TL\nModelo WD-306TL\n\nTamaña 1.2M\n\nEntrada Tipo-CP\n\nMaterial Aleacion de zinc + alambre trenzado",
+        "precio_venta": 126.0,
+        "costo_producto": 42.0,
+        "peso_kg": 0.103,
+        "largo_cm": 17.0,
+        "ancho_cm": 4.0,
+        "alto_cm": 9.0
+      },
+      "seo_content": null,
+      "shopify_result": null,
+      "processed_at": null,
+      "error": null
     }
   ],
-  "last_updated": "2026-05-16T18:39:21.647050"
+  "last_updated": "2026-05-16T18:44:16.971284"
 }
