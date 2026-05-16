@@ -2008,7 +2008,28 @@
       "shopify_result": null,
       "processed_at": null,
       "error": null
+    },
+    {
+      "id": "985ca8cb",
+      "submitted_at": "2026-05-16T18:34:53.546156",
+      "status": "pending",
+      "data": {
+        "tipo": "Soporte",
+        "marca": "NEBRO",
+        "modelo": "WAT-094",
+        "descripcion_raw": "Plegable hacia arriba y hacia abajo\n\nmaterial Metático\n\nEstable y fuerte\n\n360\n\nsin prantes ciego\n\nmebro\n\n360° ROTATING\nBase de placa de acero al carbono La base está firmemente apoyada y no es fácil TOT IP sobre.\n\nMaterial de aleación de aluminio\n\nImpermeable, antiincrustante, sin deformación, estable y duradero.\n\n360\n\nGiratorio 360°\n\nRotacion de 360° y ajuste libre sin ángulo muerto\n\nAlmacenamiento plegable\n\nAleación mejorada, ligera y portátil, paquete ITU pan's go.",
+        "precio_venta": 297.0,
+        "costo_producto": 99.0,
+        "peso_kg": 0.368,
+        "largo_cm": 20.0,
+        "ancho_cm": 6.0,
+        "alto_cm": 12.0
+      },
+      "seo_content": null,
+      "shopify_result": null,
+      "processed_at": null,
+      "error": null
     }
   ],
-  "last_updated": "2026-05-16T18:30:06.848951"
+  "last_updated": "2026-05-16T18:34:53.546190"
 }
