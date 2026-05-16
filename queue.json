@@ -1817,7 +1817,7 @@
     {
       "id": "ff60422c",
       "submitted_at": "2026-05-16T02:20:20.483222",
-      "status": "processing",
+      "status": "done",
       "data": {
         "tipo": "Cable / Accesorio",
         "marca": "NEBRO",
@@ -1831,11 +1831,18 @@
         "alto_cm": 8.0
       },
       "seo_content": null,
-      "shopify_result": null,
-      "processed_at": null,
+      "shopify_result": {
+        "success": true,
+        "product_id": 8294643335204,
+        "handle": "cable-accesorio-bluetooth-nebro-wd302l-12w-carga-rapida",
+        "title": "Cable / Accesorio Bluetooth NEBRO WD302L 12W Carga Rápida",
+        "admin_url": "https://nebro-shop.myshopify.com/admin/products/8294643335204",
+        "variant_id": 44184842698788
+      },
+      "processed_at": "2026-05-16T10:25:44.426319",
       "error": null,
       "processing_started_at": "2026-05-16T10:25:03.206118"
     }
   ],
-  "last_updated": "2026-05-16T02:20:20.483247"
+  "last_updated": "2026-05-16T10:25:44.427100"
 }
