@@ -1813,7 +1813,28 @@
       "processed_at": "2026-05-16T08:05:14.018296",
       "error": null,
       "processing_started_at": "2026-05-16T08:00:04.220212"
+    },
+    {
+      "id": "ff60422c",
+      "submitted_at": "2026-05-16T02:20:20.483222",
+      "status": "pending",
+      "data": {
+        "tipo": "Cable / Accesorio",
+        "marca": "NEBRO",
+        "modelo": "WD-302L",
+        "descripcion_raw": "Carga Rápida Sincrónica\n\nReconocimiento de corriente inteligente, carga completa rápida, diga adiós a la ansiedad por la energía.\n\nCompatibilidad Inteligente\n\nIdentifica de forma inteligente todos los dispositivos y es compatible con todos los dispositivos de carga.\n\nResistencia A La Flexión\n\nCon alta resistencia y tenacidad, puede soportar fácilmente miles de curvas y no es fácil de romper o desconectar.\n\nChip Inteligente Incorporado\n\nLa carga rápida no daña el dispositivo y se adapta de forma inteligente a la corriente requerida por el dispositivo.\n\nFICHA TÉCNICA:\n\nModelo: WD-302L\n\nEntrada: USB-A iP\n\nSalida: 2.4A\n\nTamaño: 1.2M\n\nCompatibilidad: Dispositivos móviles y tabletas\n\nMaterial: PVC\nWD-302L\n\nmebro\n\n12w\n\nM\n\niP | 1200MM\n\nCable De Datos De Carga Rápida De PVC\n\nCarga Rápida Sincrónica\n\nCompatibilidad Inteligente\n\nResistencia A La Flexión",
+        "precio_venta": 27.0,
+        "costo_producto": 9.0,
+        "peso_kg": 0.1,
+        "largo_cm": 13.0,
+        "ancho_cm": 4.0,
+        "alto_cm": 8.0
+      },
+      "seo_content": null,
+      "shopify_result": null,
+      "processed_at": null,
+      "error": null
     }
   ],
-  "last_updated": "2026-05-16T08:05:14.019288"
+  "last_updated": "2026-05-16T02:20:20.483247"
 }
