@@ -1933,7 +1933,7 @@
     {
       "id": "6235869e",
       "submitted_at": "2026-05-16T18:09:51.683660",
-      "status": "processing",
+      "status": "done",
       "data": {
         "tipo": "Bocina",
         "marca": "NEBRO",
@@ -1947,8 +1947,15 @@
         "alto_cm": 19.0
       },
       "seo_content": null,
-      "shopify_result": null,
-      "processed_at": null,
+      "shopify_result": {
+        "success": true,
+        "product_id": 8294855475236,
+        "handle": "bocina-bluetooth-tws-nebro-wg141-bluetooth-53-120w-ipx4",
+        "title": "Bocina Bluetooth TWS NEBRO WG141 Bluetooth 53 120W IPX4",
+        "admin_url": "https://nebro-shop.myshopify.com/admin/products/8294855475236",
+        "variant_id": 44186171768868
+      },
+      "processed_at": "2026-05-17T02:27:50.896115",
       "error": null,
       "processing_started_at": "2026-05-17T02:27:39.481864"
     },
@@ -1975,5 +1982,5 @@
       "processing_started_at": "2026-05-17T02:27:39.481891"
     }
   ],
-  "last_updated": "2026-05-16T18:21:24.119009"
+  "last_updated": "2026-05-17T02:27:50.896754"
 }
