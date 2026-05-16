@@ -1846,7 +1846,7 @@
     {
       "id": "33d65094",
       "submitted_at": "2026-05-16T15:53:36.742294",
-      "status": "processing",
+      "status": "done",
       "data": {
         "tipo": "Cable / Accesorio",
         "marca": "NEBRO",
@@ -1860,8 +1860,15 @@
         "alto_cm": 9.0
       },
       "seo_content": null,
-      "shopify_result": null,
-      "processed_at": null,
+      "shopify_result": {
+        "success": true,
+        "product_id": 8294783287332,
+        "handle": "cable-accesorio-bluetooth-nebro-wd301l-carga-rapida",
+        "title": "Cable / Accesorio Bluetooth NEBRO WD301L Carga Rápida",
+        "admin_url": "https://nebro-shop.myshopify.com/admin/products/8294783287332",
+        "variant_id": 44185422725156
+      },
+      "processed_at": "2026-05-17T00:20:16.034482",
       "error": null,
       "processing_started_at": "2026-05-17T00:17:21.654686"
     },
@@ -1888,5 +1895,5 @@
       "processing_started_at": "2026-05-17T00:17:21.654739"
     }
   ],
-  "last_updated": "2026-05-16T15:55:14.860236"
+  "last_updated": "2026-05-17T00:20:16.035136"
 }
