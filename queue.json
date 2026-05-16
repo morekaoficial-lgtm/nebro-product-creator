@@ -1904,7 +1904,7 @@
     {
       "id": "431b5600",
       "submitted_at": "2026-05-16T16:37:33.854698",
-      "status": "processing",
+      "status": "done",
       "data": {
         "tipo": "Bocina",
         "marca": "NEBRO",
@@ -1918,11 +1918,18 @@
         "alto_cm": 14.0
       },
       "seo_content": null,
-      "shopify_result": null,
-      "processed_at": null,
+      "shopify_result": {
+        "success": true,
+        "product_id": 8294784401444,
+        "handle": "bocina-bluetooth-tws-nebro-wg080-bluetooth-50-40w-carga-rapida",
+        "title": "Bocina Bluetooth TWS NEBRO WG080 Bluetooth 50 40W Carga Rápida",
+        "admin_url": "https://nebro-shop.myshopify.com/admin/products/8294784401444",
+        "variant_id": 44185428099108
+      },
+      "processed_at": "2026-05-17T00:44:45.570611",
       "error": null,
       "processing_started_at": "2026-05-17T00:43:56.518168"
     }
   ],
-  "last_updated": "2026-05-16T16:37:33.854722"
+  "last_updated": "2026-05-17T00:44:45.571156"
 }
