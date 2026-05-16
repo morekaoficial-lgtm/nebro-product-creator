@@ -1900,7 +1900,28 @@
       "processed_at": "2026-05-17T00:20:20.996880",
       "error": null,
       "processing_started_at": "2026-05-17T00:17:21.654739"
+    },
+    {
+      "id": "431b5600",
+      "submitted_at": "2026-05-16T16:37:33.854698",
+      "status": "pending",
+      "data": {
+        "tipo": "Bocina",
+        "marca": "NEBRO",
+        "modelo": "WG-080",
+        "descripcion_raw": "nebro\n\nGARANTIZADO\n\nWG-080\n\n\"\n\nmebro\n\nMANUAL DEL USUARIO\n\nAltavoces inalámbricos portátiles de karaoke\n\nEl sombrero está en la Caja\n\n1 x altavoz inalámbrico WG-080\n\n1 x cable de carga tipo-C\n\n2x micrófono inalámbrico\n\n00\n\n1 x 3.5 mm de ayuda\n\nmanual del usuario\n\n1 x Correa\n\n2.2\n\nNormas\n\nVersión BT: 5.0\nPotencia: 40W\n\n\nRespuesta de frecuencia: 50hz-18khz\n \nRango libre de virus: ≥10m\n\n\n\nCapacidad de la batería: 4000mah\n\nEntrada de alimentación:\n\ntipo-C 5V/2A\n\n\n\nTiempo de carga:  5horas\nTiempo de colocación: 5-6 horas\n\n\nTamaño: 160* 161*90 mm\n\nPeso: 1.560 gramos\n\n\nBotones\n\nConfiguración del botón\n\nFunción\n\nOMBD-\n\nEncendido/apagado de la fuente de alimentación/luz RGB/ Juz RGB/TWS\n\nModo Micrófono encendido/apagado\n\nReproducción/pausa/respuesta/ rechazo de llamadas\n\nVolúmenes/Repertorio anterior.\n\nVolúmenes+/siguiente pista\n\nAyudas\n\nRanuras TF\n\nPuertos USB\n\nDesconectar BT\n\nfuente de Encender la alimentación\n\nApagado de la alimentación\n\nElectricidad\n\nBrillo RGB\n\nModo\n\nOperación\n\nPresione el botón \"power\" durante 1 segundo y el altavoz entrará en el modo de emparejamiento bluetooth.\n\nVuelva a presionar el botón \"power\" para apagar el altavoz.\n\nDespués de que el altavoz está encendido, solo tiene que presionar el botón \"power\" para cambiar el modo de luz rgb\n\nDoble clic en el botón \"power\" para activar el modo de emparejamiento TWS o doble clic de nuevo para salin modo TWS TWS\n\nPresione el botón \"modo\" una vez y cambie entre los 4 modos de reproducción BT/memoria flash/tarjeta TF/ modo de entrada auxiliar\n\nPresione el botón \"modo\" durante 3 segundos para desconectar del Blu\nBotones\n\nConfiguración del botón\n\nFunción\n\nOMBD-\n\nEncendido/apagado de la fuente de alimentación/luz RGB/ Juz RGB/TWS\n\nModo Micrófono encendido/apagado\n\nReproducción/pausa/respuesta/ rechazo de llamadas\n\nVolúmenes/Repertorio anterior.\n\nVolúmenes+/siguiente pista\n\nAyudas\n\nRanuras TF\n\nPuertos USB\n\nDesconectar BT\n\nfuente de Encender la alimentación\n\nApagado de la alimentación\n\nElectricidad\n\nBrillo RGB\n\nModo\n\nOperación\n\nPresione el botón \"power\" durante 1 segundo y el altavoz entrará en el modo de emparejamiento bluetooth.\n\nVuelva a presionar el botón \"power\" para apagar el altavoz.\n\nDespués de que el altavoz está encendido, solo tiene que presionar el botón \"power\" para cambiar el modo de luz rgb\n\nDoble clic en el botón \"power\" para activar el modo de emparejamiento TWS o doble clic de nuevo para salin modo TWS TWS\n\nPresione el botón \"modo\" una vez y cambie entre los 4 modos de reproducción BT/memoria flash/tarjeta TF/ modo de entrada auxiliar\n\nPresione el botón \"modo\" durante 3 segundos para desconectar del Blu\nBluetooth 5.0\n\nDSP\n\nSonido digital\n\nBanco de energia eléctrica\n\nCarga rápida\n\nMicrófono inalámbrico\n\n40 W\n\nReproducción AUX\n\nReproducción USB\n\nTWS\n\nReproducción TF",
+        "precio_venta": 2250.0,
+        "costo_producto": 750.0,
+        "peso_kg": 2190.0,
+        "largo_cm": 23.0,
+        "ancho_cm": 23.0,
+        "alto_cm": 14.0
+      },
+      "seo_content": null,
+      "shopify_result": null,
+      "processed_at": null,
+      "error": null
     }
   ],
-  "last_updated": "2026-05-17T00:20:20.997638"
+  "last_updated": "2026-05-16T16:37:33.854722"
 }
