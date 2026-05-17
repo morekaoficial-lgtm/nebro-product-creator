@@ -2153,7 +2153,28 @@
       "shopify_result": null,
       "processed_at": null,
       "error": null
+    },
+    {
+      "id": "dc6da8f1",
+      "submitted_at": "2026-05-17T02:53:34.024282",
+      "status": "pending",
+      "data": {
+        "tipo": "Cable / Accesorio",
+        "marca": "NEBRO",
+        "modelo": "WD-307",
+        "descripcion_raw": "USB-A-FC Too-C-Ligtersing\n\nCuatro modes para cambiar a voluntar\n\n27W\n\nTYPE-C\n\nmebro\n\n1.2M\n\n65\n\n4 in 1\n\nCable De Datos De Carga Rápida Multifuncional\n\nLongilud De Linea\n\nVenocidalil De Transmisión De 480 Maps\n\nWD-307\n4 in 1\n\nCable De Datos De Carga Rápida Multifuncional\n\n모\n\n9:41\n\nAmplia compatibilidad\n\nCompatible con disparu telaton movies, t carga rapida, fodes e pun\n\nAdaptación inteligente de la corriente requerida\n\nHilo de silicona liquida\n\nModelo: WD-307",
+        "precio_venta": 75.0,
+        "costo_producto": 25.0,
+        "peso_kg": 0.059,
+        "largo_cm": 13.0,
+        "ancho_cm": 8.0,
+        "alto_cm": 3.0
+      },
+      "seo_content": null,
+      "shopify_result": null,
+      "processed_at": null,
+      "error": null
     }
   ],
-  "last_updated": "2026-05-17T02:49:12.575268"
+  "last_updated": "2026-05-17T02:53:34.024309"
 }
