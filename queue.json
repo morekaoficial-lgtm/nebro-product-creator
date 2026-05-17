@@ -2165,7 +2165,7 @@
     {
       "id": "dc6da8f1",
       "submitted_at": "2026-05-17T02:53:34.024282",
-      "status": "processing",
+      "status": "done",
       "data": {
         "tipo": "Cable / Accesorio",
         "marca": "NEBRO",
@@ -2179,11 +2179,18 @@
         "alto_cm": 3.0
       },
       "seo_content": null,
-      "shopify_result": null,
-      "processed_at": null,
+      "shopify_result": {
+        "success": true,
+        "product_id": 8294962135076,
+        "handle": "cable-accesorio-bluetooth-nebro-wd307-27w-carga-rapida",
+        "title": "Cable / Accesorio Bluetooth NEBRO WD307 27W Carga Rápida",
+        "admin_url": "https://nebro-shop.myshopify.com/admin/products/8294962135076",
+        "variant_id": 44186994769956
+      },
+      "processed_at": "2026-05-17T11:09:52.564458",
       "error": null,
       "processing_started_at": "2026-05-17T11:09:02.115839"
     }
   ],
-  "last_updated": "2026-05-17T11:09:48.652084"
+  "last_updated": "2026-05-17T11:09:52.565206"
 }
