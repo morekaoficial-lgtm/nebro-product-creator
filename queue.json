@@ -2132,7 +2132,28 @@
       "processed_at": "2026-05-17T03:07:48.252040",
       "error": null,
       "processing_started_at": "2026-05-17T03:07:36.869997"
+    },
+    {
+      "id": "a6a64bdd",
+      "submitted_at": "2026-05-17T02:49:12.575234",
+      "status": "pending",
+      "data": {
+        "tipo": "Cable / Accesorio",
+        "marca": "NEBRO",
+        "modelo": "WD-306TT",
+        "descripcion_raw": "Carga nigatia de alt\n\nNucleodrabambine\n\nPentattalig\n\n100%\n\n100W\n\nX\n\nTebro\n\nX\n\n100W+C-C\n\nCable De Carga Rápida frenizado De Colares\n\n1.2M\nModelo: WD-306TT\n\nTamaño: 1.2M\n\nEntrada Tipo-Ca Tipo-C\n\nMaterial: Alcación de zinc + alambre trenzado",
+        "precio_venta": 126.0,
+        "costo_producto": 42.0,
+        "peso_kg": 0.106,
+        "largo_cm": 17.0,
+        "ancho_cm": 4.0,
+        "alto_cm": 9.0
+      },
+      "seo_content": null,
+      "shopify_result": null,
+      "processed_at": null,
+      "error": null
     }
   ],
-  "last_updated": "2026-05-17T03:07:48.252668"
+  "last_updated": "2026-05-17T02:49:12.575268"
 }
