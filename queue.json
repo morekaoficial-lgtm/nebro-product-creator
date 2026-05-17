@@ -2136,7 +2136,7 @@
     {
       "id": "a6a64bdd",
       "submitted_at": "2026-05-17T02:49:12.575234",
-      "status": "processing",
+      "status": "done",
       "data": {
         "tipo": "Cable / Accesorio",
         "marca": "NEBRO",
@@ -2150,8 +2150,15 @@
         "alto_cm": 9.0
       },
       "seo_content": null,
-      "shopify_result": null,
-      "processed_at": null,
+      "shopify_result": {
+        "success": true,
+        "product_id": 8294962102308,
+        "handle": "cable-accesorio-bluetooth-nebro-wd306tt-100w-carga-rapida",
+        "title": "Cable / Accesorio Bluetooth NEBRO WD306TT 100W Carga Rápida",
+        "admin_url": "https://nebro-shop.myshopify.com/admin/products/8294962102308",
+        "variant_id": 44186994737188
+      },
+      "processed_at": "2026-05-17T11:09:48.651004",
       "error": null,
       "processing_started_at": "2026-05-17T11:09:02.115814"
     },
@@ -2178,5 +2185,5 @@
       "processing_started_at": "2026-05-17T11:09:02.115839"
     }
   ],
-  "last_updated": "2026-05-17T02:53:34.024309"
+  "last_updated": "2026-05-17T11:09:48.652084"
 }
